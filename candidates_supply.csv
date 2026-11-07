@@ -1,0 +1,2513 @@
+formula,voltage_mp,voltage_pred,capacity_mAh_g,energy_Wh_kg,split,tracked_elements,not_tracked,riskiest_element,its_top_country,its_top_share_pct,has_south_africa_metal,has_zimbabwe_metal
+K2NiF6,4.95,5.055,104.0,514.6,train,Ni,F K,Ni,Indonesia,72.3,False,False
+VFeP2(O4F)2,4.543,3.509,226.1,1027.4,validation,Fe V,F O P,V,China,72.4,False,False
+MnF4,4.034,4.305,185.1,746.5,train,Mn,F,Mn,South Africa,40.3,True,False
+FePO4F,4.009,3.571,291.8,1169.9,train,Fe,F O P,Fe,Australia,38.5,False,False
+VFeP2(O4F)2,1.993,3.168,78.4,156.4,validation,Fe V,F O P,V,China,72.4,False,False
+VH2OF5,3.923,4.114,226.1,886.8,train,V,F H O,V,China,72.4,False,False
+MnF3,4.505,4.866,116.1,523.1,train,Mn,F,Mn,South Africa,40.3,True,False
+TiH6(OF3)2,1.7,1.627,129.6,220.3,train,Ti,F H O,Ti,China,35.0,True,False
+K2MnF6,3.723,3.887,105.5,392.7,train,Mn,F K,Mn,South Africa,40.3,True,False
+MnF8,4.52,4.422,110.9,501.3,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF6,4.538,4.589,141.2,640.9,train,Mn,F,Mn,South Africa,40.3,True,False
+Mn7F16,3.641,3.69,76.3,277.8,train,Mn,F,Mn,South Africa,40.3,True,False
+Mn2F7,4.688,4.445,208.8,978.8,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF5,4.33,4.064,313.9,1359.3,train,Mn,F,Mn,South Africa,40.3,True,False
+Mn2F7,4.543,4.667,104.4,474.2,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF5,3.669,4.284,157.0,575.9,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF5,4.371,4.107,313.9,1372.0,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF6,4.423,3.99,282.5,1249.5,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF3,4.52,4.678,116.1,524.8,train,Mn,F,Mn,South Africa,40.3,True,False
+Mn3F8,4.226,4.207,162.1,685.0,validation,Mn,F,Mn,South Africa,40.3,True,False
+MnF4,4.019,4.236,185.1,743.9,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF8,4.32,4.04,215.6,931.5,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF6,4.723,4.776,141.2,667.1,train,Mn,F,Mn,South Africa,40.3,True,False
+Mn2F9,4.92,4.84,177.7,874.3,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF7,4.611,4.561,124.3,572.9,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF6,3.815,4.559,141.2,538.8,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF3,4.544,4.792,116.1,527.6,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF7,4.586,4.617,124.3,569.9,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF4,4.093,4.203,185.1,757.5,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF3,4.253,4.202,225.5,958.9,train,Mn,F,Mn,South Africa,40.3,True,False
+Mn2F7,4.922,4.756,208.8,1027.5,train,Mn,F,Mn,South Africa,40.3,True,False
+Mn2F7,5.479,5.174,107.3,587.9,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF4,4.836,4.063,370.2,1790.0,train,Mn,F,Mn,South Africa,40.3,True,False
+Mn7F18,3.908,4.436,72.4,282.9,validation,Mn,F,Mn,South Africa,40.3,True,False
+Mn2F5,4.29,4.078,126.5,542.9,train,Mn,F,Mn,South Africa,40.3,True,False
+Mn3F10,4.87,4.767,145.4,708.0,validation,Mn,F,Mn,South Africa,40.3,True,False
+MnF4,4.841,4.365,370.2,1792.0,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF3,3.98,4.018,225.5,897.3,train,Mn,F,Mn,South Africa,40.3,True,False
+Mn2F5,4.316,4.168,126.5,546.2,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF3,4.0,3.859,225.5,901.8,train,Mn,F,Mn,South Africa,40.3,True,False
+Mn2F7,4.913,4.624,208.8,1025.8,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF3,4.079,4.505,138.5,564.9,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF6,4.257,4.701,141.2,601.3,train,Mn,F,Mn,South Africa,40.3,True,False
+MnF6,4.015,4.001,272.5,1094.1,train,Mn,F,Mn,South Africa,40.3,True,False
+Mn5O3F5,2.652,2.778,63.1,167.4,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn4OF8,3.598,3.775,133.5,480.3,validation,Mn,F O,Mn,South Africa,40.3,True,False
+Mn2OF3,3.106,3.269,141.2,438.6,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn5O9F,3.204,2.939,283.7,908.8,validation,Mn,F O,Mn,South Africa,40.3,True,False
+Mn2O3F,4.05,3.824,145.8,590.5,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn5O3F5,2.728,2.656,63.1,172.2,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn(O2F)2,1.401,2.071,126.1,176.8,validation,Mn,F O,Mn,South Africa,40.3,True,False
+Mn3OF8,3.625,3.944,223.0,808.5,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn2OF3,3.003,3.101,141.2,424.0,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn5OF11,3.995,3.96,154.5,617.1,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn5O7F,3.704,3.274,65.0,240.6,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn3(OF3)2,3.36,3.315,237.5,797.9,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn3(OF3)2,4.961,4.754,84.3,418.5,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn(O2F)2,4.534,2.053,126.1,571.9,validation,Mn,F O,Mn,South Africa,40.3,True,False
+Mn2O2F3,4.526,4.398,130.2,589.4,train,Mn,F O,Mn,South Africa,40.3,True,False
+MnOF4,2.805,3.509,153.4,430.4,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn3(OF2)2,2.881,3.756,48.5,139.7,validation,Mn,F O,Mn,South Africa,40.3,True,False
+Mn3OF6,3.685,3.881,173.6,639.9,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn2OF3,3.053,3.325,141.2,431.0,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn7(OF3)3,3.274,3.058,43.9,143.7,test,Mn,F O,Mn,South Africa,40.3,True,False
+Mn5O5F,2.152,2.32,70.4,151.5,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn3OF6,3.575,3.645,173.6,620.9,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn6O5F7,2.944,3.635,48.8,143.6,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn5OF11,3.79,3.928,154.5,585.5,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn3O5F3,2.655,2.945,159.3,422.9,train,Mn,F O,Mn,South Africa,40.3,True,False
+MnOF3,2.865,2.913,180.2,516.3,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn7O7F,2.229,2.216,51.3,114.3,train,Mn,F O,Mn,South Africa,40.3,True,False
+Mn5OF11,3.779,3.832,154.5,583.8,train,Mn,F O,Mn,South Africa,40.3,True,False
+MnPO4F,4.127,3.921,293.2,1210.3,train,Mn,F O P,Mn,South Africa,40.3,True,False
+MnPO4F,4.072,4.024,152.4,620.7,train,Mn,F O P,Mn,South Africa,40.3,True,False
+Mn2P2O7F2,5.093,4.34,159.7,813.2,train,Mn,F O P,Mn,South Africa,40.3,True,False
+MnPO4F,3.961,4.16,146.6,580.8,train,Mn,F O P,Mn,South Africa,40.3,True,False
+V4(OF3)3,2.732,2.799,238.0,650.0,train,V,F O,V,China,72.4,False,False
+VPO4F,2.813,2.586,299.8,843.4,train,V,F O P,V,China,72.4,False,False
+V2OF5,3.081,2.876,121.9,375.6,test,V,F O,V,China,72.4,False,False
+NiPO4F,4.693,5.021,143.7,674.2,train,Ni,F O P,Ni,Indonesia,72.3,False,False
+SbP(OF3)2,3.197,3.518,171.5,548.2,train,,F O P Sb,,,0.0,False,False
+V4OF11,2.946,2.784,61.5,181.2,train,V,F O,V,China,72.4,False,False
+Rb2NiF6,4.587,5.088,76.5,350.7,test,Ni,F Rb,Ni,Indonesia,72.3,False,False
+SbSO4F3,4.297,4.325,185.7,797.8,train,,F O S Sb,,,0.0,False,False
+MnVP2(O4F)2,3.725,3.635,226.7,844.6,train,Mn V,F O P,V,China,72.4,True,False
+Rb2MnF6,3.382,4.315,77.3,261.3,test,Mn,F Rb,Mn,South Africa,40.3,True,False
+NbO2F,1.694,3.322,177.7,301.0,validation,Nb,F O,Nb,Brazil,93.3,False,False
+V(OF)2,3.22,3.512,198.8,640.2,train,V,F O,V,China,72.4,False,False
+NaMoF6,2.421,2.18,217.2,525.9,train,Mo,F Na,Mo,China,37.3,False,False
+VSO4F3,4.318,4.513,246.0,1062.2,validation,V,F O S,V,China,72.4,False,False
+Nb3O7F,2.328,2.936,64.3,149.8,train,Nb,F O,Nb,Brazil,93.3,False,False
+Ni(O2F)2,2.265,2.129,124.0,280.8,test,Ni,F O,Ni,Indonesia,72.3,False,False
+TiPO4F,1.112,1.508,305.0,339.2,train,Ti,F O P,Ti,China,35.0,True,False
+PWO4F,2.344,2.416,87.9,206.2,train,W,F O P,W,China,81.0,False,False
+NiPO4F,5.058,4.718,287.3,1453.3,train,Ni,F O P,Ni,Indonesia,72.3,False,False
+VPO4F,2.007,2.819,149.9,300.9,train,V,F O P,V,China,72.4,False,False
+VOF3,3.76,3.447,388.9,1462.3,validation,V,F O,V,China,72.4,False,False
+NbF5,2.275,2.854,137.6,313.0,validation,Nb,F,Nb,Brazil,93.3,False,False
+MnPO4F,4.036,3.939,293.2,1183.6,train,Mn,F O P,Mn,South Africa,40.3,True,False
+VP2(O4F)2,3.824,4.129,85.5,326.8,validation,V,F O P,V,China,72.4,False,False
+V6O7F5,1.962,2.382,51.6,101.2,validation,V,F O,V,China,72.4,False,False
+V2OF6,4.06,3.586,218.1,885.5,train,V,F O,V,China,72.4,False,False
+VO3F2,2.031,2.366,312.3,634.4,train,V,F O,V,China,72.4,False,False
+V4O5F7,3.438,3.362,63.3,217.5,train,V,F O,V,China,72.4,False,False
+VO3F2,2.877,2.869,162.7,468.2,train,V,F O,V,China,72.4,False,False
+VO3F,2.889,2.802,193.1,557.9,train,V,F O,V,China,72.4,False,False
+V2O2F3,3.208,2.96,135.5,434.7,validation,V,F O,V,China,72.4,False,False
+V(OF)2,3.024,3.866,102.0,308.5,train,V,F O,V,China,72.4,False,False
+V6O7F5,3.429,2.575,51.6,176.9,validation,V,F O,V,China,72.4,False,False
+V6O7F5,2.19,2.418,51.6,113.0,validation,V,F O,V,China,72.4,False,False
+V3(OF)4,3.72,3.3,174.8,650.2,train,V,F O,V,China,72.4,False,False
+V4O5F7,3.338,3.352,63.3,211.2,train,V,F O,V,China,72.4,False,False
+V4OF11,2.575,2.799,61.5,158.4,train,V,F O,V,China,72.4,False,False
+V2OF5,3.443,3.011,121.9,419.7,test,V,F O,V,China,72.4,False,False
+V6O5F19,4.129,4.119,171.5,708.2,train,V,F O,V,China,72.4,False,False
+V(OF)2,2.302,2.645,189.1,435.2,train,V,F O,V,China,72.4,False,False
+V4(OF3)3,2.935,2.854,181.3,532.0,train,V,F O,V,China,72.4,False,False
+V6O5F19,3.64,3.555,358.2,1304.1,train,V,F O,V,China,72.4,False,False
+V3OF11,4.053,3.815,198.3,803.4,train,V,F O,V,China,72.4,False,False
+VOF3,4.051,4.228,204.8,829.6,validation,V,F O,V,China,72.4,False,False
+VOF3,4.452,4.192,204.8,911.8,validation,V,F O,V,China,72.4,False,False
+V6O5F19,4.241,3.933,171.5,727.4,train,V,F O,V,China,72.4,False,False
+V3(OF3)2,3.344,2.94,87.7,293.2,train,V,F O,V,China,72.4,False,False
+V3(O2F)2,2.755,2.459,102.4,282.1,train,V,F O,V,China,72.4,False,False
+V2OF5,2.801,2.849,121.9,341.5,test,V,F O,V,China,72.4,False,False
+V4OF11,2.488,2.759,61.5,153.0,train,V,F O,V,China,72.4,False,False
+V2OF5,3.015,2.864,121.9,367.6,test,V,F O,V,China,72.4,False,False
+VOF3,3.077,3.352,194.5,598.3,validation,V,F O,V,China,72.4,False,False
+VOF5,4.11,4.354,146.7,602.7,test,V,F O,V,China,72.4,False,False
+V3OF11,4.261,4.139,69.7,296.8,train,V,F O,V,China,72.4,False,False
+V4(OF3)3,5.324,3.278,238.0,1266.9,train,V,F O,V,China,72.4,False,False
+V5O9F,1.627,1.967,59.2,96.4,train,V,F O,V,China,72.4,False,False
+V4OF11,2.5,2.763,61.5,153.8,train,V,F O,V,China,72.4,False,False
+V2OF5,2.992,2.863,121.9,364.8,test,V,F O,V,China,72.4,False,False
+V2(OF)3,3.392,3.316,125.3,425.2,train,V,F O,V,China,72.4,False,False
+V2OF7,4.048,3.901,295.9,1198.1,test,V,F O,V,China,72.4,False,False
+V6O5F19,4.134,3.983,171.5,709.1,train,V,F O,V,China,72.4,False,False
+V2O2F3,3.284,2.957,135.5,444.9,validation,V,F O,V,China,72.4,False,False
+V3OF11,4.573,4.17,69.7,318.6,train,V,F O,V,China,72.4,False,False
+VOF3,4.045,3.834,204.8,828.4,validation,V,F O,V,China,72.4,False,False
+V4O5F7,4.115,3.317,63.3,260.3,train,V,F O,V,China,72.4,False,False
+VOF4,4.205,4.324,170.9,718.7,train,V,F O,V,China,72.4,False,False
+V2OF5,3.038,2.878,121.9,370.4,test,V,F O,V,China,72.4,False,False
+V4OF11,2.99,2.874,61.5,183.9,train,V,F O,V,China,72.4,False,False
+V2O3F,2.462,2.252,152.4,375.3,train,V,F O,V,China,72.4,False,False
+V6O7F5,1.926,2.335,51.6,99.3,validation,V,F O,V,China,72.4,False,False
+V4(OF3)3,2.997,2.909,181.3,543.3,train,V,F O,V,China,72.4,False,False
+VO2F,3.682,3.416,246.2,906.4,test,V,F O,V,China,72.4,False,False
+VOF3,4.158,4.185,204.8,851.5,validation,V,F O,V,China,72.4,False,False
+VO2F,3.219,2.621,115.7,372.5,test,V,F O,V,China,72.4,False,False
+VO3F2,2.595,3.101,162.7,422.4,train,V,F O,V,China,72.4,False,False
+VOF5,3.484,3.875,146.7,510.9,test,V,F O,V,China,72.4,False,False
+V2OF5,3.541,3.109,121.9,431.8,test,V,F O,V,China,72.4,False,False
+V3O3F5,2.027,3.048,84.6,171.6,train,V,F O,V,China,72.4,False,False
+VO5F,1.357,1.59,130.4,177.0,train,V,F O,V,China,72.4,False,False
+V4O5F7,3.47,3.363,63.3,219.5,train,V,F O,V,China,72.4,False,False
+V4O7F5,3.438,3.318,186.3,640.5,train,V,F O,V,China,72.4,False,False
+V3O5F,2.989,2.526,103.6,309.6,train,V,F O,V,China,72.4,False,False
+V4(OF3)3,4.114,3.148,181.3,745.7,train,V,F O,V,China,72.4,False,False
+V4O5F7,3.352,3.281,63.3,212.1,train,V,F O,V,China,72.4,False,False
+V6O11F,1.811,2.581,52.8,95.6,test,V,F O,V,China,72.4,False,False
+V3OF11,3.946,3.702,264.3,1043.1,train,V,F O,V,China,72.4,False,False
+V2OF5,3.375,3.207,121.9,411.6,test,V,F O,V,China,72.4,False,False
+VO5F,1.232,1.869,260.9,321.5,train,V,F O,V,China,72.4,False,False
+V6O7F5,1.879,2.349,51.6,96.9,validation,V,F O,V,China,72.4,False,False
+V4O5F7,3.099,3.136,63.3,196.0,train,V,F O,V,China,72.4,False,False
+V2(OF)3,3.345,3.392,125.3,419.3,train,V,F O,V,China,72.4,False,False
+V2(OF)3,3.357,3.372,125.3,420.7,train,V,F O,V,China,72.4,False,False
+V4OF11,2.853,2.872,61.5,175.5,train,V,F O,V,China,72.4,False,False
+V4OF12,3.234,3.149,116.1,375.6,train,V,F O,V,China,72.4,False,False
+V2OF5,2.991,2.857,121.9,364.7,test,V,F O,V,China,72.4,False,False
+V2(OF)3,3.325,3.367,125.3,416.7,train,V,F O,V,China,72.4,False,False
+V6O5F19,3.701,3.55,358.2,1325.8,train,V,F O,V,China,72.4,False,False
+V6O7F5,2.034,2.337,51.6,104.9,validation,V,F O,V,China,72.4,False,False
+VO3F,3.081,2.977,193.1,595.2,train,V,F O,V,China,72.4,False,False
+V2OF5,2.577,2.687,236.4,609.3,test,V,F O,V,China,72.4,False,False
+V4(OF3)3,2.939,2.877,181.3,532.8,train,V,F O,V,China,72.4,False,False
+VOF3,3.821,3.76,388.9,1486.2,validation,V,F O,V,China,72.4,False,False
+VO3F,2.93,2.848,193.1,566.0,train,V,F O,V,China,72.4,False,False
+V(OF)2,3.744,4.011,198.8,744.2,train,V,F O,V,China,72.4,False,False
+V4OF11,2.824,2.772,61.5,173.7,train,V,F O,V,China,72.4,False,False
+V4O5F7,3.528,3.396,63.3,223.2,train,V,F O,V,China,72.4,False,False
+V2OF5,3.469,3.039,121.9,422.9,test,V,F O,V,China,72.4,False,False
+VOF3,4.098,4.075,204.8,839.2,validation,V,F O,V,China,72.4,False,False
+V3(OF3)2,3.866,3.013,87.7,338.9,train,V,F O,V,China,72.4,False,False
+V4OF11,2.777,2.916,61.5,170.8,train,V,F O,V,China,72.4,False,False
+V4O5F7,3.313,3.325,63.3,209.6,train,V,F O,V,China,72.4,False,False
+V3OF11,3.781,3.645,264.3,999.5,train,V,F O,V,China,72.4,False,False
+V3OF11,3.875,3.655,264.3,1024.3,train,V,F O,V,China,72.4,False,False
+V4(OF3)3,2.921,2.876,181.3,529.4,train,V,F O,V,China,72.4,False,False
+VOF3,4.483,4.306,204.8,918.0,validation,V,F O,V,China,72.4,False,False
+V4(OF3)3,3.004,2.872,181.3,544.6,train,V,F O,V,China,72.4,False,False
+V3OF11,4.064,4.109,69.7,283.1,train,V,F O,V,China,72.4,False,False
+VOF4,4.501,4.316,170.9,769.2,train,V,F O,V,China,72.4,False,False
+V6O5F19,4.327,3.995,171.5,742.2,train,V,F O,V,China,72.4,False,False
+V6O5F19,4.249,4.046,171.5,728.7,train,V,F O,V,China,72.4,False,False
+V6O5F19,3.702,3.517,358.2,1326.0,train,V,F O,V,China,72.4,False,False
+V4O5F7,2.41,3.236,63.3,152.5,train,V,F O,V,China,72.4,False,False
+V6O7F5,1.986,2.313,51.6,102.5,validation,V,F O,V,China,72.4,False,False
+V2OF5,3.439,3.014,121.9,419.3,test,V,F O,V,China,72.4,False,False
+V2OF5,3.5,3.01,121.9,426.8,test,V,F O,V,China,72.4,False,False
+V4OF11,2.768,2.789,61.5,170.3,train,V,F O,V,China,72.4,False,False
+V3OF11,3.937,3.645,264.3,1040.6,train,V,F O,V,China,72.4,False,False
+V3OF11,4.308,4.172,69.7,300.1,train,V,F O,V,China,72.4,False,False
+V3OF11,4.106,4.124,69.7,286.0,train,V,F O,V,China,72.4,False,False
+V2OF7,4.522,3.992,104.0,470.1,test,V,F O,V,China,72.4,False,False
+V4OF11,2.727,2.807,61.5,167.7,train,V,F O,V,China,72.4,False,False
+V3O5F3,3.959,3.543,90.3,357.6,validation,V,F O,V,China,72.4,False,False
+V6O7F5,2.022,2.388,51.6,104.3,validation,V,F O,V,China,72.4,False,False
+V6O5F19,3.682,3.551,358.2,1319.0,train,V,F O,V,China,72.4,False,False
+VOF3,4.461,4.09,204.8,913.6,validation,V,F O,V,China,72.4,False,False
+V4O5F7,3.377,3.354,63.3,213.6,train,V,F O,V,China,72.4,False,False
+V2OF5,2.991,2.85,121.9,364.6,test,V,F O,V,China,72.4,False,False
+V2OF5,2.919,2.839,121.9,355.9,test,V,F O,V,China,72.4,False,False
+V3O5F3,3.989,3.546,90.3,360.3,validation,V,F O,V,China,72.4,False,False
+V3OF11,4.511,4.128,69.7,314.3,train,V,F O,V,China,72.4,False,False
+V3OF11,4.438,4.126,69.7,309.1,train,V,F O,V,China,72.4,False,False
+V6O5F19,3.675,3.589,358.2,1316.5,train,V,F O,V,China,72.4,False,False
+V6O5F19,3.685,3.534,358.2,1320.1,train,V,F O,V,China,72.4,False,False
+V4OF11,2.573,2.79,61.5,158.3,train,V,F O,V,China,72.4,False,False
+V4OF11,2.814,2.761,61.5,173.1,train,V,F O,V,China,72.4,False,False
+V4OF11,2.991,2.981,61.5,184.0,train,V,F O,V,China,72.4,False,False
+VOF3,4.096,3.784,204.8,838.9,validation,V,F O,V,China,72.4,False,False
+V(OF)2,4.464,4.058,51.9,231.8,train,V,F O,V,China,72.4,False,False
+V4(OF3)3,2.951,2.877,181.3,534.9,train,V,F O,V,China,72.4,False,False
+V2OF5,2.965,2.879,121.9,361.5,test,V,F O,V,China,72.4,False,False
+VO3F,3.039,2.931,193.1,586.9,train,V,F O,V,China,72.4,False,False
+V2OF5,2.977,2.864,121.9,362.9,test,V,F O,V,China,72.4,False,False
+V4OF11,2.812,2.866,61.5,173.0,train,V,F O,V,China,72.4,False,False
+V(OF)2,2.28,2.598,189.1,431.1,train,V,F O,V,China,72.4,False,False
+VO2F,2.915,2.628,115.7,337.3,test,V,F O,V,China,72.4,False,False
+V2OF5,2.989,2.868,121.9,364.5,test,V,F O,V,China,72.4,False,False
+V6O5F19,3.694,3.548,358.2,1323.4,train,V,F O,V,China,72.4,False,False
+V3OF11,4.291,4.163,69.7,298.9,train,V,F O,V,China,72.4,False,False
+V2OF5,3.393,3.22,121.9,413.7,test,V,F O,V,China,72.4,False,False
+V4(OF3)3,2.929,2.87,181.3,530.9,train,V,F O,V,China,72.4,False,False
+VOF3,3.798,3.381,388.9,1477.1,validation,V,F O,V,China,72.4,False,False
+V4O5F7,3.405,3.329,63.3,215.4,train,V,F O,V,China,72.4,False,False
+V6O7F5,2.061,2.432,51.6,106.3,validation,V,F O,V,China,72.4,False,False
+V2OF5,2.971,2.859,121.9,362.3,test,V,F O,V,China,72.4,False,False
+V2(OF)3,3.327,3.352,125.3,417.0,train,V,F O,V,China,72.4,False,False
+V4O5F7,3.412,3.305,63.3,215.8,train,V,F O,V,China,72.4,False,False
+V3OF11,3.953,3.643,264.3,1044.9,train,V,F O,V,China,72.4,False,False
+V4(OF3)3,2.932,2.882,181.3,531.4,train,V,F O,V,China,72.4,False,False
+V6O7F5,1.753,2.398,51.6,90.4,validation,V,F O,V,China,72.4,False,False
+V4(OF3)3,2.946,2.869,181.3,534.0,train,V,F O,V,China,72.4,False,False
+V2(OF)3,3.344,3.335,125.3,419.2,train,V,F O,V,China,72.4,False,False
+V4(OF3)3,2.96,2.892,181.3,536.6,train,V,F O,V,China,72.4,False,False
+SbF6,1.706,1.857,208.9,356.4,train,,F Sb,,,0.0,False,False
+VF6,4.281,4.343,236.7,1013.1,train,V,F,V,China,72.4,False,False
+Rb2VF6,3.269,3.113,78.2,255.6,train,V,F Rb,V,China,72.4,False,False
+V3F10,3.938,3.394,76.6,301.8,train,V,F,V,China,72.4,False,False
+VF4,3.3,2.866,380.7,1256.3,train,V,F,V,China,72.4,False,False
+VF6,4.373,4.241,149.9,655.4,train,V,F,V,China,72.4,False,False
+VF5,4.558,4.492,175.3,799.2,test,V,F,V,China,72.4,False,False
+VF6,4.794,5.172,149.9,718.5,train,V,F,V,China,72.4,False,False
+VF4,3.347,3.474,380.7,1274.1,train,V,F,V,China,72.4,False,False
+VF8,2.13,3.388,109.6,233.4,validation,V,F,V,China,72.4,False,False
+VF6,3.854,3.789,288.6,1112.3,train,V,F,V,China,72.4,False,False
+VF4,3.528,3.53,292.7,1032.6,train,V,F,V,China,72.4,False,False
+V2F7,2.297,2.966,107.7,247.5,train,V,F,V,China,72.4,False,False
+VF5,4.588,4.384,335.4,1538.8,test,V,F,V,China,72.4,False,False
+VF6,3.433,3.107,417.3,1432.5,train,V,F,V,China,72.4,False,False
+VF3,2.351,2.673,233.3,548.5,train,V,F,V,China,72.4,False,False
+VF6,4.384,4.601,149.9,657.2,train,V,F,V,China,72.4,False,False
+VF5,4.712,4.689,175.3,826.1,test,V,F,V,China,72.4,False,False
+VF6,4.333,4.395,288.6,1250.3,train,V,F,V,China,72.4,False,False
+V2F7,2.796,2.828,215.5,602.5,train,V,F,V,China,72.4,False,False
+VF5,4.26,4.087,335.4,1428.9,test,V,F,V,China,72.4,False,False
+VF6,4.044,4.131,288.6,1166.9,train,V,F,V,China,72.4,False,False
+VF6,4.202,4.536,149.9,629.8,train,V,F,V,China,72.4,False,False
+VF8,4.425,3.959,225.6,998.2,validation,V,F,V,China,72.4,False,False
+VF3,2.302,2.477,233.3,537.1,train,V,F,V,China,72.4,False,False
+VF7,4.629,4.284,253.2,1172.0,validation,V,F,V,China,72.4,False,False
+VF6,4.278,4.415,149.9,641.3,train,V,F,V,China,72.4,False,False
+VF5,4.626,4.28,175.3,811.0,test,V,F,V,China,72.4,False,False
+VF4,2.402,2.904,190.3,457.2,train,V,F,V,China,72.4,False,False
+VF5,4.353,4.667,175.3,763.1,test,V,F,V,China,72.4,False,False
+VF6,2.703,3.34,288.6,780.1,train,V,F,V,China,72.4,False,False
+VF5,4.874,4.563,175.3,854.5,test,V,F,V,China,72.4,False,False
+VF4,3.175,2.796,380.7,1208.8,train,V,F,V,China,72.4,False,False
+VF5,5.068,4.605,175.3,888.5,test,V,F,V,China,72.4,False,False
+VF5,4.307,4.468,175.3,755.1,test,V,F,V,China,72.4,False,False
+VF6,4.623,4.603,76.4,353.3,train,V,F,V,China,72.4,False,False
+VF4,2.31,3.058,190.3,439.6,train,V,F,V,China,72.4,False,False
+VF5,4.916,4.605,175.3,861.9,test,V,F,V,China,72.4,False,False
+VF5,4.638,4.365,175.3,813.1,test,V,F,V,China,72.4,False,False
+VF5,3.568,3.002,482.2,1720.2,test,V,F,V,China,72.4,False,False
+V6F13,2.174,1.98,47.9,104.1,test,V,F,V,China,72.4,False,False
+VF6,4.212,4.209,288.6,1215.5,train,V,F,V,China,72.4,False,False
+V2F7,2.668,3.189,107.7,287.5,train,V,F,V,China,72.4,False,False
+VFeP2(HO5)2,2.833,2.858,228.7,647.9,validation,Fe V,H O P,V,China,72.4,False,False
+V5F11,2.35,2.172,56.9,133.8,train,V,F,V,China,72.4,False,False
+V2F7,2.34,2.795,107.7,252.1,train,V,F,V,China,72.4,False,False
+VF5,4.59,4.418,175.3,804.6,test,V,F,V,China,72.4,False,False
+VF4,3.923,3.505,200.2,785.4,train,V,F,V,China,72.4,False,False
+VF6,3.655,4.582,76.4,279.3,train,V,F,V,China,72.4,False,False
+FeP2HO8,5.147,4.971,102.8,529.2,train,Fe,H O P,Fe,Australia,38.5,False,False
+VF5,4.689,4.528,175.3,822.1,test,V,F,V,China,72.4,False,False
+VF5,3.586,3.196,482.2,1729.2,test,V,F,V,China,72.4,False,False
+VF4,3.256,3.024,380.7,1239.5,train,V,F,V,China,72.4,False,False
+VF6,4.245,4.383,288.6,1225.0,train,V,F,V,China,72.4,False,False
+FePHO5,3.74,2.819,295.0,1103.4,validation,Fe,H O P,Fe,Australia,38.5,False,False
+Fe2P4H3O16,4.275,4.48,102.6,438.7,validation,Fe,H O P,Fe,Australia,38.5,False,False
+VF4,4.34,4.182,200.2,868.8,train,V,F,V,China,72.4,False,False
+VF4,3.886,3.554,200.2,777.9,train,V,F,V,China,72.4,False,False
+V3F10,4.477,3.221,76.6,343.1,train,V,F,V,China,72.4,False,False
+V2F7,2.757,3.222,107.7,297.1,train,V,F,V,China,72.4,False,False
+VF4,4.253,4.191,200.2,851.5,train,V,F,V,China,72.4,False,False
+Fe(GeO3)2,5.027,4.612,88.1,443.1,train,Fe,Ge O,Fe,Australia,38.5,False,False
+FeH12(SO7)2,4.103,3.568,73.8,303.0,test,Fe,H O S,Fe,Australia,38.5,False,False
+VF5,4.551,4.453,175.3,797.9,test,V,F,V,China,72.4,False,False
+VF5,3.581,3.001,482.2,1726.7,test,V,F,V,China,72.4,False,False
+VF5,4.418,4.349,335.4,1481.9,test,V,F,V,China,72.4,False,False
+VF4,3.297,3.042,380.7,1255.0,train,V,F,V,China,72.4,False,False
+V2F9,3.936,3.774,356.6,1403.7,train,V,F,V,China,72.4,False,False
+VF3,2.985,3.16,120.3,359.1,train,V,F,V,China,72.4,False,False
+WF6,3.604,3.977,87.9,317.0,train,W,F,W,China,81.0,False,False
+FeH8(SO6)2,3.261,3.256,80.3,261.7,train,Fe,H O S,Fe,Australia,38.5,False,False
+Mg(Fe5O8)2,2.719,3.482,31.7,86.2,train,Fe,Mg O,Fe,Australia,38.5,False,False
+Mn2FeO6,3.705,3.673,194.5,720.7,test,Fe Mn,O,Mn,South Africa,40.3,True,False
+Mn3(FeO5)2,3.215,3.188,113.8,365.7,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+La4FeO8,3.368,3.648,35.9,120.9,train,Fe,La O,Fe,Australia,38.5,False,False
+Mn3Nb2Fe3O16,3.918,3.509,133.7,523.8,validation,Fe Mn Nb,O,Nb,Brazil,93.3,True,False
+K2FeO4,2.579,2.62,303.7,783.3,train,Fe,K O,Fe,Australia,38.5,False,False
+MnFeO4,2.709,3.333,142.1,384.8,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+Mn2FeO6,4.523,4.226,147.7,668.2,test,Fe Mn,O,Mn,South Africa,40.3,True,False
+Mn2FeO6,3.422,3.29,284.6,973.8,test,Fe Mn,O,Mn,South Africa,40.3,True,False
+La7(FeO8)2,3.936,3.786,59.1,232.5,train,Fe,La O,Fe,Australia,38.5,False,False
+Mn2Fe3Ni3O16,2.986,2.954,206.5,616.4,train,Fe Mn Ni,O,Ni,Indonesia,72.3,True,False
+Mn3NbFe2(PO4)6,2.911,3.114,110.9,322.7,test,Fe Mn Nb,O P,Nb,Brazil,93.3,True,False
+MnFeO4,3.353,3.285,189.4,635.0,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+Mn(FeO3)2,1.9,1.864,352.3,669.3,test,Fe Mn,O,Mn,South Africa,40.3,True,False
+Mn4FeO8,2.932,2.878,189.4,555.4,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+Mn5Fe3O16,3.032,2.791,349.1,1058.6,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+Mn5FeO12,3.133,3.173,285.0,893.1,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+MnFe2(PO4)3,3.401,3.43,115.2,391.7,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+Mn13Fe3O32,4.227,4.111,147.9,625.4,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+Mn3FeO8,3.26,3.159,284.8,928.4,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+Mn5FeO12,4.194,4.11,148.0,620.6,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+MnFe7(PO4)8,3.526,3.399,170.0,599.4,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+MnFe(PO4)2,3.633,3.556,170.4,619.0,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+Mn5(FeO6)2,3.235,3.248,88.4,286.1,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+Mn3Fe(PO4)4,3.713,3.647,170.6,633.5,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+Mn3FeO8,4.21,4.271,147.9,622.4,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+MnFe3(PO4)4,3.488,3.383,170.1,593.5,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+MnFe3O8,3.581,3.364,141.7,507.5,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+Mn3FeO8,3.303,3.432,217.6,718.9,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+Mn7Fe3O20,4.448,4.214,147.8,657.3,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+Mn3FeO8,4.372,4.153,147.9,646.4,train,Fe Mn,O,Mn,South Africa,40.3,True,False
+MnFe(PO4)2,3.625,3.505,170.4,617.6,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+Fe2(MoO4)3,3.124,3.232,88.5,276.6,train,Fe Mo,O,Fe,Australia,38.5,False,False
+MnFe3(PO4)4,3.564,3.43,170.1,606.4,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+Mn11Fe(PO4)12,3.771,3.705,170.8,644.1,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+MnFe(PO4)2,3.648,3.425,170.4,621.6,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+Mn5Fe(PO4)6,3.457,3.737,115.5,399.3,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+Mn3Fe(PO4)6,4.111,4.107,223.6,919.1,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+Na2FeO4,3.365,3.084,430.8,1449.4,train,Fe,Na O,Fe,Australia,38.5,False,False
+Na3Fe5(SiO3)10,4.848,4.685,47.7,231.4,train,Fe,Na O Si,Fe,Australia,38.5,False,False
+Mn3Fe2Sn(PO4)6,3.417,3.304,108.0,369.0,validation,Fe Mn Sn,O P,Mn,South Africa,40.3,True,False
+Mn2Fe3P6WO24,2.467,3.129,101.2,249.8,validation,Fe Mn W,O P,W,China,81.0,True,False
+NaFe2(SiO3)4,4.854,4.66,60.1,291.7,test,Fe,Na O Si,Fe,Australia,38.5,False,False
+Fe2NiO6,4.647,3.683,93.3,433.6,validation,Fe Ni,O,Ni,Indonesia,72.3,False,False
+MnFe(PO4)2,3.544,3.538,115.3,408.6,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+Mn2Fe(PO4)3,3.742,3.731,115.4,431.8,validation,Fe Mn,O P,Mn,South Africa,40.3,True,False
+NbFeO4,3.176,3.587,122.0,387.5,train,Fe Nb,O,Nb,Brazil,93.3,False,False
+MnV4FeO12,2.53,2.854,103.0,260.6,train,Fe Mn V,O,V,China,72.4,True,False
+Na5Fe6(SiO3)12,4.73,4.732,19.6,92.5,train,Fe,Na O Si,Fe,Australia,38.5,False,False
+FeNiO4,3.493,4.033,70.9,247.7,test,Fe Ni,O,Ni,Indonesia,72.3,False,False
+Ti2Mn3Fe3O16,4.23,3.696,150.6,637.1,train,Fe Mn Ti,O,Mn,South Africa,40.3,True,False
+NbFe5O12,2.587,2.832,88.5,228.9,validation,Fe Nb,O,Nb,Brazil,93.3,False,False
+Fe3NiO8,4.28,3.78,140.3,600.6,test,Fe Ni,O,Ni,Indonesia,72.3,False,False
+Fe2Ni5O12,3.964,3.768,42.4,168.1,train,Fe Ni,O,Ni,Indonesia,72.3,False,False
+Mn3Fe(PO4)4,3.715,3.667,170.6,633.9,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+NbFe3O8,2.821,2.862,64.4,181.7,train,Fe Nb,O,Nb,Brazil,93.3,False,False
+NbFe7(PO4)12,4.959,4.216,127.7,633.3,train,Fe Nb,O P,Nb,Brazil,93.3,False,False
+Mn7Fe(PO4)12,4.87,4.869,131.1,638.4,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+Mn3Fe3(SbO8)2,4.017,3.871,124.7,500.9,train,Fe Mn,O Sb,Mn,South Africa,40.3,True,False
+FeNi3O8,3.102,3.22,203.7,631.9,train,Fe Ni,O,Ni,Indonesia,72.3,False,False
+Fe3(NiO5)2,3.794,3.668,55.9,212.0,test,Fe Ni,O,Ni,Indonesia,72.3,False,False
+Fe2Ni3O10,4.09,3.771,111.1,454.5,train,Fe Ni,O,Ni,Indonesia,72.3,False,False
+FeNi3O8,3.656,3.806,138.3,505.5,train,Fe Ni,O,Ni,Indonesia,72.3,False,False
+FeNi9O20,3.795,3.672,110.1,418.0,train,Fe Ni,O,Ni,Indonesia,72.3,False,False
+Fe3Ni7O20,3.657,3.747,55.4,202.5,train,Fe Ni,O,Ni,Indonesia,72.3,False,False
+MnFe(PO4)2,3.646,3.518,170.4,621.3,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+Mn3Fe2Sb3O16,3.425,3.751,115.8,396.7,train,Fe Mn,O Sb,Mn,South Africa,40.3,True,False
+Mn2Fe3Sn(PO4)6,2.873,3.194,107.9,309.9,train,Fe Mn Sn,O P,Mn,South Africa,40.3,True,False
+MnFe3(PO4)4,3.486,3.43,170.1,593.2,train,Fe Mn,O P,Mn,South Africa,40.3,True,False
+Na2Ti3Fe(PO4)6,2.525,2.283,157.7,398.1,train,Fe Ti,Na O P,Fe,Australia,38.5,True,False
+Na3Fe3(PO4)4,2.361,2.537,64.1,151.4,train,Fe,Na O P,Fe,Australia,38.5,False,False
+Na9Fe10(SiO3)20,4.703,4.779,11.7,54.9,test,Fe,Na O Si,Fe,Australia,38.5,False,False
+Nb2Fe3O10,2.194,2.573,146.7,321.9,train,Fe Nb,O,Nb,Brazil,93.3,False,False
+Mn3Fe3(TeO8)2,3.513,3.729,123.0,432.2,test,Fe Mn,O Te,Mn,South Africa,40.3,True,False
+Fe5(NiO6)2,3.888,3.594,86.0,334.4,test,Fe Ni,O,Ni,Indonesia,72.3,False,False
+Fe5NiO12,3.952,3.543,93.8,370.7,test,Fe Ni,O,Ni,Indonesia,72.3,False,False
+Na2Fe(Si2O5)3,5.449,5.225,51.8,282.3,train,Fe,Na O Si,Fe,Australia,38.5,False,False
+NbFe5(PO4)6,2.266,2.733,110.6,250.5,test,Fe Nb,O P,Nb,Brazil,93.3,False,False
+Fe3Ni(PO4)4,3.845,3.68,169.1,650.3,train,Fe Ni,O P,Ni,Indonesia,72.3,False,False
+FeNi(PO4)2,4.232,4.102,168.4,712.5,train,Fe Ni,O P,Ni,Indonesia,72.3,False,False
+Fe5O8,4.754,3.793,64.7,307.6,train,Fe,O,Fe,Australia,38.5,False,False
+Fe7O12,3.089,3.125,86.8,268.1,train,Fe,O,Fe,Australia,38.5,False,False
+FeO2,4.281,3.468,282.8,1210.6,test,Fe,O,Fe,Australia,38.5,False,False
+Fe23O32,4.901,4.039,14.9,72.8,train,Fe,O,Fe,Australia,38.5,False,False
+Fe2Ni(PO4)3,3.526,3.82,114.2,402.9,train,Fe Ni,O P,Ni,Indonesia,72.3,False,False
+FeO2,4.806,3.896,146.8,705.2,test,Fe,O,Fe,Australia,38.5,False,False
+Fe3O8,2.93,3.251,238.5,698.7,train,Fe,O,Fe,Australia,38.5,False,False
+FeO3,4.1,3.831,227.7,933.4,train,Fe,O,Fe,Australia,38.5,False,False
+FeO2,3.108,4.178,37.8,117.4,test,Fe,O,Fe,Australia,38.5,False,False
+Fe5O12,3.871,3.674,51.6,199.6,train,Fe,O,Fe,Australia,38.5,False,False
+FeO4,3.398,2.539,86.7,294.6,validation,Fe,O,Fe,Australia,38.5,False,False
+Fe5O12,3.226,2.946,200.9,648.0,train,Fe,O,Fe,Australia,38.5,False,False
+Fe3Ni(PO4)6,4.395,4.48,31.7,139.4,validation,Fe Ni,O P,Ni,Indonesia,72.3,False,False
+FeO4,3.744,2.671,216.8,811.5,validation,Fe,O,Fe,Australia,38.5,False,False
+FeO2,3.817,4.281,37.8,144.1,test,Fe,O,Fe,Australia,38.5,False,False
+TiFe2Ni3(PO4)6,3.873,3.754,114.9,445.0,train,Fe Ni Ti,O P,Ni,Indonesia,72.3,True,False
+FeO4,2.286,2.11,248.9,569.1,validation,Fe,O,Fe,Australia,38.5,False,False
+Fe5O12,4.354,3.991,106.0,461.3,train,Fe,O,Fe,Australia,38.5,False,False
+FeO2,3.934,3.615,96.6,380.1,test,Fe,O,Fe,Australia,38.5,False,False
+Fe5O8,4.008,3.844,64.7,259.4,train,Fe,O,Fe,Australia,38.5,False,False
+FeO3,3.959,3.899,227.7,901.2,train,Fe,O,Fe,Australia,38.5,False,False
+FeO2,3.933,3.252,282.8,1112.0,test,Fe,O,Fe,Australia,38.5,False,False
+FeO2,3.714,3.273,70.7,262.5,test,Fe,O,Fe,Australia,38.5,False,False
+Fe5O8,3.82,3.866,64.7,247.2,train,Fe,O,Fe,Australia,38.5,False,False
+FeNi3(PO4)4,4.59,4.378,167.6,769.3,validation,Fe Ni,O P,Ni,Indonesia,72.3,False,False
+Fe3O4,2.743,3.179,112.4,308.3,validation,Fe,O,Fe,Australia,38.5,False,False
+FeO2,4.054,3.184,94.3,382.1,test,Fe,O,Fe,Australia,38.5,False,False
+Ti2Fe3Ni3O16,3.699,3.099,210.3,777.9,validation,Fe Ni Ti,O,Ni,Indonesia,72.3,True,False
+Fe5Ni(PO4)6,3.55,3.63,114.6,406.9,train,Fe Ni,O P,Ni,Indonesia,72.3,False,False
+FeO2,2.842,1.976,526.9,1497.4,test,Fe,O,Fe,Australia,38.5,False,False
+FeO6,3.205,2.315,129.2,414.2,test,Fe,O,Fe,Australia,38.5,False,False
+Fe3O8,3.792,3.6,162.3,615.5,train,Fe,O,Fe,Australia,38.5,False,False
+Fe5O16,3.626,3.494,216.7,785.5,train,Fe,O,Fe,Australia,38.5,False,False
+FeO3,3.883,3.089,53.7,208.7,train,Fe,O,Fe,Australia,38.5,False,False
+FeO2,4.07,3.296,169.7,690.6,test,Fe,O,Fe,Australia,38.5,False,False
+FeO2,3.527,3.123,347.1,1224.1,test,Fe,O,Fe,Australia,38.5,False,False
+FeO3,3.785,3.601,227.7,861.7,train,Fe,O,Fe,Australia,38.5,False,False
+FeO2,2.77,2.853,208.3,576.9,test,Fe,O,Fe,Australia,38.5,False,False
+FeP2O7,4.57,4.387,110.0,502.6,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe(PO3)4,4.703,4.565,139.0,653.8,train,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.405,3.265,169.9,578.5,train,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.499,3.703,169.9,594.5,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe2(PO4)3,4.461,4.393,128.4,572.9,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,5.368,4.839,113.2,607.7,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe(PO3)4,5.316,5.206,70.8,376.2,train,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,2.93,3.275,169.9,497.7,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe4P9O32,5.059,4.916,176.5,893.2,test,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.311,3.394,169.9,562.5,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe3P3O11,3.123,3.28,60.4,188.8,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe3(PO4)4,5.297,4.757,141.5,749.5,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe3(PO4)4,5.228,4.693,141.5,739.8,train,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.492,3.395,169.9,593.2,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe(PO3)5,5.317,5.216,115.4,613.5,train,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.048,3.598,169.9,517.7,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,4.73,3.91,220.0,1040.4,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe3(P2O7)2,3.627,3.304,101.3,367.3,test,Fe,O P,Fe,Australia,38.5,False,False
+Fe(PO3)3,4.379,4.493,89.4,391.6,test,Fe,O P,Fe,Australia,38.5,False,False
+Fe(PO4)2,4.276,4.347,196.0,837.8,validation,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.446,3.549,169.9,585.5,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe(PO4)2,4.764,4.833,100.5,478.9,validation,Fe,O P,Fe,Australia,38.5,False,False
+Fe2P3O10,3.886,3.34,72.1,280.3,validation,Fe,O P,Fe,Australia,38.5,False,False
+Fe3P3O13,5.071,4.588,56.4,285.9,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,5.278,4.949,113.2,597.5,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe2P3O13,4.61,5.047,63.9,294.5,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe2P5O16,3.812,4.308,148.0,564.1,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe(PO4)2,4.78,4.684,100.5,480.5,validation,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O9,4.625,4.798,92.6,428.1,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe3(P2O7)2,3.974,3.38,101.3,402.5,test,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,3.932,4.142,220.0,865.1,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe9(PO4)8,3.486,3.437,123.3,429.9,validation,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,5.228,4.893,113.2,591.9,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe3(PO4)4,4.882,4.536,141.5,690.8,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,4.021,3.911,220.0,884.7,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,5.053,4.903,113.2,572.0,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe5(PO4)4,2.959,3.122,79.6,235.7,train,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.314,3.496,169.9,563.0,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe2(PO4)3,4.048,3.5,310.7,1257.6,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,5.344,4.889,113.2,605.0,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,4.553,4.537,110.0,500.8,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe2P2O9,5.223,4.686,82.6,431.3,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,4.151,4.041,220.0,913.1,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe4(PO4)3,2.729,3.08,52.0,141.9,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,4.98,5.052,113.2,563.9,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe(PO3)4,5.371,5.26,70.8,380.2,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe3P8O29,5.123,4.963,170.8,874.7,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,4.573,4.332,110.0,503.0,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,5.186,5.033,113.2,587.2,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe2(PO4)3,3.08,4.576,31.8,98.1,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe5(P3O11)2,3.234,3.364,126.9,410.4,train,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.847,3.564,169.9,653.6,train,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.817,3.488,84.9,324.2,train,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.401,3.539,169.9,577.8,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,3.757,4.359,110.0,413.2,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe(PO4)2,4.819,5.075,100.5,484.5,validation,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.553,3.43,169.9,603.6,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe5(P2O7)4,3.21,3.517,158.2,507.8,validation,Fe,O P,Fe,Australia,38.5,False,False
+Fe4P7O24,4.052,4.779,32.2,130.7,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe2(PO4)3,4.846,4.624,128.4,622.3,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP4O13,5.46,5.423,133.5,728.7,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe2(PO4)3,4.522,4.329,222.9,1007.7,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe3P4O15,3.789,3.476,191.7,726.5,test,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.338,3.451,169.9,567.2,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe3(PO4)4,5.194,4.759,141.5,734.9,train,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.174,3.566,169.9,539.2,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe(PO4)2,4.65,4.692,100.5,467.5,validation,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,4.685,4.014,220.0,1030.6,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe(PO3)3,3.685,4.554,89.4,329.5,test,Fe,O P,Fe,Australia,38.5,False,False
+Fe2(PO4)3,5.04,4.487,128.4,647.2,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,5.293,5.108,113.2,599.2,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe3(P3O10)2,4.476,4.866,39.4,176.3,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe3(PO4)4,4.888,4.688,141.5,691.7,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe(PO4)2,5.012,4.806,100.5,503.8,validation,Fe,O P,Fe,Australia,38.5,False,False
+Fe(PO3)3,3.774,4.555,89.4,337.5,test,Fe,O P,Fe,Australia,38.5,False,False
+VFe3(PO4)6,4.215,3.857,193.8,816.7,validation,Fe V,O P,V,China,72.4,False,False
+FeSn(PO4)2,2.636,3.418,141.7,373.4,train,Fe Sn,O P,Fe,Australia,38.5,False,False
+TiFe3(PO4)6,4.013,3.396,225.0,902.9,validation,Fe Ti,O P,Fe,Australia,38.5,True,False
+Fe5Sb(PO4)6,2.661,3.171,107.4,285.6,validation,Fe,O P Sb,Fe,Australia,38.5,False,False
+Fe3Sb(PO4)4,2.904,3.389,153.8,446.7,test,Fe,O P Sb,Fe,Australia,38.5,False,False
+Fe3Sb(PO4)6,3.957,4.106,178.5,706.5,train,Fe,O P Sb,Fe,Australia,38.5,False,False
+FePO4,3.322,3.429,169.9,564.4,train,Fe,O P,Fe,Australia,38.5,False,False
+FePO5,2.68,3.652,142.8,382.8,train,Fe,O P,Fe,Australia,38.5,False,False
+FeP2O7,4.055,4.067,137.5,557.6,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe5P3O13,2.881,3.073,45.7,131.5,train,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.336,3.597,169.9,566.7,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe3Sn(PO4)6,1.967,3.272,58.8,115.6,train,Fe Sn,O P,Fe,Australia,38.5,False,False
+Fe7(PO4)8,4.061,3.653,177.8,721.8,train,Fe,O P,Fe,Australia,38.5,False,False
+FePO4,3.188,3.535,169.9,541.7,train,Fe,O P,Fe,Australia,38.5,False,False
+Fe7Te(PO4)12,5.025,4.611,125.1,628.7,train,Fe,O P Te,Fe,Australia,38.5,False,False
+FePO4,3.145,3.335,114.9,361.5,train,Fe,O P,Fe,Australia,38.5,False,False
+Ti3Fe(PO4)6,3.252,2.861,198.3,644.8,test,Fe Ti,O P,Fe,Australia,38.5,True,False
+Fe7P12WO48,4.921,4.627,121.1,596.1,train,Fe W,O P,W,China,81.0,False,False
+SrPrFeRuO6,4.196,4.154,27.6,116.0,train,Fe,O Pr Ru Sr,Fe,Australia,38.5,False,False
+VFe3(PO4)4,3.216,3.042,171.2,550.6,train,Fe V,O P,V,China,72.4,False,False
+Zr7Fe(PO4)12,3.041,3.175,85.1,258.8,train,Fe,O P Zr,Fe,Australia,38.5,False,False
+VFe7(PO4)12,5.005,4.661,131.0,655.6,train,Fe V,O P,V,China,72.4,False,False
+VFe(P2O7)2,3.761,3.684,169.1,636.0,train,Fe V,O P,V,China,72.4,False,False
+Fe5P6WO24,2.507,2.919,101.1,253.3,train,Fe W,O P,W,China,81.0,False,False
+ZnFe(PO4)2,4.204,3.731,164.9,693.2,train,Fe Zn,O P,Zn,China,38.9,False,False
+V3Fe(PO4)6,3.503,3.358,196.1,686.9,train,Fe V,O P,V,China,72.4,False,False
+VFe(PO4)2,2.954,2.789,172.6,509.8,train,Fe V,O P,V,China,72.4,False,False
+Fe2(SO4)3,3.149,4.541,65.9,207.5,validation,Fe,O S,Fe,Australia,38.5,False,False
+Mn3CrO8,4.252,4.197,149.4,635.4,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+Fe5SbO12,2.99,3.24,84.5,252.5,validation,Fe,O Sb,Fe,Australia,38.5,False,False
+MnCr2O6,3.401,3.311,194.4,661.0,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+Fe(SiO3)2,2.884,3.359,120.8,348.3,validation,Fe,O Si,Fe,Australia,38.5,False,False
+FeSiO4,2.815,3.229,165.6,466.2,validation,Fe,O Si,Fe,Australia,38.5,False,False
+MnCrO4,3.354,3.262,217.5,729.5,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+MnCrO4,3.253,3.258,193.4,629.0,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+Fe(SbO3)4,3.827,3.8,106.4,407.2,train,Fe,O Sb,Fe,Australia,38.5,False,False
+FeSiO4,4.049,3.83,331.3,1341.2,validation,Fe,O Si,Fe,Australia,38.5,False,False
+Fe(SeO3)2,5.054,4.952,84.6,427.7,test,Fe,O Se,Fe,Australia,38.5,False,False
+FeSiO4,2.865,3.48,165.6,474.5,validation,Fe,O Si,Fe,Australia,38.5,False,False
+Ti3Fe3(SbO8)2,3.318,3.672,127.9,424.3,test,Fe Ti,O Sb,Fe,Australia,38.5,True,False
+Fe(SO4)2,5.321,5.188,105.1,559.5,train,Fe,O S,Fe,Australia,38.5,False,False
+Fe2(SO4)3,3.669,4.102,129.6,475.3,validation,Fe,O S,Fe,Australia,38.5,False,False
+FeSiO4,3.424,3.362,82.8,283.6,validation,Fe,O Si,Fe,Australia,38.5,False,False
+Fe(SO4)2,3.909,4.594,102.4,400.1,train,Fe,O S,Fe,Australia,38.5,False,False
+Fe3SbO8,2.619,2.879,60.2,157.7,train,Fe,O Sb,Fe,Australia,38.5,False,False
+Mn3CrO8,4.162,4.224,149.4,622.0,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+Mn5Cr(PO4)6,3.46,3.75,116.0,401.3,train,Cr Mn,O P,Cr,South Africa,48.0,True,False
+Fe(SiO3)2,4.946,4.269,124.7,616.8,validation,Fe,O Si,Fe,Australia,38.5,False,False
+Mn15CrO32,3.924,4.002,148.5,582.8,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+Mn5Cr2O12,3.414,3.378,135.9,464.1,validation,Cr Mn,O,Cr,South Africa,48.0,True,False
+Fe(SiO3)2,5.063,4.505,124.7,631.3,validation,Fe,O Si,Fe,Australia,38.5,False,False
+Fe(SO4)2,5.373,5.245,105.1,564.9,train,Fe,O S,Fe,Australia,38.5,False,False
+Fe(Se2O5)2,5.159,5.288,49.8,256.7,train,Fe,O Se,Fe,Australia,38.5,False,False
+Mn2CrO6,3.419,3.284,288.5,986.5,test,Cr Mn,O,Cr,South Africa,48.0,True,False
+Mn13Cr3O32,4.233,4.14,149.1,631.4,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+Mn5Cr3O16,4.561,4.408,131.9,601.8,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+Mn7Cr12O48,4.248,4.207,131.2,557.2,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+MnCrO4,3.498,3.326,217.5,760.9,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+MnCr(PO4)2,3.219,3.354,172.5,555.3,train,Cr Mn,O P,Cr,South Africa,48.0,True,False
+Sc9Fe(SiO3)20,5.01,5.039,39.2,196.4,train,Fe,O Sc Si,Fe,Australia,38.5,False,False
+Ti3Mn3Cr2O16,3.792,3.874,154.0,584.0,train,Cr Mn Ti,O,Cr,South Africa,48.0,True,False
+Mn3Cr(PO4)6,4.26,4.327,194.1,827.0,validation,Cr Mn,O P,Cr,South Africa,48.0,True,False
+MnCr3(PO4)6,4.34,4.29,195.5,848.6,validation,Cr Mn,O P,Cr,South Africa,48.0,True,False
+Mn3Cr(PO4)4,2.74,3.205,212.2,581.6,test,Cr Mn,O P,Cr,South Africa,48.0,True,False
+Mn3Cr3(SbO8)2,3.935,4.09,126.4,497.4,train,Cr Mn,O Sb,Cr,South Africa,48.0,True,False
+Mn2Cr3Sb3O16,3.587,3.782,117.2,420.3,validation,Cr Mn,O Sb,Cr,South Africa,48.0,True,False
+TiMn3Cr2(PO4)6,3.021,3.1,117.3,354.3,train,Cr Mn Ti,O P,Cr,South Africa,48.0,True,False
+Mn7Cr(PO4)12,4.899,4.822,131.4,643.7,validation,Cr Mn,O P,Cr,South Africa,48.0,True,False
+Mn3Cr2Sn(PO4)6,3.112,3.385,108.8,338.7,train,Cr Mn Sn,O P,Cr,South Africa,48.0,True,False
+Ti3Mn2Cr3O16,3.91,3.743,154.6,604.6,test,Cr Mn Ti,O,Cr,South Africa,48.0,True,False
+Ti3MnCr(PO4)6,4.832,4.019,32.4,156.5,train,Cr Mn Ti,O P,Cr,South Africa,48.0,True,False
+MnCr3(PO4)4,2.922,3.144,173.3,506.3,validation,Cr Mn,O P,Cr,South Africa,48.0,True,False
+Mn3Cr3(SnO8)2,4.124,4.029,127.3,525.1,train,Cr Mn Sn,O,Cr,South Africa,48.0,True,False
+Mn3Cr3(TeO8)2,3.497,3.982,124.7,436.1,train,Cr Mn,O Te,Cr,South Africa,48.0,True,False
+Mn3Cr2Sb3O16,3.337,3.705,116.8,389.7,train,Cr Mn,O Sb,Cr,South Africa,48.0,True,False
+Mn3Cr3(WO8)2,3.384,3.761,110.3,373.2,validation,Cr Mn W,O,W,China,81.0,True,False
+Mn3V2Cr3O16,3.732,3.858,151.8,566.3,train,Cr Mn V,O,V,China,72.4,True,False
+Mn2V3Cr3O16,2.008,2.178,216.1,434.1,test,Cr Mn V,O,V,China,72.4,True,False
+Ti2Mn3Cr3O16,4.01,3.834,153.1,613.9,validation,Cr Mn Ti,O,Cr,South Africa,48.0,True,False
+CrNi(PO4)2,3.684,3.729,170.4,627.8,validation,Cr Ni,O P,Ni,Indonesia,72.3,True,False
+CrNi3O8,3.556,3.736,69.8,248.3,train,Cr Ni,O,Ni,Indonesia,72.3,True,False
+Cr3(NiO6)2,4.112,3.926,165.4,680.0,validation,Cr Ni,O,Ni,Indonesia,72.3,True,False
+Cr3NiO8,3.779,3.629,72.4,273.4,train,Cr Ni,O,Ni,Indonesia,72.3,True,False
+Cr3NiO8,2.841,2.974,213.1,605.3,train,Cr Ni,O,Ni,Indonesia,72.3,True,False
+NbV3Cr2(PO4)6,1.858,2.081,113.2,210.2,train,Cr Nb V,O P,Nb,Brazil,93.3,True,False
+Ti3Nb2Cr3O16,2.595,2.898,139.4,361.7,train,Cr Nb Ti,O,Nb,Brazil,93.3,True,False
+Cr2Ni5O12,3.913,3.589,42.9,168.0,train,Cr Ni,O,Ni,Indonesia,72.3,True,False
+NbCr3(PO4)6,3.563,3.275,186.9,665.9,train,Cr Nb,O P,Nb,Brazil,93.3,True,False
+Cr3NiO8,3.604,3.701,72.4,260.7,train,Cr Ni,O,Ni,Indonesia,72.3,True,False
+Cr3NiO8,2.83,3.111,213.1,603.0,train,Cr Ni,O,Ni,Indonesia,72.3,True,False
+CrNiO4,3.534,3.709,142.1,502.3,train,Cr Ni,O,Ni,Indonesia,72.3,True,False
+VCr2Ni3(PO4)6,3.391,3.61,115.4,391.5,test,Cr Ni V,O P,V,China,72.4,True,False
+Cr3Ni(PO4)4,3.132,3.341,172.3,539.6,test,Cr Ni,O P,Ni,Indonesia,72.3,True,False
+CrO2,3.961,3.504,98.2,389.2,train,Cr,O,Cr,South Africa,48.0,True,False
+CrO4,2.966,3.643,195.9,580.9,train,Cr,O,Cr,South Africa,48.0,True,False
+CrO6,3.054,2.449,263.4,804.4,train,Cr,O,Cr,South Africa,48.0,True,False
+Cr5O12,3.306,4.002,115.1,380.4,validation,Cr,O,Cr,South Africa,48.0,True,False
+Cr3Ni(PO4)6,4.548,4.582,194.6,885.3,test,Cr Ni,O P,Ni,Indonesia,72.3,True,False
+TiCr2Ni3(PO4)6,3.441,3.48,115.8,398.5,train,Cr Ni Ti,O P,Ni,Indonesia,72.3,True,False
+CrNi3(PO4)4,4.359,4.216,168.6,735.1,test,Cr Ni,O P,Ni,Indonesia,72.3,True,False
+CrO6,2.249,2.061,129.5,291.2,train,Cr,O,Cr,South Africa,48.0,True,False
+CrNi5(PO4)6,4.271,4.261,113.7,485.5,train,Cr Ni,O P,Ni,Indonesia,72.3,True,False
+Cr19O48,4.254,4.419,132.7,564.4,train,Cr,O,Cr,South Africa,48.0,True,False
+CrO4,2.646,2.946,372.9,986.6,train,Cr,O,Cr,South Africa,48.0,True,False
+Cr19O48,4.069,4.269,132.7,539.8,train,Cr,O,Cr,South Africa,48.0,True,False
+Cr3Ni(SO4)6,3.652,4.614,66.6,243.2,train,Cr Ni,O S,Ni,Indonesia,72.3,True,False
+Cr3O8,4.716,4.766,92.1,434.5,train,Cr,O,Cr,South Africa,48.0,True,False
+CrO2,4.059,3.7,294.7,1196.4,train,Cr,O,Cr,South Africa,48.0,True,False
+CrO2,2.359,3.32,153.2,361.5,train,Cr,O,Cr,South Africa,48.0,True,False
+CrO2,2.105,2.626,216.9,456.6,train,Cr,O,Cr,South Africa,48.0,True,False
+CrO2,3.868,3.968,59.9,231.5,train,Cr,O,Cr,South Africa,48.0,True,False
+CrO2,4.045,3.452,294.7,1192.2,train,Cr,O,Cr,South Africa,48.0,True,False
+Cr3O8,4.722,5.085,92.1,435.0,train,Cr,O,Cr,South Africa,48.0,True,False
+CrO2,3.881,4.105,153.2,594.6,train,Cr,O,Cr,South Africa,48.0,True,False
+CrO3,3.713,3.821,250.6,930.6,train,Cr,O,Cr,South Africa,48.0,True,False
+CrPO4,3.297,3.174,174.1,574.2,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2(PO4)3,4.125,4.507,130.8,539.6,validation,Cr,O P,Cr,South Africa,48.0,True,False
+Cr(PO4)2,5.273,5.36,107.7,567.9,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr4P7O24,4.064,4.463,32.9,133.5,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr(PO3)4,4.244,4.251,140.4,595.9,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2P3O11,4.017,4.942,70.6,283.4,test,Cr,O P,Cr,South Africa,48.0,True,False
+CrP2O7,5.27,5.067,115.1,606.5,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr(PO3)5,5.379,4.844,116.3,625.9,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrPO4,2.404,2.619,174.1,418.6,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrP2O7,4.725,5.03,115.1,543.8,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr3(P2O7)2,3.444,3.159,103.5,356.6,validation,Cr,O P,Cr,South Africa,48.0,True,False
+Cr3P3O13,4.887,4.724,57.8,282.4,test,Cr,O P,Cr,South Africa,48.0,True,False
+Cr(PO4)2,4.463,5.093,102.0,455.2,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrP2O7,4.35,4.407,111.8,486.2,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr(PO3)3,2.177,2.958,90.6,197.3,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr3P8O29,4.926,4.888,86.4,425.8,test,Cr,O P,Cr,South Africa,48.0,True,False
+Cr(PO3)4,5.18,4.966,71.5,370.4,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr(PO4)2,4.601,4.573,102.0,469.3,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrP2O7,4.874,4.48,115.1,560.9,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2(PO4)3,4.42,4.82,130.8,578.2,validation,Cr,O P,Cr,South Africa,48.0,True,False
+CrP2O7,4.769,5.021,115.1,548.9,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2(PO4)3,4.746,4.241,130.8,620.9,validation,Cr,O P,Cr,South Africa,48.0,True,False
+CrP2O7,3.377,4.043,111.8,377.4,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2(PO4)3,4.779,4.91,130.8,625.2,validation,Cr,O P,Cr,South Africa,48.0,True,False
+CrPO4,3.023,3.171,87.1,263.2,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrPO5,4.45,4.889,157.7,702.0,test,Cr,O P,Cr,South Africa,48.0,True,False
+Cr4(PO4)3,2.234,3.005,53.6,119.8,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrPO5,4.21,5.115,157.7,664.2,test,Cr,O P,Cr,South Africa,48.0,True,False
+Cr(PO3)3,2.827,3.963,90.6,256.1,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrP2O7,4.856,4.772,115.1,558.8,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrP2O7,5.295,4.912,115.1,609.4,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr3(P2O7)2,2.744,2.884,103.5,284.1,validation,Cr,O P,Cr,South Africa,48.0,True,False
+CrPO4,2.958,3.663,174.1,515.2,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr(PO4)2,4.643,4.947,102.0,473.6,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr(PO3)4,5.228,5.014,71.5,373.8,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2P3O13,4.576,5.161,65.1,297.8,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2(PO3)5,3.331,3.101,53.0,176.5,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2P3O10,3.183,2.882,73.7,234.4,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrP4O13,5.184,5.374,67.4,349.3,validation,Cr,O P,Cr,South Africa,48.0,True,False
+CrPO4,3.457,3.015,174.1,602.0,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr4(PO4)3,3.741,3.3,53.6,200.6,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrP2O7,5.046,5.044,115.1,580.8,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrP2O9,4.537,4.943,93.8,425.6,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrP2O7,4.637,4.892,115.1,533.6,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr4(PO4)3,2.641,3.049,53.6,141.6,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrPO4,2.719,2.977,174.1,473.5,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrPO4,2.891,3.173,87.1,251.7,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr3(PO4)4,4.876,4.929,144.4,704.3,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2(PO4)3,3.889,3.516,257.3,1000.6,validation,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2(PO4)3,4.668,4.367,196.2,916.0,validation,Cr,O P,Cr,South Africa,48.0,True,False
+CrPO4,2.922,3.45,174.1,508.8,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2(PO4)3,4.869,5.138,130.8,637.0,validation,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2P5O16,3.081,3.489,150.1,462.5,test,Cr,O P,Cr,South Africa,48.0,True,False
+Cr5(PO4)4,2.261,3.133,82.0,185.4,validation,Cr,O P,Cr,South Africa,48.0,True,False
+Cr(PO3)3,3.56,4.066,90.6,322.5,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrPO4,2.401,2.797,174.1,418.0,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr6P7O24,2.734,2.704,29.1,79.7,test,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2P5O18,5.039,4.815,92.2,464.5,validation,Cr,O P,Cr,South Africa,48.0,True,False
+CrP2O7,4.398,4.195,111.8,491.5,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr4P9O32,4.786,4.933,179.1,857.4,test,Cr,O P,Cr,South Africa,48.0,True,False
+CrP2O7,5.025,5.04,115.1,578.3,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr3(PO4)4,5.106,4.833,144.4,737.4,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrPO4,2.922,3.363,87.1,254.5,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2P2O9,5.053,4.745,84.6,427.4,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr3(PO4)4,5.051,4.8,144.4,729.5,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrPO5,4.069,3.63,303.1,1233.2,test,Cr,O P,Cr,South Africa,48.0,True,False
+CrP2O7,5.29,4.998,115.1,608.8,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr2(PO4)3,4.576,4.691,67.7,309.8,validation,Cr,O P,Cr,South Africa,48.0,True,False
+Cr3P4O15,3.164,3.15,195.8,619.3,train,Cr,O P,Cr,South Africa,48.0,True,False
+Cr(PO3)3,2.757,3.309,90.6,249.8,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrPO4,2.95,3.149,87.1,256.9,train,Cr,O P,Cr,South Africa,48.0,True,False
+CrPO4,3.047,3.089,87.1,265.3,train,Cr,O P,Cr,South Africa,48.0,True,False
+TiCr3(PO4)6,3.612,3.223,228.2,824.2,train,Cr Ti,O P,Cr,South Africa,48.0,True,False
+Ti3Cr(PO4)6,3.115,2.715,199.2,620.7,validation,Cr Ti,O P,Cr,South Africa,48.0,True,False
+V3Cr(PO4)6,3.495,3.361,197.0,688.4,validation,Cr V,O P,V,China,72.4,True,False
+Cr3Sn3(SbO8)2,3.038,3.367,103.1,313.4,train,Cr Sn,O Sb,Cr,South Africa,48.0,True,False
+Cr(SO4)2,5.335,5.041,106.8,569.5,train,Cr,O S,Cr,South Africa,48.0,True,False
+Cr(SO4)2,4.124,3.906,207.8,856.8,train,Cr,O S,Cr,South Africa,48.0,True,False
+TiCrSO8,3.829,3.589,100.4,384.5,train,Cr Ti,O S,Cr,South Africa,48.0,True,False
+ZnCr3(SO4)6,3.721,4.221,66.0,245.7,validation,Cr Zn,O S,Cr,South Africa,48.0,True,False
+VCr(P2O7)2,3.422,3.547,170.5,583.3,train,Cr V,O P,V,China,72.4,True,False
+Cr2(SO4)3,2.006,4.014,67.2,134.7,test,Cr,O S,Cr,South Africa,48.0,True,False
+V2Cr3Sb3O16,2.776,3.229,118.2,328.2,train,Cr V,O Sb,V,China,72.4,True,False
+Cr(SO4)2,5.324,5.049,106.8,568.4,train,Cr,O S,Cr,South Africa,48.0,True,False
+Cr5(Si2O7)2,2.977,2.74,87.8,261.5,train,Cr,O Si,Cr,South Africa,48.0,True,False
+VCr3(PO4)6,4.077,3.776,196.5,801.0,train,Cr V,O P,V,China,72.4,True,False
+Cr3P6WO24,3.441,3.657,169.0,581.7,train,Cr W,O P,W,China,81.0,True,False
+Ti3Cr3(SbO8)2,3.08,3.256,129.7,399.4,train,Cr Ti,O Sb,Cr,South Africa,48.0,True,False
+Cr2(SO4)3,2.672,4.083,67.2,179.4,test,Cr,O S,Cr,South Africa,48.0,True,False
+V3Cr3(SbO8)2,3.466,3.237,128.2,444.4,train,Cr V,O Sb,V,China,72.4,True,False
+V2Cr(PO4)3,2.616,2.473,118.4,309.8,test,Cr V,O P,V,China,72.4,True,False
+Cr(SiO3)2,4.484,4.418,127.0,569.2,train,Cr,O Si,Cr,South Africa,48.0,True,False
+Cr3SbO8,4.344,4.168,127.7,554.9,train,Cr,O Sb,Cr,South Africa,48.0,True,False
+Cr(Si2O5)3,3.489,4.14,55.7,194.3,test,Cr,O Si,Cr,South Africa,48.0,True,False
+Cr(Si2O5)3,3.866,4.145,111.4,430.6,test,Cr,O Si,Cr,South Africa,48.0,True,False
+CrSi2O7,4.529,3.999,18.5,83.9,train,Cr,O Si,Cr,South Africa,48.0,True,False
+Cr(Si2O5)2,2.488,3.088,79.2,197.1,train,Cr,O Si,Cr,South Africa,48.0,True,False
+Cr3TeO8,3.57,3.841,126.0,449.8,train,Cr,O Te,Cr,South Africa,48.0,True,False
+TiCrO4,1.03,2.288,150.8,155.4,train,Cr Ti,O,Cr,South Africa,48.0,True,False
+V3Cr3(TeO8)2,3.193,3.159,126.5,403.7,validation,Cr V,O Te,V,China,72.4,True,False
+CrTe(WO6)2,3.783,3.728,139.8,528.7,validation,Cr W,O Te,W,China,81.0,True,False
+TiCrO4,2.507,2.6,301.6,756.2,train,Cr Ti,O,Cr,South Africa,48.0,True,False
+TiV2CrO10,3.861,3.469,72.7,280.7,train,Cr Ti V,O,V,China,72.4,True,False
+Ti3CrO8,1.22,2.039,76.3,93.0,train,Cr Ti,O,Cr,South Africa,48.0,True,False
+V3CrO8,2.396,2.439,227.4,544.7,train,Cr V,O,V,China,72.4,True,False
+TiCr3O8,2.588,2.955,149.1,385.7,train,Cr Ti,O,Cr,South Africa,48.0,True,False
+SmCrO4,2.497,2.628,49.7,124.0,train,Cr,O Sm,Cr,South Africa,48.0,True,False
+VCrO4,2.818,2.874,98.8,278.5,train,Cr V,O,V,China,72.4,True,False
+VCr3O8,3.113,3.073,147.8,460.1,validation,Cr V,O,V,China,72.4,True,False
+Cr(WO4)3,3.7,3.8,130.2,481.9,test,Cr W,O,W,China,81.0,True,False
+CrWO6,4.296,4.263,155.0,666.1,train,Cr W,O,W,China,81.0,True,False
+V5Cr3O16,1.553,1.966,218.5,339.3,validation,Cr V,O,V,China,72.4,True,False
+VCr3O8,3.152,3.108,147.8,465.8,validation,Cr V,O,V,China,72.4,True,False
+V3CrO8,2.831,2.482,223.0,631.2,train,Cr V,O,V,China,72.4,True,False
+V3Cr3(WO8)2,3.044,3.104,111.6,339.9,train,Cr V W,O,W,China,81.0,True,False
+CrP2S7,1.948,2.566,77.6,151.1,train,Cr,P S,Cr,South Africa,48.0,True,False
+VCr3O8,2.795,2.48,362.5,1013.2,validation,Cr V,O,V,China,72.4,True,False
+VCrO4,2.881,3.21,154.1,444.1,train,Cr V,O,V,China,72.4,True,False
+VCr3O8,1.801,2.43,217.5,391.7,validation,Cr V,O,V,China,72.4,True,False
+V3CrO8,1.498,1.767,218.8,327.6,train,Cr V,O,V,China,72.4,True,False
+V3CrO8,2.748,2.348,148.7,408.5,train,Cr V,O,V,China,72.4,True,False
+V3CrO8,3.946,3.612,154.6,610.1,train,Cr V,O,V,China,72.4,True,False
+VCrO4,2.665,2.721,148.2,395.0,train,Cr V,O,V,China,72.4,True,False
+VCr2O6,2.939,3.082,98.6,289.9,validation,Cr V,O,V,China,72.4,True,False
+V2CrO6,2.986,2.748,198.0,591.3,validation,Cr V,O,V,China,72.4,True,False
+Cr3WO8,3.538,3.793,111.3,393.7,train,Cr W,O,W,China,81.0,True,False
+V3Cr5O16,1.566,2.21,217.8,341.2,validation,Cr V,O,V,China,72.4,True,False
+VCrO4,1.441,2.148,218.1,314.4,train,Cr V,O,V,China,72.4,True,False
+V3Cr2O10,2.808,2.485,118.7,333.4,train,Cr V,O,V,China,72.4,True,False
+V5Cr2O12,2.091,2.126,137.4,287.2,validation,Cr V,O,V,China,72.4,True,False
+Cr2(PS4)3,2.91,2.591,133.4,388.3,train,Cr,P S,Cr,South Africa,48.0,True,False
+CrS2,2.403,2.347,217.8,523.4,train,Cr,S,Cr,South Africa,48.0,True,False
+CrS2,2.56,2.721,112.0,286.8,train,Cr,S,Cr,South Africa,48.0,True,False
+CuF8,4.134,4.396,104.2,430.8,validation,Cu,F,Cu,Chile,26.5,False,False
+NbFe3Cu2(PO4)6,2.849,2.942,108.8,310.1,train,Cu Fe Nb,O P,Nb,Brazil,93.3,False,False
+Cs2MnO4,3.164,2.871,68.4,216.5,test,Mn,Cs O,Mn,South Africa,40.3,True,False
+CuF4,4.725,4.781,174.7,825.4,train,Cu,F,Cu,Chile,26.5,False,False
+MnCuF6,3.302,3.421,217.6,718.5,train,Cu Mn,F,Mn,South Africa,40.3,True,False
+CuPO4F,5.134,5.169,145.3,746.0,train,Cu,F O P,Cu,Chile,26.5,False,False
+CuF3,4.284,4.567,105.1,450.3,train,Cu,F,Cu,Chile,26.5,False,False
+Fe3CuO8,3.775,3.56,138.6,523.1,validation,Cu Fe,O,Fe,Australia,38.5,False,False
+Cu6OF11,3.611,4.215,43.7,157.8,validation,Cu,F O,Cu,Chile,26.5,False,False
+Cs2PdF6,2.934,3.205,54.3,159.5,train,,Cs F Pd,,,0.0,False,False
+CsMnP3HO10,2.612,3.079,59.7,156.0,train,Mn,Cs H O P,Mn,South Africa,40.3,True,False
+CuMoF6,1.764,2.365,186.5,329.0,test,Cu Mo,F,Mo,China,37.3,False,False
+FeCuO4,2.976,3.865,69.1,205.8,train,Cu Fe,O,Fe,Australia,38.5,False,False
+Fe(CuO3)2,4.044,4.035,89.4,361.6,train,Cu Fe,O,Fe,Australia,38.5,False,False
+TiFe3Cu2(PO4)6,3.189,3.008,114.0,363.7,train,Cu Fe Ti,O P,Fe,Australia,38.5,True,False
+Fe2Cu(PO4)3,3.331,3.344,113.1,376.7,train,Cu Fe,O P,Fe,Australia,38.5,False,False
+Fe3Cu(PO4)4,3.694,3.489,167.8,620.0,train,Cu Fe,O P,Fe,Australia,38.5,False,False
+V3Fe2CuO12,4.968,3.087,75.8,376.5,test,Cu Fe V,O,V,China,72.4,False,False
+FeCu3(PO4)4,3.895,3.856,163.9,638.3,validation,Cu Fe,O P,Fe,Australia,38.5,False,False
+FeCu(PO4)2,3.732,3.801,165.8,618.9,train,Cu Fe,O P,Fe,Australia,38.5,False,False
+FeCu3O8,4.245,3.733,66.6,282.8,train,Cu Fe,O,Fe,Australia,38.5,False,False
+FeCuS2,1.801,1.724,140.7,253.4,train,Cu Fe,S,Fe,Australia,38.5,False,False
+Fe2Cu3O10,3.921,3.704,53.9,211.4,test,Cu Fe,O,Fe,Australia,38.5,False,False
+V3Fe2CuO12,3.649,3.378,75.8,276.5,test,Cu Fe V,O,V,China,72.4,False,False
+Cu(HO)4,2.897,2.058,184.3,533.7,test,Cu,H O,Cu,Chile,26.5,False,False
+Cu(HO2)2,2.855,2.227,81.6,232.9,test,Cu,H O,Cu,Chile,26.5,False,False
+La4CuO8,3.923,3.717,35.5,139.4,train,Cu,La O,Cu,Chile,26.5,False,False
+Ho2Cu(SiO3)4,1.777,2.122,38.0,67.6,train,Cu,Ho O Si,Cu,Chile,26.5,False,False
+RbCu2H3(SO5)2,2.602,2.927,60.0,156.1,validation,Cu,H O Rb S,Cu,Chile,26.5,False,False
+In2CuSe4,2.529,2.517,43.5,110.0,train,Cu,In Se,Cu,Chile,26.5,False,False
+La8Cu3O16,3.313,3.616,17.1,56.7,train,Cu,La O,Cu,Chile,26.5,False,False
+MnCu3O8,3.329,3.707,66.8,222.3,validation,Cu Mn,O,Mn,South Africa,40.3,True,False
+Mn5CuO12,3.397,3.604,192.1,652.7,train,Cu Mn,O,Mn,South Africa,40.3,True,False
+Mn5Cu(PO4)6,3.738,3.91,114.6,428.2,train,Cu Mn,O P,Mn,South Africa,40.3,True,False
+MnV4CuO12,3.73,3.151,101.5,378.6,train,Cu Mn V,O,V,China,72.4,True,False
+Mn2Cu3O10,3.982,3.564,54.1,215.5,train,Cu Mn,O,Mn,South Africa,40.3,True,False
+Mn7Cu(PO4)12,4.905,4.799,130.5,640.0,train,Cu Mn,O P,Mn,South Africa,40.3,True,False
+Mn5(CuO6)2,3.275,3.557,87.2,285.7,validation,Cu Mn,O,Mn,South Africa,40.3,True,False
+Mn3CuO8,4.251,4.305,144.8,615.5,test,Cu Mn,O,Mn,South Africa,40.3,True,False
+MgCu2(SiO3)4,3.668,3.638,114.1,418.6,validation,Cu,Mg O Si,Cu,Chile,26.5,False,False
+Mn3Cu(PO4)4,3.524,3.455,208.4,734.4,train,Cu Mn,O P,Mn,South Africa,40.3,True,False
+MnCu3(PO4)4,4.129,3.957,164.1,677.6,train,Cu Mn,O P,Mn,South Africa,40.3,True,False
+MnCu(PO4)2,3.865,3.892,166.3,642.8,train,Cu Mn,O P,Mn,South Africa,40.3,True,False
+Mg3Cu9(SiO3)16,3.627,3.771,111.8,405.5,train,Cu,Mg O Si,Cu,Chile,26.5,False,False
+Mn3Cu3(TeO8)2,3.988,4.118,119.9,478.0,test,Cu Mn,O Te,Mn,South Africa,40.3,True,False
+Mn3CuO8,3.317,3.332,279.1,925.6,test,Cu Mn,O,Mn,South Africa,40.3,True,False
+Mn3CuNi2(PO4)6,3.753,4.004,113.6,426.6,train,Cu Mn Ni,O P,Ni,Indonesia,72.3,True,False
+CuO,3.592,2.829,309.9,1113.2,train,Cu,O,Cu,Chile,26.5,False,False
+Cu2Ni5O12,3.804,3.852,41.4,157.5,train,Cu Ni,O,Ni,Indonesia,72.3,False,False
+Na2CuP2O7,2.046,1.93,92.3,188.8,train,Cu,Na O P,Cu,Chile,26.5,False,False
+CuNi3O8,3.681,3.756,67.8,249.5,test,Cu Ni,O,Ni,Indonesia,72.3,False,False
+CuO2,4.529,4.686,135.3,612.9,train,Cu,O,Cu,Chile,26.5,False,False
+CuO,4.066,3.489,109.1,443.8,train,Cu,O,Cu,Chile,26.5,False,False
+V4CuNiO12,2.674,2.961,100.8,269.5,train,Cu Ni V,O,V,China,72.4,False,False
+CuO4,1.589,1.506,152.2,241.8,train,Cu,O,Cu,Chile,26.5,False,False
+CuO2,4.576,4.182,261.5,1196.8,train,Cu,O,Cu,Chile,26.5,False,False
+Ti3Nb(CuO4)3,3.362,4.458,42.8,143.9,test,Cu Nb Ti,O,Nb,Brazil,93.3,True,False
+CuO2,2.57,3.135,163.3,419.6,train,Cu,O,Cu,Chile,26.5,False,False
+CuO2,2.855,3.445,126.5,361.1,train,Cu,O,Cu,Chile,26.5,False,False
+CuO,3.107,3.292,161.4,501.5,train,Cu,O,Cu,Chile,26.5,False,False
+CuO2,3.941,4.024,261.5,1030.6,train,Cu,O,Cu,Chile,26.5,False,False
+Na2CuP2O7,2.038,2.153,92.3,188.1,train,Cu,Na O P,Cu,Chile,26.5,False,False
+NaCu(PO3)3,2.312,2.268,81.1,187.6,train,Cu,Na O P,Cu,Chile,26.5,False,False
+CuO,3.001,3.211,161.4,484.4,train,Cu,O,Cu,Chile,26.5,False,False
+CuP2O7,1.85,3.33,103.8,191.9,train,Cu,O P,Cu,Chile,26.5,False,False
+Cu2P3O10,4.598,4.068,69.3,318.5,validation,Cu,O P,Cu,Chile,26.5,False,False
+Cu(PO3)4,5.298,5.03,68.1,361.0,train,Cu,O P,Cu,Chile,26.5,False,False
+Cu2P5O16,4.37,4.215,95.9,419.2,test,Cu,O P,Cu,Chile,26.5,False,False
+CuPO4,4.466,4.246,162.0,723.4,train,Cu,O P,Cu,Chile,26.5,False,False
+CuPO4,4.011,3.916,162.0,649.7,train,Cu,O P,Cu,Chile,26.5,False,False
+Cu(PO3)3,3.624,3.51,170.5,618.0,test,Cu,O P,Cu,Chile,26.5,False,False
+CuPO4,3.28,3.203,155.5,510.0,train,Cu,O P,Cu,Chile,26.5,False,False
+Cu4(PO4)3,3.825,4.162,49.1,187.7,train,Cu,O P,Cu,Chile,26.5,False,False
+CuP2O7,4.624,4.486,106.6,493.0,train,Cu,O P,Cu,Chile,26.5,False,False
+Cu(PO4)2,4.488,4.505,95.3,427.7,train,Cu,O P,Cu,Chile,26.5,False,False
+CuPO4,3.021,3.557,155.5,469.6,train,Cu,O P,Cu,Chile,26.5,False,False
+CuPO4,4.134,4.186,162.0,669.7,train,Cu,O P,Cu,Chile,26.5,False,False
+CuP4O11,1.981,3.582,72.4,143.4,train,Cu,O P,Cu,Chile,26.5,False,False
+CuPO4,3.176,3.519,155.5,493.8,train,Cu,O P,Cu,Chile,26.5,False,False
+Cu4(PO4)3,3.897,4.239,49.1,191.3,train,Cu,O P,Cu,Chile,26.5,False,False
+CuPO4,3.894,3.482,310.9,1210.8,train,Cu,O P,Cu,Chile,26.5,False,False
+Cu4(PO4)3,4.369,4.359,49.1,214.5,train,Cu,O P,Cu,Chile,26.5,False,False
+Cu3(P2O7)2,4.203,3.956,97.0,407.9,validation,Cu,O P,Cu,Chile,26.5,False,False
+CuPO4,4.595,4.615,162.0,744.2,train,Cu,O P,Cu,Chile,26.5,False,False
+Cu5P3O13,3.746,4.228,42.8,160.5,train,Cu,O P,Cu,Chile,26.5,False,False
+Cu3(P2O7)2,4.598,4.026,120.5,554.2,validation,Cu,O P,Cu,Chile,26.5,False,False
+VCu(PO4)2,3.244,3.265,168.4,546.3,train,Cu V,O P,V,China,72.4,False,False
+Cu2(SO4)3,3.31,4.034,61.5,203.4,train,Cu,O S,Cu,Chile,26.5,False,False
+CuPO4,3.782,3.673,155.5,588.0,train,Cu,O P,Cu,Chile,26.5,False,False
+Cu(PO3)3,3.533,3.392,170.5,602.5,test,Cu,O P,Cu,Chile,26.5,False,False
+TiCu3(PO4)4,3.451,3.699,165.9,572.5,train,Cu Ti,O P,Ti,China,35.0,True,False
+Cu2(SO4)3,4.181,4.026,184.4,770.9,train,Cu,O S,Cu,Chile,26.5,False,False
+V3Cu(PO4)4,2.804,2.747,171.8,481.7,test,Cu V,O P,V,China,72.4,False,False
+Cu(PO4)2,3.754,4.106,186.0,698.3,train,Cu,O P,Cu,Chile,26.5,False,False
+CuSbO5,3.575,3.706,93.7,334.9,train,Cu,O Sb,Cu,Chile,26.5,False,False
+CuSb(PO4)2,3.081,3.274,137.8,424.5,train,Cu,O P Sb,Cu,Chile,26.5,False,False
+V3Cu(PO4)6,3.686,3.554,194.3,715.9,train,Cu V,O P,V,China,72.4,False,False
+Cu(RhO2)2,1.433,1.678,39.8,57.0,train,Cu,O Rh,Cu,Chile,26.5,False,False
+Cu(PO3)4,4.408,4.893,68.1,300.4,train,Cu,O P,Cu,Chile,26.5,False,False
+Cu(PO4)2,3.766,4.059,186.0,700.5,train,Cu,O P,Cu,Chile,26.5,False,False
+CuP4(RuO7)2,2.595,4.955,43.2,112.1,test,Cu,O P Ru,Cu,Chile,26.5,False,False
+Cu(PO3)4,5.397,4.239,68.1,367.8,train,Cu,O P,Cu,Chile,26.5,False,False
+V2Cu(PO4)3,2.783,2.744,115.5,321.3,train,Cu V,O P,V,China,72.4,False,False
+Cu(PO3)4,4.701,4.736,68.1,320.3,train,Cu,O P,Cu,Chile,26.5,False,False
+Cu9(PO4)8,4.208,4.093,117.1,492.7,train,Cu,O P,Cu,Chile,26.5,False,False
+Cu3Sb(PO4)4,3.638,3.792,148.9,541.6,train,Cu,O P Sb,Cu,Chile,26.5,False,False
+Cu2(SO4)3,4.824,4.793,124.9,602.5,train,Cu,O S,Cu,Chile,26.5,False,False
+Cu2(SO4)3,4.025,3.856,184.4,742.0,train,Cu,O S,Cu,Chile,26.5,False,False
+Cu5(Si2O7)2,3.957,3.864,80.3,317.5,validation,Cu,O Si,Cu,Chile,26.5,False,False
+V4CuO12,3.74,3.235,111.6,417.5,train,Cu V,O,V,China,72.4,False,False
+Cu(TeO3)4,3.471,3.696,102.2,354.8,train,Cu,O Te,Cu,Chile,26.5,False,False
+V3CuO8,3.482,3.386,149.6,521.0,train,Cu V,O,V,China,72.4,False,False
+V5CuO12,2.595,2.808,102.3,265.4,train,Cu V,O,V,China,72.4,False,False
+Cu3TeO8,2.709,3.168,56.5,153.2,train,Cu,O Te,Cu,Chile,26.5,False,False
+Ti3Cu3(TeO8)2,3.653,3.869,122.8,448.4,train,Cu Ti,O Te,Ti,China,35.0,True,False
+Ta2CuO6,3.217,3.498,50.7,163.2,train,Cu,O Ta,Cu,Chile,26.5,False,False
+Ti16CuS32,2.007,2.442,112.2,225.2,test,Cu Ti,S,Ti,China,35.0,True,False
+CuS2,1.789,1.722,199.1,356.1,train,Cu,S,Cu,Chile,26.5,False,False
+FeF4,3.604,3.561,183.9,662.9,train,Fe,F,Fe,Australia,38.5,False,False
+Fe5(OF2)4,4.669,4.399,53.4,249.2,train,Fe,F O,Fe,Australia,38.5,False,False
+FeO5F,2.987,2.225,127.4,380.6,test,Fe,F O,Fe,Australia,38.5,False,False
+FeF3,3.247,3.209,223.8,726.4,validation,Fe,F,Fe,Australia,38.5,False,False
+FeOF3,2.571,2.985,179.1,460.5,test,Fe,F O,Fe,Australia,38.5,False,False
+Fe2O2F3,4.665,4.042,129.1,602.2,train,Fe,F O,Fe,Australia,38.5,False,False
+Fe7O7F,3.126,3.404,50.7,158.4,train,Fe,F O,Fe,Australia,38.5,False,False
+Fe7(OF3)3,3.197,2.675,43.4,138.9,validation,Fe,F O,Fe,Australia,38.5,False,False
+Fe4OF7,2.796,2.556,70.7,197.6,test,Fe,F O,Fe,Australia,38.5,False,False
+Fe3(OF2)2,2.571,2.99,48.0,123.5,train,Fe,F O,Fe,Australia,38.5,False,False
+FeO5F,3.292,2.341,254.8,838.8,test,Fe,F O,Fe,Australia,38.5,False,False
+FeF4,3.308,3.656,183.9,608.4,train,Fe,F,Fe,Australia,38.5,False,False
+Fe3(OF3)2,3.15,3.067,235.6,742.0,train,Fe,F O,Fe,Australia,38.5,False,False
+Fe3OF5,2.316,2.676,93.9,217.4,train,Fe,F O,Fe,Australia,38.5,False,False
+Fe7O3F13,3.522,2.956,186.0,655.0,train,Fe,F O,Fe,Australia,38.5,False,False
+FeOF4,2.75,3.096,152.6,419.7,train,Fe,F O,Fe,Australia,38.5,False,False
+Fe7(OF7)2,3.467,2.683,149.6,518.7,test,Fe,F O,Fe,Australia,38.5,False,False
+FeOF,3.637,3.314,36.5,132.8,train,Fe,F O,Fe,Australia,38.5,False,False
+Fe2OF3,3.24,2.692,139.9,453.2,train,Fe,F O,Fe,Australia,38.5,False,False
+FeF4,3.735,3.664,183.9,687.0,train,Fe,F,Fe,Australia,38.5,False,False
+Fe5OF11,3.662,3.083,153.1,560.8,train,Fe,F O,Fe,Australia,38.5,False,False
+Fe5OF11,1.916,3.119,153.1,293.4,train,Fe,F O,Fe,Australia,38.5,False,False
+FeOF5,2.755,3.076,133.0,366.3,validation,Fe,F O,Fe,Australia,38.5,False,False
+Fe4O7F,3.579,3.964,37.4,134.0,validation,Fe,F O,Fe,Australia,38.5,False,False
+FeF3,3.461,3.049,223.8,774.5,validation,Fe,F,Fe,Australia,38.5,False,False
+FeF4,3.153,3.83,183.9,579.9,train,Fe,F,Fe,Australia,38.5,False,False
+FeOF3,2.669,2.947,179.1,477.9,test,Fe,F O,Fe,Australia,38.5,False,False
+FeOF5,2.826,3.118,133.0,375.8,validation,Fe,F O,Fe,Australia,38.5,False,False
+Fe5OF11,3.13,2.764,153.1,479.3,train,Fe,F O,Fe,Australia,38.5,False,False
+FeF4,3.367,3.974,183.9,619.3,train,Fe,F,Fe,Australia,38.5,False,False
+Fe4OF8,3.591,2.808,132.3,475.0,test,Fe,F O,Fe,Australia,38.5,False,False
+Fe5OF11,3.516,3.001,153.1,538.5,train,Fe,F O,Fe,Australia,38.5,False,False
+Fe5(OF2)4,4.89,4.125,53.4,261.0,train,Fe,F O,Fe,Australia,38.5,False,False
+FeF6,5.476,4.666,140.6,769.8,train,Fe,F,Fe,Australia,38.5,False,False
+FeOF3,2.668,2.949,179.1,477.8,test,Fe,F O,Fe,Australia,38.5,False,False
+FeOF,2.078,3.282,36.5,75.9,train,Fe,F O,Fe,Australia,38.5,False,False
+Fe4O7F,3.17,3.926,37.4,118.7,validation,Fe,F O,Fe,Australia,38.5,False,False
+Fe3OF7,3.57,3.301,238.3,851.0,validation,Fe,F O,Fe,Australia,38.5,False,False
+AgClO4,1.546,1.822,125.1,193.4,train,,Ag Cl O,,,0.0,False,False
+CsAcO3,2.147,2.517,64.6,138.7,train,,Ac Cs O,,,0.0,False,False
+AgAsF6,1.69,1.978,172.5,291.6,validation,,Ag As F,,,0.0,False,False
+AgF3,5.104,1.931,156.0,796.2,validation,,Ag F,,,0.0,False,False
+AgF2,4.882,1.005,87.7,428.1,test,,Ag F,,,0.0,False,False
+AgF4,5.052,3.459,135.5,684.8,validation,,Ag F,,,0.0,False,False
+AgRuO3,2.555,2.79,25.9,66.2,train,,Ag O Ru,,,0.0,False,False
+RbAgO2,1.734,2.109,115.4,200.1,train,,Ag O Rb,,,0.0,False,False
+Na2Ti3Al(PO4)6,1.009,1.863,98.8,99.7,train,Ti,Al Na O P,Ti,China,35.0,True,False
+FeBAsO7,4.018,4.103,97.7,392.5,train,Fe,As B O,Fe,Australia,38.5,False,False
+AlVO4,2.841,2.874,172.0,488.8,train,V,Al O,V,China,72.4,False,False
+MnBAsO7,3.52,3.948,98.0,344.9,train,Mn,As B O,Mn,South Africa,40.3,True,False
+Al2FeO6,4.128,3.896,236.5,976.5,validation,Fe,Al O,Fe,Australia,38.5,False,False
+Al3Cr3(SbO8)2,4.556,4.588,140.3,639.2,train,Cr,Al O Sb,Cr,South Africa,48.0,True,False
+AlV2O4,1.585,1.292,68.3,108.2,train,V,Al O,V,China,72.4,False,False
+ScAgO2,1.317,1.676,71.2,93.7,train,,Ag O Sc,,,0.0,False,False
+CrAsCO7,4.493,3.702,101.2,454.8,test,Cr,As C O,Cr,South Africa,48.0,True,False
+CuAsCO7,3.643,3.729,94.6,344.6,train,Cu,As C O,Cu,Chile,26.5,False,False
+FeAs2O7,5.443,5.239,82.6,449.4,train,Fe,As O,Fe,Australia,38.5,False,False
+MnAsCO7,3.629,3.612,195.1,708.2,train,Mn,As C O,Mn,South Africa,40.3,True,False
+Fe2(AsO4)3,5.086,4.77,146.4,744.5,validation,Fe,As O,Fe,Australia,38.5,False,False
+FeAsCO7,3.798,3.496,194.5,738.7,test,Fe,As C O,Fe,Australia,38.5,False,False
+VAsCO7,3.292,3.068,101.6,334.5,validation,V,As C O,V,China,72.4,False,False
+CoAsO4,4.521,4.362,130.9,591.7,train,Co,As O,Co,Congo (Kinshasa),75.3,False,False
+MnAsO4,3.767,3.491,133.5,502.9,validation,Mn,As O,Mn,South Africa,40.3,True,False
+MnAs,1.221,0.561,195.9,239.2,validation,Mn,As,Mn,South Africa,40.3,True,False
+NiAsO4,5.033,5.093,131.0,659.4,train,Ni,As O,Ni,Indonesia,72.3,False,False
+VAs2O9,3.726,4.019,71.9,268.1,train,V,As O,V,China,72.4,False,False
+CuBO3,1.575,1.877,51.1,80.5,train,Cu,B O,Cu,Chile,26.5,False,False
+Bi(BO3)2,3.916,4.186,77.1,302.1,train,,B Bi O,,,0.0,False,False
+BC,2.255,2.363,450.3,1015.3,train,,B C,,,0.0,False,False
+Cr(BO3)2,3.916,3.583,105.6,413.4,train,Cr,B O,Cr,South Africa,48.0,True,False
+CuBH4ClO4,2.321,2.011,73.9,171.6,train,Cu,B Cl H O,Cu,Chile,26.5,False,False
+AuC2,3.72,3.794,117.6,437.4,train,,Au C,,,0.0,False,False
+FeBO3,3.058,2.918,166.5,509.1,train,Fe,B O,Fe,Australia,38.5,False,False
+CuAuO2,2.038,3.08,89.5,182.4,validation,Cu,Au O,Cu,Chile,26.5,False,False
+FeBO3,3.089,2.989,139.8,431.7,train,Fe,B O,Fe,Australia,38.5,False,False
+CrB3(HO3)3,4.066,4.234,112.4,457.2,train,Cr,B H O,Cr,South Africa,48.0,True,False
+CoBO3,3.044,3.13,265.0,806.7,train,Co,B O,Co,Congo (Kinshasa),75.3,False,False
+SbAu,1.186,1.248,80.6,95.6,train,,Au Sb,,,0.0,False,False
+Mn2Fe(BO3)4,2.957,3.477,123.0,363.8,train,Fe Mn,B O,Mn,South Africa,40.3,True,False
+FeBO3,3.02,2.925,165.3,499.3,train,Fe,B O,Fe,Australia,38.5,False,False
+VAsO5,3.847,3.567,125.9,484.5,test,V,As O,V,China,72.4,False,False
+FeBO3,3.023,2.981,166.5,503.3,train,Fe,B O,Fe,Australia,38.5,False,False
+FeBPO7,5.488,4.137,116.3,638.3,train,Fe,B O P,Fe,Australia,38.5,False,False
+FeBO3,3.069,2.913,166.5,511.0,train,Fe,B O,Fe,Australia,38.5,False,False
+Fe3(BO3)4,3.035,3.314,122.5,371.8,train,Fe,B O,Fe,Australia,38.5,False,False
+MnBO3,3.432,3.437,111.0,381.1,train,Mn,B O,Mn,South Africa,40.3,True,False
+FeBO4,3.119,3.386,181.1,564.7,validation,Fe,B O,Fe,Australia,38.5,False,False
+MnBO3,4.069,3.567,222.1,903.7,train,Mn,B O,Mn,South Africa,40.3,True,False
+Mn3(BO3)4,3.298,3.48,123.3,406.7,train,Mn,B O,Mn,South Africa,40.3,True,False
+Na3MnBPO7,1.787,1.794,94.2,168.3,train,Mn,B Na O P,Mn,South Africa,40.3,True,False
+MnBO3,3.38,3.432,112.7,380.8,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.15,3.417,56.3,177.4,train,Mn,B O,Mn,South Africa,40.3,True,False
+FeBO3,3.021,2.934,166.5,503.0,train,Fe,B O,Fe,Australia,38.5,False,False
+MnBO3,3.349,3.393,112.1,375.4,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.336,3.361,112.1,374.0,train,Mn,B O,Mn,South Africa,40.3,True,False
+Fe(BO3)2,4.39,3.89,137.9,605.6,test,Fe,B O,Fe,Australia,38.5,False,False
+MnBO3,3.524,3.439,56.3,198.5,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.378,3.35,111.0,375.1,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.638,3.575,18.6,67.7,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.32,3.375,112.1,372.2,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.996,3.557,37.4,149.3,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.369,3.371,83.9,282.6,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.229,3.438,56.3,181.9,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.344,3.387,83.9,280.5,train,Mn,B O,Mn,South Africa,40.3,True,False
+Mn(BO3)2,3.718,3.831,138.6,515.2,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.851,3.564,37.4,143.9,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.368,3.384,83.9,282.5,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,4.961,3.343,18.6,92.2,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.359,3.341,112.1,376.6,train,Mn,B O,Mn,South Africa,40.3,True,False
+V5(BO5)2,1.965,1.721,60.5,118.8,train,V,B O,V,China,72.4,False,False
+VBO4,2.795,3.38,202.0,564.5,test,V,B O,V,China,72.4,False,False
+MnBO3,3.4,3.379,112.1,381.1,train,Mn,B O,Mn,South Africa,40.3,True,False
+NiBO3,4.763,4.09,71.8,342.0,validation,Ni,B O,Ni,Indonesia,72.3,False,False
+Sn(BO3)2,1.922,3.248,104.2,200.3,validation,Sn,B O,Sn,China,24.5,False,False
+Sn(BO3)2,2.312,2.865,104.2,241.0,validation,Sn,B O,Sn,China,24.5,False,False
+MnBO3,3.386,3.444,112.7,381.4,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.389,3.396,55.9,189.5,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.303,3.366,74.7,246.9,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBPO7,3.607,4.165,116.8,421.2,train,Mn,B O P,Mn,South Africa,40.3,True,False
+MnBO3,4.018,3.566,37.4,150.2,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.246,3.379,56.3,182.8,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.536,3.54,56.3,199.2,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.367,3.359,112.1,377.4,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.953,3.545,37.4,147.7,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.309,3.412,56.3,186.4,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.367,3.349,112.1,377.5,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.957,3.555,37.4,147.9,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.346,3.429,56.3,188.5,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.423,3.367,112.1,383.8,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.418,3.417,112.1,383.2,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.369,3.354,37.4,125.9,train,Mn,B O,Mn,South Africa,40.3,True,False
+MnBO3,3.256,3.401,112.1,365.1,train,Mn,B O,Mn,South Africa,40.3,True,False
+Ti(BO3)2,1.159,2.581,143.9,166.7,validation,Ti,B O,Ti,China,35.0,True,False
+MnBO3,3.211,3.441,56.3,180.9,train,Mn,B O,Mn,South Africa,40.3,True,False
+VBPO7,3.101,3.262,118.8,368.5,train,V,B O P,V,China,72.4,False,False
+MnBO3,3.123,3.428,37.2,116.1,train,Mn,B O,Mn,South Africa,40.3,True,False
+Ba2(CuO2)3,2.868,3.231,47.2,135.3,train,Cu,Ba O,Cu,Chile,26.5,False,False
+BaCaVP2O9,2.006,2.319,60.7,121.9,validation,V,Ba Ca O P,V,China,72.4,False,False
+Ba4Y2Cu5O14,3.689,3.844,21.0,77.5,train,Cu,Ba O Y,Cu,Chile,26.5,False,False
+Ba2TbSnO6,1.92,2.334,40.9,78.5,train,Sn,Ba O Tb,Sn,China,24.5,False,False
+Ba2VP2O9,1.195,1.715,49.8,59.5,train,V,Ba O P,V,China,72.4,False,False
+Co3BiO8,4.436,4.173,101.6,450.6,train,Co,Bi O,Co,Congo (Kinshasa),75.3,False,False
+Ba4Nb3O12,4.622,2.797,26.1,120.6,validation,Nb,Ba O,Nb,Brazil,93.3,False,False
+Ba2Ti11O24,2.399,2.912,22.5,53.9,train,Ti,Ba O,Ti,China,35.0,True,False
+Bi3(PO5)2,4.727,4.413,31.3,148.0,test,,Bi O P,,,0.0,False,False
+BiP2O7,4.822,4.663,68.7,331.5,train,,Bi O P,,,0.0,False,False
+Bi(PO3)4,5.02,5.189,50.4,253.0,train,,Bi O P,,,0.0,False,False
+Bi(PO3)4,5.225,5.062,50.4,263.3,train,,Bi O P,,,0.0,False,False
+BiO6,1.84,2.487,74.3,136.8,train,,Bi O,,,0.0,False,False
+BiF5,5.318,4.38,168.6,896.9,validation,,Bi F,,,0.0,False,False
+Bi2(PO4)3,4.572,4.344,111.1,508.0,train,,Bi O P,,,0.0,False,False
+Bi2(PO4)3,4.732,4.544,74.1,350.5,train,,Bi O P,,,0.0,False,False
+Bi(PO3)4,4.949,5.08,50.4,249.4,train,,Bi O P,,,0.0,False,False
+Bi2(PO4)3,4.486,4.402,111.1,498.5,train,,Bi O P,,,0.0,False,False
+BiP2O7,5.327,4.969,68.7,366.2,train,,Bi O P,,,0.0,False,False
+Bi(PO3)4,5.241,5.141,50.4,264.1,train,,Bi O P,,,0.0,False,False
+BiP2O7,4.803,4.591,68.7,330.2,train,,Bi O P,,,0.0,False,False
+Bi3P8O29,4.61,4.563,114.8,529.0,test,,Bi O P,,,0.0,False,False
+Bi(PO4)2,4.652,4.765,127.7,594.1,train,,Bi O P,,,0.0,False,False
+BiP2O7,4.525,4.663,68.7,311.1,train,,Bi O P,,,0.0,False,False
+Bi2P5O18,5.004,4.969,119.7,599.0,train,,Bi O P,,,0.0,False,False
+BiP2O7,4.572,4.727,68.7,314.3,train,,Bi O P,,,0.0,False,False
+Bi5(PO4)6,5.415,4.479,49.2,266.2,validation,,Bi O P,,,0.0,False,False
+Bi2(PO4)3,4.553,4.501,111.1,505.9,train,,Bi O P,,,0.0,False,False
+Bi(PdO2)2,4.135,4.063,54.4,224.9,train,,Bi O Pd,,,0.0,False,False
+BiP2O7,4.535,4.585,68.7,311.7,train,,Bi O P,,,0.0,False,False
+Bi2(SO4)3,1.469,4.443,37.6,55.2,test,,Bi O S,,,0.0,False,False
+V3Bi2(PO4)6,3.052,3.127,114.0,348.0,test,V,Bi O P,V,China,72.4,False,False
+Bi2(SO4)3,2.584,4.605,74.4,192.4,test,,Bi O S,,,0.0,False,False
+Bi(PO3)4,5.247,5.271,50.4,264.5,train,,Bi O P,,,0.0,False,False
+Si6BiO14,4.278,4.442,44.1,188.5,train,,Bi O Si,,,0.0,False,False
+Rb2MoBr6,2.08,2.037,35.6,74.0,train,Mo,Br Rb,Mo,China,37.3,False,False
+Rb2SbBr6,2.525,2.421,34.4,86.9,validation,,Br Rb Sb,,,0.0,False,False
+Na3CuPCO7,1.836,2.396,91.0,167.1,train,Cu,C Na O P,Cu,Chile,26.5,False,False
+Bi(WO4)2,4.827,4.113,37.7,181.8,train,W,Bi O,W,China,81.0,False,False
+Co(CO)4,3.327,4.481,150.6,501.2,validation,Co,C O,Co,Congo (Kinshasa),75.3,False,False
+SiBi3O7,3.685,4.12,34.6,127.6,train,,Bi O Si,,,0.0,False,False
+Si2BiO6,4.04,4.541,72.8,294.1,validation,,Bi O Si,,,0.0,False,False
+Co2(CO3)3,4.137,4.323,171.9,711.3,train,Co,C O,Co,Congo (Kinshasa),75.3,False,False
+Co2C4SO16,4.517,4.273,108.2,488.6,train,Co,C O S,Co,Congo (Kinshasa),75.3,False,False
+Cu2H4CO5,1.972,2.057,59.1,116.6,train,Cu,C H O,Cu,Chile,26.5,False,False
+NaFePCO7,3.72,3.383,216.4,805.0,train,Fe,C Na O P,Fe,Australia,38.5,False,False
+Na5Fe2P2(CO7)2,3.222,3.119,49.3,158.9,validation,Fe,C Na O P,Fe,Australia,38.5,False,False
+Fe(CO3)2,4.888,4.717,146.6,716.6,train,Fe,C O,Fe,Australia,38.5,False,False
+Co(CO3)2,4.366,4.149,278.0,1213.5,train,Co,C O,Co,Congo (Kinshasa),75.3,False,False
+CoCSO7,4.225,4.353,117.1,494.7,train,Co,C O S,Co,Congo (Kinshasa),75.3,False,False
+Na2CuPCO7,3.464,2.795,98.7,342.0,train,Cu,C Na O P,Cu,Chile,26.5,False,False
+CoPCO7,4.147,4.129,228.4,946.9,train,Co,C O P,Co,Congo (Kinshasa),75.3,False,False
+CuCO3,3.924,3.833,105.5,413.9,train,Cu,C O,Cu,Chile,26.5,False,False
+Co(CO3)2,4.614,4.031,208.5,961.9,train,Co,C O,Co,Congo (Kinshasa),75.3,False,False
+CuCO3,3.019,3.21,136.9,413.3,train,Cu,C O,Cu,Chile,26.5,False,False
+CuCSO7,4.102,4.023,114.8,470.8,train,Cu,C O S,Cu,Chile,26.5,False,False
+CoH8(CO5)2,3.432,3.787,202.4,694.4,train,Co,C H O,Co,Congo (Kinshasa),75.3,False,False
+Cs2SbBr6,2.547,2.572,30.7,78.1,train,,Br Cs Sb,,,0.0,False,False
+CoCO4,3.482,3.7,180.1,627.0,validation,Co,C O,Co,Congo (Kinshasa),75.3,False,False
+CrPCO7,3.263,3.469,119.5,389.8,test,Cr,C O P,Cr,South Africa,48.0,True,False
+Na5Fe2P2(CO7)2,3.102,3.094,49.3,153.0,validation,Fe,C Na O P,Fe,Australia,38.5,False,False
+Fe(CO3)2,3.866,3.607,211.9,819.2,train,Fe,C O,Fe,Australia,38.5,False,False
+Co2C2O7,4.527,4.3,102.8,465.2,train,Co,C O,Co,Congo (Kinshasa),75.3,False,False
+CuHCO4,3.42,3.367,181.7,621.5,train,Cu,C H O,Cu,Chile,26.5,False,False
+Fe2C2O7,3.225,3.896,105.2,339.4,test,Fe,C O,Fe,Australia,38.5,False,False
+Cr2C4SO16,2.124,3.034,28.4,60.4,train,Cr,C O S,Cr,South Africa,48.0,True,False
+CuCO3,2.947,3.04,102.7,302.7,train,Cu,C O,Cu,Chile,26.5,False,False
+Fe2(CO3)3,3.709,3.472,87.7,325.3,train,Fe,C O,Fe,Australia,38.5,False,False
+Cr(CO3)3,4.193,3.425,106.0,444.5,train,Cr,C O,Cr,South Africa,48.0,True,False
+Cr(CO3)2,3.351,3.202,98.6,330.3,validation,Cr,C O,Cr,South Africa,48.0,True,False
+CuCO3,3.295,3.702,69.7,229.7,train,Cu,C O,Cu,Chile,26.5,False,False
+Na5Fe2P2(CO7)2,2.876,2.988,49.3,141.8,validation,Fe,C Na O P,Fe,Australia,38.5,False,False
+CoH8(CO5)2,4.672,4.432,101.2,472.7,train,Co,C H O,Co,Congo (Kinshasa),75.3,False,False
+Cs2MoBr6,2.035,2.072,31.6,64.3,train,Mo,Br Cs,Mo,China,37.3,False,False
+NaCoPCO7,4.188,4.097,213.7,895.1,train,Co,C Na O P,Co,Congo (Kinshasa),75.3,False,False
+Cr(CO3)2,2.099,2.563,216.3,453.9,validation,Cr,C O,Cr,South Africa,48.0,True,False
+Cu2C4SO16,3.995,3.411,106.2,424.1,validation,Cu,C O S,Cu,Chile,26.5,False,False
+Na5Fe2P2(CO7)2,2.933,3.108,49.3,144.6,validation,Fe,C Na O P,Fe,Australia,38.5,False,False
+Co(CO3)2,3.095,4.093,69.5,215.1,train,Co,C O,Co,Congo (Kinshasa),75.3,False,False
+Co2C2O7,3.933,4.129,102.8,404.1,train,Co,C O,Co,Congo (Kinshasa),75.3,False,False
+CrCSO7,2.311,3.297,120.8,279.0,train,Cr,C O S,Cr,South Africa,48.0,True,False
+Cu2C2O7,3.609,3.808,96.8,349.2,train,Cu,C O,Cu,Chile,26.5,False,False
+CuCO3,3.294,3.473,205.4,676.5,train,Cu,C O,Cu,Chile,26.5,False,False
+CuPCO7,4.625,4.249,115.3,533.4,train,Cu,C O P,Cu,Chile,26.5,False,False
+Na5Fe2P2(CO7)2,2.913,3.165,49.3,143.7,validation,Fe,C Na O P,Fe,Australia,38.5,False,False
+CuCO3,3.312,3.447,205.4,680.3,train,Cu,C O,Cu,Chile,26.5,False,False
+CuCO3,2.919,2.953,136.9,399.7,train,Cu,C O,Cu,Chile,26.5,False,False
+Na5Fe2P2(CO7)2,2.902,3.14,49.3,143.1,validation,Fe,C Na O P,Fe,Australia,38.5,False,False
+Fe(CO3)2,3.997,3.505,211.9,846.8,train,Fe,C O,Fe,Australia,38.5,False,False
+FePCO7,3.821,3.43,231.4,884.1,train,Fe,C O P,Fe,Australia,38.5,False,False
+FeCO4,2.798,3.598,183.9,514.6,train,Fe,C O,Fe,Australia,38.5,False,False
+Fe(CO3)2,3.641,3.532,211.9,771.4,train,Fe,C O,Fe,Australia,38.5,False,False
+FePCO7,4.407,4.329,119.3,525.7,train,Fe,C O P,Fe,Australia,38.5,False,False
+Na2MnPCO7,3.115,3.096,102.0,317.6,test,Mn,C Na O P,Mn,South Africa,40.3,True,False
+Fe(CO3)4,4.196,4.067,60.8,255.1,train,Fe,C O,Fe,Australia,38.5,False,False
+Ni(CO3)2,4.801,4.459,69.6,334.1,train,Ni,C O,Ni,Indonesia,72.3,False,False
+FePCO7,4.689,4.267,119.3,559.2,train,Fe,C O P,Fe,Australia,38.5,False,False
+Mn(CO3)2,3.744,4.057,144.6,541.4,train,Mn,C O,Mn,South Africa,40.3,True,False
+Mn2C4SO16,3.886,3.655,109.9,427.1,train,Mn,C O S,Mn,South Africa,40.3,True,False
+FePCO7,2.718,3.686,58.7,159.6,train,Fe,C O P,Fe,Australia,38.5,False,False
+Fe2(CO3)3,3.278,3.806,175.4,574.9,train,Fe,C O,Fe,Australia,38.5,False,False
+FePCO7,3.732,3.757,117.5,438.3,train,Fe,C O P,Fe,Australia,38.5,False,False
+KNbPCO7,1.755,2.365,46.1,81.0,train,Nb,C K O P,Nb,Brazil,93.3,False,False
+MnPCO7,3.677,3.622,232.3,854.2,train,Mn,C O P,Mn,South Africa,40.3,True,False
+FePCO7,4.735,4.464,119.3,564.8,train,Fe,C O P,Fe,Australia,38.5,False,False
+FePCO7,4.105,3.843,176.2,723.3,train,Fe,C O P,Fe,Australia,38.5,False,False
+FeCSO7,4.06,3.645,237.4,963.9,train,Fe,C O S,Fe,Australia,38.5,False,False
+Mn(CO3)2,3.903,3.708,283.9,1107.9,train,Mn,C O,Mn,South Africa,40.3,True,False
+Mn(CO3)4,4.325,4.136,162.6,703.3,train,Mn,C O,Mn,South Africa,40.3,True,False
+MnPCO7,3.869,4.215,119.8,463.4,train,Mn,C O P,Mn,South Africa,40.3,True,False
+MnPCO7,3.541,3.769,117.9,417.6,train,Mn,C O P,Mn,South Africa,40.3,True,False
+MnCO5,4.789,4.358,83.3,399.0,test,Mn,C O,Mn,South Africa,40.3,True,False
+Na5Mn2P2(CO7)2,3.465,3.329,49.5,171.4,train,Mn,C Na O P,Mn,South Africa,40.3,True,False
+Na2MnPCO7,3.205,3.174,102.0,326.8,test,Mn,C Na O P,Mn,South Africa,40.3,True,False
+MnPCO7,3.638,3.82,117.9,429.0,train,Mn,C O P,Mn,South Africa,40.3,True,False
+MnCSO7,4.265,3.945,238.4,1016.5,train,Mn,C O S,Mn,South Africa,40.3,True,False
+FePCO7,4.137,3.952,176.2,728.8,train,Fe,C O P,Fe,Australia,38.5,False,False
+NiH8(CO5)2,4.392,4.1,202.5,889.6,train,Ni,C H O,Ni,Indonesia,72.3,False,False
+Na5Mn2P2(CO7)2,3.247,3.178,49.5,160.6,train,Mn,C Na O P,Mn,South Africa,40.3,True,False
+Mn(CO3)2,4.056,3.667,212.9,863.4,train,Mn,C O,Mn,South Africa,40.3,True,False
+Na5Ni2P2(CO7)2,4.158,4.183,48.8,202.9,train,Ni,C Na O P,Ni,Indonesia,72.3,False,False
+Ni(CO3)2,4.825,4.601,139.2,671.5,train,Ni,C O,Ni,Indonesia,72.3,False,False
+Fe2C2O7,3.073,3.418,102.5,314.8,test,Fe,C O,Fe,Australia,38.5,False,False
+FeSiCO7,2.169,3.845,117.2,254.1,train,Fe,C O Si,Fe,Australia,38.5,False,False
+Fe2C2O7,3.079,3.423,204.9,630.9,test,Fe,C O,Fe,Australia,38.5,False,False
+FePCO7,3.832,3.725,117.5,450.1,train,Fe,C O P,Fe,Australia,38.5,False,False
+Fe2C2O7,2.536,3.866,105.2,266.9,test,Fe,C O,Fe,Australia,38.5,False,False
+MnPCO7,3.743,3.817,176.9,662.0,train,Mn,C O P,Mn,South Africa,40.3,True,False
+MnPCO7,3.83,4.19,119.8,458.7,train,Mn,C O P,Mn,South Africa,40.3,True,False
+Fe2C4SO16,3.489,3.418,109.5,382.1,train,Fe,C O S,Fe,Australia,38.5,False,False
+NaMnPCO7,3.654,3.607,217.2,793.6,train,Mn,C Na O P,Mn,South Africa,40.3,True,False
+Mn(CO3)2,4.429,4.468,147.3,652.5,train,Mn,C O,Mn,South Africa,40.3,True,False
+KMnPCO7,3.912,3.998,104.7,409.6,train,Mn,C K O P,Mn,South Africa,40.3,True,False
+MnSiCO7,3.701,4.031,117.6,435.3,train,Mn,C O Si,Mn,South Africa,40.3,True,False
+Ni(CO3)2,4.398,4.462,139.2,612.0,train,Ni,C O,Ni,Indonesia,72.3,False,False
+TiPCO7,1.084,2.146,239.7,259.7,test,Ti,C O P,Ti,China,35.0,True,False
+NiPCO7,4.956,4.501,228.6,1133.0,train,Ni,C O P,Ni,Indonesia,72.3,False,False
+PWCO7,2.387,2.562,76.0,181.4,train,W,C O P,W,China,81.0,False,False
+NiCSO7,4.436,4.536,117.2,520.0,train,Ni,C O S,Ni,Indonesia,72.3,False,False
+VPCO7,2.726,2.765,236.4,644.4,test,V,C O P,V,China,72.4,False,False
+Ni2C4SO16,4.807,4.792,108.3,520.4,train,Ni,C O S,Ni,Indonesia,72.3,False,False
+V2C4SO16,2.543,2.528,111.8,284.2,train,V,C O S,V,China,72.4,False,False
+Ca9Co(PO4)7,3.038,3.798,24.6,74.6,train,Co,Ca O P,Co,Congo (Kinshasa),75.3,False,False
+VCO5,3.969,3.583,85.4,339.2,validation,V,C O,V,China,72.4,False,False
+V(CO3)2,2.872,2.81,290.0,832.8,train,V,C O,V,China,72.4,False,False
+V(CO3)2,2.954,2.928,221.7,654.8,train,V,C O,V,China,72.4,False,False
+VSiCO7,3.361,3.263,239.5,804.7,test,V,C O Si,V,China,72.4,False,False
+V(CO3)2,2.503,2.651,217.5,544.4,train,V,C O,V,China,72.4,False,False
+Ca3Fe5Sn3O16,2.576,3.234,26.3,67.8,train,Fe Sn,Ca O,Fe,Australia,38.5,False,False
+Ca9Mn(PO4)7,4.47,3.944,24.6,110.2,train,Mn,Ca O P,Mn,South Africa,40.3,True,False
+V(CO3)2,2.862,3.276,99.1,283.7,train,V,C O,V,China,72.4,False,False
+K2MoCl6,2.349,2.276,68.1,159.9,train,Mo,Cl K,Mo,China,37.3,False,False
+V(CO3)2,3.043,2.803,290.0,882.4,train,V,C O,V,China,72.4,False,False
+FeWClO4,3.39,3.144,77.4,262.5,train,Fe W,Cl O,W,China,81.0,False,False
+Ca2Ta3O10,1.562,1.842,33.6,52.5,train,,Ca O Ta,,,0.0,False,False
+V(CO3)2,2.727,2.651,217.5,593.2,train,V,C O,V,China,72.4,False,False
+LuWClO4,1.784,1.996,29.0,51.8,train,W,Cl Lu O,W,China,81.0,False,False
+V(CO3)2,2.909,2.577,290.0,843.7,train,V,C O,V,China,72.4,False,False
+Cs2SbCl6,3.033,3.251,44.1,133.9,train,,Cl Cs Sb,,,0.0,False,False
+Na2CaVP2O9,1.317,1.739,76.6,100.9,train,V,Ca Na O P,V,China,72.4,False,False
+FeClO,2.242,3.187,121.0,271.2,validation,Fe,Cl O,Fe,Australia,38.5,False,False
+FeMoClO4,3.429,3.138,103.8,356.0,train,Fe Mo,Cl O,Fe,Australia,38.5,False,False
+TiNCl,1.338,1.851,257.0,343.9,train,Ti,Cl N,Ti,China,35.0,True,False
+V(CO3)2,4.034,3.356,150.7,607.8,train,V,C O,V,China,72.4,False,False
+V(CO3)3,3.534,3.134,106.4,376.2,train,V,C O,V,China,72.4,False,False
+V(CO3)2,3.016,3.239,75.3,227.2,train,V,C O,V,China,72.4,False,False
+Nb2Te4Cl10O,2.519,2.629,25.0,62.9,train,Nb,Cl O Te,Nb,Brazil,93.3,False,False
+V(CO3)4,3.531,3.301,82.3,290.6,test,V,C O,V,China,72.4,False,False
+Ca2Nb3O10,1.979,2.323,37.9,74.9,test,Nb,Ca O,Nb,Brazil,93.3,False,False
+Cs2MoCl6,2.202,2.577,46.1,101.5,train,Mo,Cl Cs,Mo,China,37.3,False,False
+Rb2Pu(Cl2O)2,2.771,2.872,45.0,124.7,train,,Cl O Pu Rb,,,0.0,False,False
+WCl6,2.636,2.726,66.4,175.1,train,W,Cl,W,China,81.0,False,False
+Cr2Fe3Co3O16,2.669,3.086,207.8,554.7,validation,Co Cr Fe,O,Co,Congo (Kinshasa),75.3,True,False
+Rb2VCl6,2.62,2.596,60.7,159.0,train,V,Cl Rb,V,China,72.4,False,False
+Rb2SbCl6,3.05,3.087,52.3,159.5,train,,Cl Rb Sb,,,0.0,False,False
+Cr2CoO6,3.685,3.506,191.6,706.1,train,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+CrCo5O12,4.02,3.781,189.3,760.9,train,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+Mn3CrCo2(PO4)6,3.776,3.831,115.0,434.2,train,Co Cr Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+Cr(CoO3)2,3.498,3.52,187.0,654.0,train,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+Cr3Co5O16,3.871,3.895,146.0,565.0,train,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+Cr(CoO3)2,3.689,3.541,280.5,1034.6,train,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+CrCo3O8,3.406,3.445,278.8,949.5,validation,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+CrCo3(PO4)4,3.939,3.88,168.4,663.5,train,Co Cr,O P,Co,Congo (Kinshasa),75.3,True,False
+Cr3Co(PO4)6,4.286,4.264,225.1,964.9,train,Co Cr,O P,Co,Congo (Kinshasa),75.3,True,False
+CoF3,4.648,3.107,218.1,1013.9,validation,Co,F,Co,Congo (Kinshasa),75.3,False,False
+Mn2Fe3Co3O16,3.197,2.967,343.8,1099.1,train,Co Fe Mn,O,Co,Congo (Kinshasa),75.3,True,False
+MnFeCo(PO4)3,3.88,3.814,169.1,656.2,test,Co Fe Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+Co3CuO8,3.768,3.439,203.0,764.8,train,Co Cu,O,Co,Congo (Kinshasa),75.3,False,False
+Mn2Cr3Co3O16,4.009,4.045,147.6,591.7,train,Co Cr Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn3CoCu2(PO4)6,3.983,3.867,113.0,450.2,train,Co Cu Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+Co2Cu3O10,3.582,3.673,106.5,381.5,train,Co Cu,O,Co,Congo (Kinshasa),75.3,False,False
+MnFeCo(PO4)3,3.863,3.778,169.1,653.3,test,Co Fe Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+Cr3CoO8,3.656,3.653,144.6,528.6,validation,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+Mn3Fe3(CoO8)2,3.871,4.1,146.1,565.5,train,Co Fe Mn,O,Co,Congo (Kinshasa),75.3,True,False
+MnFeCo(PO4)3,3.859,3.777,169.1,652.6,test,Co Fe Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+Mn3Cr2Co3O16,4.492,4.034,147.0,660.2,validation,Co Cr Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Co2CuO6,3.348,3.642,179.7,601.8,train,Co Cu,O,Co,Congo (Kinshasa),75.3,False,False
+CoPO4F,4.515,4.577,143.5,647.8,train,Co,F O P,Co,Congo (Kinshasa),75.3,False,False
+MnFeCo(PO4)3,3.891,3.812,169.1,658.0,test,Co Fe Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+CoPO4F,4.519,4.219,143.5,648.5,train,Co,F O P,Co,Congo (Kinshasa),75.3,False,False
+MnFeCo(PO4)3,3.888,3.801,169.1,657.4,test,Co Fe Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+CrCo3O8,4.158,3.905,144.6,601.2,validation,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+Rb2CoF6,4.849,4.798,76.4,370.5,train,Co,F Rb,Co,Congo (Kinshasa),75.3,False,False
+MnFeCo(PO4)3,3.882,3.8,169.1,656.5,test,Co Fe Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+Cr3(CoO6)2,4.75,3.824,111.7,530.7,validation,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+Cr3(CoO6)2,3.681,3.894,165.2,608.2,validation,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+Cr3Co(PO4)4,3.052,3.336,172.2,525.5,validation,Co Cr,O P,Co,Congo (Kinshasa),75.3,True,False
+CrCo(PO4)2,3.57,3.612,170.3,607.9,train,Co Cr,O P,Co,Congo (Kinshasa),75.3,True,False
+Cr(CoO3)2,3.843,3.894,191.6,736.4,train,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+CrCoO4,3.051,3.466,142.0,433.1,train,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+CoCu(PO4)2,4.0,3.921,203.2,812.6,train,Co Cu,O P,Co,Congo (Kinshasa),75.3,False,False
+MnFeCo(PO4)3,2.045,3.79,169.1,345.8,test,Co Fe Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+MnFeCo(PO4)3,3.915,3.801,169.1,662.1,test,Co Fe Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+CoCu3(PO4)4,3.725,3.748,239.6,892.5,train,Co Cu,O P,Co,Congo (Kinshasa),75.3,False,False
+Co3Cu3(TeO8)2,4.144,4.042,118.3,490.2,train,Co Cu,O Te,Co,Congo (Kinshasa),75.3,False,False
+Mn3Fe2Co3O16,4.155,4.14,145.5,604.4,train,Co Fe Mn,O,Co,Congo (Kinshasa),75.3,True,False
+CrCoO4,3.774,3.902,97.0,366.1,train,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+Cr3CoO8,3.566,3.648,144.6,515.6,validation,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+Cr3Co3(TeO8)2,3.938,3.881,123.0,484.2,train,Co Cr,O Te,Co,Congo (Kinshasa),75.3,True,False
+Mn3Cr3(CoO8)2,3.148,2.907,350.8,1104.2,train,Co Cr Mn,O,Co,Congo (Kinshasa),75.3,True,False
+CrCo3O8,4.524,3.986,144.6,654.3,validation,Co Cr,O,Co,Congo (Kinshasa),75.3,True,False
+Mn3Co3(CuO8)2,2.922,4.067,142.5,416.3,validation,Co Cu Mn,O,Co,Congo (Kinshasa),75.3,True,False
+CoCuO4,3.679,3.812,133.8,492.2,train,Co Cu,O,Co,Congo (Kinshasa),75.3,False,False
+Cr3Co3(SbO8)2,4.367,3.957,124.6,544.4,train,Co Cr,O Sb,Co,Congo (Kinshasa),75.3,True,False
+K2CoF6,5.186,4.775,103.9,538.6,train,Co,F K,Co,Congo (Kinshasa),75.3,False,False
+Co3OF5,2.261,2.232,46.0,104.0,train,Co,F O,Co,Congo (Kinshasa),75.3,False,False
+CoPO4F,4.559,4.364,287.0,1308.2,train,Co,F O P,Co,Congo (Kinshasa),75.3,False,False
+MnFeCo(PO4)3,3.775,3.829,169.1,638.4,test,Co Fe Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+MnFeCo(PO4)3,3.86,3.791,169.1,652.8,test,Co Fe Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+FeCo3O8,4.199,4.025,143.1,601.0,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+Fe2Co3Ni3O16,2.741,3.214,203.6,558.0,train,Co Fe Ni,O,Co,Congo (Kinshasa),75.3,False,False
+FeCoO4,3.8,3.791,278.2,1057.3,test,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+MnFeCo(PO4)3,3.894,3.772,169.1,658.5,test,Co Fe Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+Fe3CoO8,3.769,3.721,140.2,528.5,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+Fe2CoO6,3.97,3.753,93.2,370.2,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+Fe3Co3(NiO8)2,2.704,3.333,204.3,552.4,test,Co Fe Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Fe3Co2Ni3O16,3.987,3.31,204.4,814.9,train,Co Fe Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Fe3Co5O16,3.965,3.715,277.1,1098.7,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+Fe(CoO3)2,4.005,3.919,189.0,757.0,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+FeCoO4,3.291,3.823,208.7,686.7,test,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+FeCo9O20,3.699,3.605,274.7,1016.1,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+FeCo3O8,1.858,2.291,257.6,478.6,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+FeCo3O8,3.549,3.782,276.0,979.6,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+MnFeCo(PO4)3,3.833,3.805,169.1,648.3,test,Co Fe Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+MnFeCo(PO4)3,3.772,3.81,169.1,637.8,test,Co Fe Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+Fe2Co3O10,3.963,3.806,277.3,1099.1,validation,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+MnFeCo(PO4)3,3.821,3.802,169.1,646.2,test,Co Fe Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+Fe3CoO8,3.816,3.703,140.2,535.2,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+Fe(CoO3)2,3.883,3.756,276.8,1074.6,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+FeCo3O8,4.64,4.226,143.1,664.1,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+FeCo5O12,3.788,4.004,188.0,712.1,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+Fe9CoO20,4.193,3.508,169.1,709.0,test,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+FeCo3(PO4)4,4.122,4.024,167.4,690.2,train,Co Fe,O P,Co,Congo (Kinshasa),75.3,False,False
+FeCo3O8,4.027,4.042,143.1,576.4,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+Ti2Fe3Co3O16,2.506,3.088,210.1,526.4,train,Co Fe Ti,O,Co,Congo (Kinshasa),75.3,True,False
+MgCo13O28,3.739,3.352,240.8,900.3,train,Co,Mg O,Co,Congo (Kinshasa),75.3,False,False
+Fe2Co3Sb3O16,3.777,3.906,114.4,431.9,train,Co Fe,O Sb,Co,Congo (Kinshasa),75.3,False,False
+Fe3Co3(SbO8)2,4.522,4.049,123.0,556.2,train,Co Fe,O Sb,Co,Congo (Kinshasa),75.3,False,False
+CoGeO4,3.84,3.81,128.0,491.4,train,Co,Ge O,Co,Congo (Kinshasa),75.3,False,False
+Fe3Co7O20,3.938,3.737,276.5,1088.6,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+CoPHO5,4.05,3.978,290.1,1174.9,train,Co,H O P,Co,Congo (Kinshasa),75.3,False,False
+FeCo3(PO4)6,2.533,4.176,31.5,79.8,train,Co Fe,O P,Co,Congo (Kinshasa),75.3,False,False
+CoH8(SO6)2,4.438,4.277,159.1,705.8,train,Co,H O S,Co,Congo (Kinshasa),75.3,False,False
+Fe3Co5O16,3.922,4.085,143.7,563.7,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+Fe3Co(PO4)6,3.457,4.283,31.7,109.7,train,Co Fe,O P,Co,Congo (Kinshasa),75.3,False,False
+CoGeO4,3.85,3.88,128.0,492.7,train,Co,Ge O,Co,Congo (Kinshasa),75.3,False,False
+La4CoO8,3.725,4.025,35.8,133.2,test,Co,La O,Co,Congo (Kinshasa),75.3,False,False
+Fe3Co(PO4)4,3.731,3.692,169.1,630.8,train,Co Fe,O P,Co,Congo (Kinshasa),75.3,False,False
+MgCo3O8,3.365,3.285,150.2,505.5,train,Co,Mg O,Co,Congo (Kinshasa),75.3,False,False
+Fe5Co3O16,3.344,3.17,343.0,1147.1,train,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+Fe5(CoO6)2,3.358,3.512,85.9,288.5,validation,Co Fe,O,Co,Congo (Kinshasa),75.3,False,False
+La4CoO8,3.69,4.021,35.8,131.9,test,Co,La O,Co,Congo (Kinshasa),75.3,False,False
+K2CoO4,2.559,2.856,120.8,309.0,train,Co,K O,Co,Congo (Kinshasa),75.3,False,False
+Fe3Co3(TeO8)2,4.102,3.972,121.4,497.8,train,Co Fe,O Te,Co,Congo (Kinshasa),75.3,False,False
+SrLa15(CoO8)4,3.768,4.11,27.3,102.8,validation,Co,La O Sr,Co,Congo (Kinshasa),75.3,False,False
+Mn3Co3(SnO8)2,4.04,3.984,124.3,502.0,validation,Co Mn Sn,O,Co,Congo (Kinshasa),75.3,True,False
+MnCoO4,3.433,3.254,279.5,959.6,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+MnCo3O8,3.39,3.285,276.7,938.0,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+MnCo3O8,3.194,3.664,70.4,224.9,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn2CoO8,3.942,3.531,242.5,956.2,validation,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn3Co5O16,4.035,3.966,144.2,582.0,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Ti2Mn3Co3O16,2.807,2.83,351.4,986.3,train,Co Mn Ti,O,Co,Congo (Kinshasa),75.3,True,False
+Co3Ni3(TeO8)2,4.224,3.82,120.2,507.7,validation,Co Ni,O Te,Co,Congo (Kinshasa),75.3,False,False
+Ti3Co3(NiO8)2,2.603,3.168,210.7,548.5,train,Co Ni Ti,O,Co,Congo (Kinshasa),75.3,True,False
+MnCoO4,3.416,3.223,279.5,955.0,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+MnCo(PO4)2,3.347,3.876,208.6,698.2,train,Co Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+NbCo3O8,4.088,3.417,130.2,532.4,validation,Co Nb,O,Nb,Brazil,93.3,False,False
+Mn3Co3(SbO8)2,3.9,3.912,123.4,481.2,train,Co Mn,O Sb,Co,Congo (Kinshasa),75.3,True,False
+CoNiO4,3.372,3.478,137.1,462.3,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+CoNi3O8,3.645,3.464,137.2,500.0,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+CoNi9O20,3.774,3.539,137.2,517.9,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Mn3CoO8,4.054,3.987,146.6,594.3,test,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn5Co3O16,3.969,3.884,145.8,578.7,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn2Co(PO4)3,4.088,3.944,114.6,468.6,train,Co Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+Mn2Co5O12,3.598,3.455,171.7,617.8,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn3Co2Te3O16,3.37,3.809,112.9,380.6,train,Co Mn,O Te,Co,Congo (Kinshasa),75.3,True,False
+CoNiO4,3.223,3.244,91.4,294.5,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Mn(CoO3)2,3.459,3.723,189.6,655.8,validation,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn3CoO8,4.386,4.059,146.6,643.0,test,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn2Co3O10,2.36,3.353,55.7,131.4,test,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn2Co3Te3O16,3.61,3.653,112.5,406.1,train,Co Mn,O Te,Co,Congo (Kinshasa),75.3,True,False
+Co2NiO6,3.821,3.503,274.1,1047.3,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Ti3Mn2Co3O16,4.108,4.089,150.1,616.8,train,Co Mn Ti,O,Co,Congo (Kinshasa),75.3,True,False
+CoNi(PO4)2,5.136,4.454,166.8,856.4,train,Co Ni,O P,Co,Congo (Kinshasa),75.3,False,False
+Co3Ni(PO4)4,4.49,4.284,166.7,748.4,train,Co Ni,O P,Co,Congo (Kinshasa),75.3,False,False
+CoNi9O20,3.768,3.539,54.9,206.8,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+CoO2,3.956,3.993,142.0,561.5,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+Co5NiO12,3.621,3.583,187.1,677.4,test,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Co3NiO8,3.552,3.551,209.2,743.2,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Co3NiO8,2.92,3.509,142.0,414.7,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Co3NiO8,3.813,3.299,274.0,1044.7,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Co4NiO8,3.269,3.177,181.4,593.0,validation,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Co3NiO8,3.374,3.272,205.5,693.4,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Mn3Co2Ni3O16,2.837,2.943,205.1,581.8,train,Co Mn Ni,O,Co,Congo (Kinshasa),75.3,True,False
+Mn3CoO8,3.253,3.178,70.6,229.7,test,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+MnCo3O8,4.356,3.963,143.5,624.9,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn(CoO3)2,3.338,3.209,277.6,926.7,validation,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn3Co3(TeO8)2,4.048,3.855,121.7,492.9,train,Co Mn,O Te,Co,Congo (Kinshasa),75.3,True,False
+MnV4CoO12,2.626,2.799,102.4,268.8,train,Co Mn V,O,Co,Congo (Kinshasa),75.3,True,False
+Mn2CoO6,3.926,3.704,192.3,755.0,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn3Nb2Co3O16,3.79,3.616,132.2,500.9,train,Co Mn Nb,O,Nb,Brazil,93.3,True,False
+Mn3CoO8,3.768,3.353,215.8,813.1,test,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn(CoO2)4,3.301,3.041,182.9,603.9,test,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+MnCo3(PO4)6,3.603,4.174,31.5,113.6,validation,Co Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+Na2CoO4,3.186,2.983,141.3,450.0,validation,Co,Na O,Co,Congo (Kinshasa),75.3,False,False
+MnCo5O12,4.215,3.734,188.3,793.6,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Co(NiO2)4,3.713,3.522,181.7,674.6,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Co3Ni5O16,2.888,3.502,69.8,201.6,test,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Mn5CoO12,3.24,3.542,193.7,627.7,test,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+MnCo3(PO4)4,4.211,4.079,167.7,706.0,test,Co Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+Mn7Co(PO4)12,4.827,4.88,130.8,631.6,test,Co Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+NbCo3(PO4)6,4.369,3.733,152.1,664.4,test,Co Nb,O P,Nb,Brazil,93.3,False,False
+MnCo3O8,4.519,3.948,143.5,648.3,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn5Co(PO4)6,3.674,3.872,115.1,422.9,train,Co Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+Mn3Co(PO4)4,4.16,3.887,169.8,706.4,train,Co Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+CoO2,3.79,3.523,273.8,1037.8,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+MnCo3O8,3.324,3.637,70.4,234.1,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn4CoO8,3.177,2.84,188.1,597.5,test,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn3CoO8,3.311,3.17,282.5,935.2,test,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+MnCoO4,3.014,3.519,213.5,643.5,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+MnCo3O8,4.032,3.882,143.5,578.5,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Mn3V2Co3O16,4.044,3.577,147.4,596.2,train,Co Mn V,O,Co,Congo (Kinshasa),75.3,True,False
+Co2Ni3O10,4.322,3.485,54.8,237.1,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Co2Ni3O10,3.738,3.52,109.7,410.0,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Mn3Co(PO4)6,4.445,4.596,192.5,855.8,train,Co Mn,O P,Co,Congo (Kinshasa),75.3,True,False
+Co(NiO3)2,3.613,3.365,91.4,330.3,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Mn2CoO6,3.28,3.059,281.5,923.3,train,Co Mn,O,Co,Congo (Kinshasa),75.3,True,False
+Co3NiO8,3.417,3.323,205.5,702.2,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Co5Ni3O16,2.604,3.466,69.8,181.6,train,Co Ni,O,Co,Congo (Kinshasa),75.3,False,False
+Co5O12,3.895,3.78,150.2,585.2,test,Co,O,Co,Congo (Kinshasa),75.3,False,False
+Co4O9,1.811,2.085,118.4,214.5,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+Co7O12,3.062,3.224,209.6,641.9,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+CoO3,2.307,2.627,306.4,706.8,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+Co21O40,3.632,3.364,265.8,965.4,test,Co,O,Co,Congo (Kinshasa),75.3,False,False
+CoO2,4.301,3.84,187.0,804.1,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+Co15O28,3.387,3.314,245.0,829.8,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+CoO4,2.671,2.25,325.7,870.1,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+CoO2,4.531,4.06,142.0,643.3,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+CoO4,2.844,2.678,170.0,483.6,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+CoO2,2.748,2.572,511.4,1405.3,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+CoO2,3.808,3.562,273.8,1042.9,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+CoO4,2.545,2.268,307.0,781.3,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+Co7O16,4.558,4.283,38.1,173.7,validation,Co,O,Co,Congo (Kinshasa),75.3,False,False
+CoO2,2.462,2.48,105.1,258.7,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+CoO3,2.311,2.492,204.2,472.0,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+CoO3,2.589,2.398,99.5,257.6,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+CoO2,3.41,3.192,273.8,933.7,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+CoO2,3.199,3.173,336.3,1075.9,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+CoO4,2.792,2.501,170.0,474.7,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+Co13O28,3.775,3.714,204.4,771.6,train,Co,O,Co,Congo (Kinshasa),75.3,False,False
+Co(PO3)4,5.312,5.205,69.0,366.3,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co5(P2O7)4,4.841,4.649,155.8,754.3,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co3(P2O7)2,4.965,4.572,99.5,494.2,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.654,4.367,166.6,775.5,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co2(PO3)5,4.859,4.779,51.6,250.6,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,5.159,5.184,111.8,576.6,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co3(PO4)4,5.165,4.914,139.2,719.0,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co3(PO4)4,5.292,5.048,139.2,736.7,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co2P5O16,4.612,4.803,146.3,674.7,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co(PO4)2,4.667,4.653,193.8,904.3,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.302,4.259,166.6,716.8,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co(PO3)3,5.358,5.088,88.5,474.2,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,5.081,5.306,111.8,567.8,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.612,4.09,166.6,768.6,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co2(PO4)3,4.236,4.45,245.1,1038.0,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,4.39,5.157,111.8,490.6,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.334,4.156,166.6,722.1,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co2P3O10,4.272,4.549,71.0,303.2,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.404,4.271,166.6,733.8,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.029,4.267,166.6,671.3,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co(PO3)4,5.29,5.212,70.2,371.4,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,5.066,5.161,111.8,566.1,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.225,4.36,166.6,704.1,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,4.803,4.648,217.2,1043.2,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co3(PO4)4,4.783,4.888,139.2,665.9,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,4.707,4.801,108.6,511.2,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co3P3O11,4.125,4.222,59.2,244.3,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co3(P2O7)2,4.623,4.396,99.5,460.1,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,3.994,4.469,166.6,665.6,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.335,4.257,166.6,722.3,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co(PO3)3,4.572,4.675,88.5,404.7,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co5(P2O7)4,4.849,4.754,155.8,755.5,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.343,4.125,166.6,723.7,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,4.791,4.787,108.6,520.4,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.247,4.333,166.6,707.8,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co5(P3O11)2,4.094,4.254,124.6,510.2,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.408,4.345,166.6,734.5,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co(PO3)4,5.298,5.047,137.9,730.7,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co(SO4)2,4.919,5.127,103.9,511.0,train,Co,O S,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.362,4.185,166.6,726.9,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.069,4.133,166.6,678.0,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,5.042,5.356,111.8,563.4,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co(PO3)4,5.153,4.879,69.0,355.3,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co2(SO4)3,5.123,4.614,127.6,654.0,train,Co,O S,Co,Congo (Kinshasa),75.3,False,False
+Co(SO4)2,4.884,5.166,103.9,507.4,train,Co,O S,Co,Congo (Kinshasa),75.3,False,False
+Co3Sb(PO4)6,4.272,4.513,147.3,629.0,test,Co,O P Sb,Co,Congo (Kinshasa),75.3,False,False
+Co(PO3)4,5.14,5.09,69.0,354.4,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co9(P2O7)8,4.576,4.779,119.5,546.7,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co3Sn(PO4)4,3.083,3.866,152.5,470.1,test,Co Sn,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.052,4.258,166.6,675.1,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,4.688,4.782,217.2,1018.4,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co3P8O29,4.938,5.132,84.5,417.5,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,4.085,4.905,108.6,443.6,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co3(PO4)4,5.178,5.029,139.2,721.0,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co3(P3O10)2,4.436,4.929,38.9,172.4,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.258,4.323,166.6,709.5,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,4.913,5.426,111.8,549.1,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.381,4.328,83.3,365.0,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co2P3O10,4.794,4.512,71.0,340.2,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co2(PO4)3,4.381,4.568,126.5,554.4,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+V3Co(PO4)4,2.739,2.84,173.1,474.0,train,Co V,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,3.515,4.346,166.6,585.7,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co3P4O15,4.847,4.431,188.6,914.0,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+VCo3(PO4)6,4.057,4.095,219.9,892.2,train,Co V,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,5.271,5.136,111.8,589.0,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoSn(PO4)2,2.575,3.944,140.5,361.8,test,Co Sn,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,4.672,4.697,217.2,1014.9,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+VCo3(PO4)4,4.508,3.748,168.7,760.6,train,Co V,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,4.728,4.734,217.2,1027.1,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co(PO3)3,5.371,4.944,88.5,475.4,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co6P7O24,4.287,4.228,27.9,119.5,train,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoP2O7,4.769,4.752,217.2,1036.1,test,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+CoPO4,4.77,4.249,166.6,794.8,validation,Co,O P,Co,Congo (Kinshasa),75.3,False,False
+Co(SiO3)2,4.851,4.651,122.9,596.3,test,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+Ti3Co3(SbO8)2,4.301,3.975,126.5,543.9,test,Co Ti,O Sb,Co,Congo (Kinshasa),75.3,True,False
+CoSiO4,3.914,4.216,162.5,636.2,test,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+CoSiO4,3.714,4.276,162.5,603.6,test,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+CoSbO4,4.027,4.07,106.5,428.9,train,Co,O Sb,Co,Congo (Kinshasa),75.3,False,False
+CoSiO5,5.091,4.45,71.3,363.2,train,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+CoSiO4,3.871,4.161,162.5,629.1,test,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+Co3SbO8,3.134,3.322,236.0,739.6,train,Co,O Sb,Co,Congo (Kinshasa),75.3,False,False
+CoSiO4,4.586,4.218,81.3,372.7,test,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+CoSnO4,2.814,3.492,104.9,295.2,test,Co Sn,O,Co,Congo (Kinshasa),75.3,False,False
+CoSiO4,4.176,4.389,249.0,1040.1,test,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+CoSiO4,3.818,4.279,162.5,620.5,test,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+Co3SnO8,4.045,3.766,122.6,495.7,validation,Co Sn,O,Co,Congo (Kinshasa),75.3,False,False
+CoSiO4,3.446,3.848,162.5,560.0,test,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+CoSiO4,3.727,4.103,162.5,605.7,test,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+Co2Si3O10,3.753,4.16,103.1,386.9,train,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+Co(SiO3)2,3.758,4.059,119.1,447.6,test,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+Co4TeO8,2.723,2.987,157.0,427.5,train,Co,O Te,Co,Congo (Kinshasa),75.3,False,False
+Co3(SiO4)2,3.758,3.796,71.5,268.7,train,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+Co3(SeO3)4,5.043,4.261,76.7,387.0,test,Co,O Se,Co,Congo (Kinshasa),75.3,False,False
+Co5Te3O16,3.933,3.772,111.5,438.6,validation,Co,O Te,Co,Congo (Kinshasa),75.3,False,False
+Co3TeO8,4.523,3.693,120.1,543.3,validation,Co,O Te,Co,Congo (Kinshasa),75.3,False,False
+Co3SbO8,4.445,4.111,121.7,541.0,train,Co,O Sb,Co,Congo (Kinshasa),75.3,False,False
+CoSiO4,3.704,3.562,162.5,602.0,test,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+CoSiO4,3.882,4.154,162.5,631.0,test,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+Co5SbO12,3.817,3.765,168.5,643.2,train,Co,O Sb,Co,Congo (Kinshasa),75.3,False,False
+CoSiO4,3.798,4.208,162.5,617.3,test,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+CoSiO4,4.323,4.244,81.3,351.3,test,Co,O Si,Co,Congo (Kinshasa),75.3,False,False
+Co3TeO8,3.41,3.334,233.0,794.5,validation,Co,O Te,Co,Congo (Kinshasa),75.3,False,False
+Co3TeO8,4.671,4.091,120.1,561.0,validation,Co,O Te,Co,Congo (Kinshasa),75.3,False,False
+Ti2Co3O10,3.472,3.558,229.4,796.7,train,Co Ti,O,Co,Congo (Kinshasa),75.3,True,False
+TiCo5O12,3.809,3.771,190.7,726.2,train,Co Ti,O,Co,Congo (Kinshasa),75.3,True,False
+Ti(CoO3)2,3.48,3.146,284.6,990.2,train,Co Ti,O,Co,Congo (Kinshasa),75.3,True,False
+V2CoO6,2.654,2.62,101.6,269.7,train,Co V,O,Co,Congo (Kinshasa),75.3,False,False
+V2CoO6,2.006,2.322,101.6,203.8,train,Co V,O,Co,Congo (Kinshasa),75.3,False,False
+TiCo3O8,3.684,3.534,215.3,793.0,train,Co Ti,O,Co,Congo (Kinshasa),75.3,True,False
+V3Co3(TeO8)2,3.477,3.043,123.4,429.2,train,Co V,O Te,Co,Congo (Kinshasa),75.3,False,False
+VCoO4,3.92,3.212,148.2,581.0,test,Co V,O,Co,Congo (Kinshasa),75.3,False,False
+VCoO4,4.223,3.156,148.2,625.9,test,Co V,O,Co,Congo (Kinshasa),75.3,False,False
+V3CoO8,2.425,2.61,151.6,367.6,train,Co V,O,Co,Congo (Kinshasa),75.3,False,False
+Co(WO4)2,4.671,4.354,94.3,440.4,train,Co W,O,W,China,81.0,False,False
+CrFe3Cu2(PO4)6,3.489,3.196,113.5,396.2,train,Cr Cu Fe,O P,Cr,South Africa,48.0,True,False
+Ti6Co3O16,3.536,3.959,108.5,383.8,train,Co Ti,O,Co,Congo (Kinshasa),75.3,True,False
+TiCoO4,3.036,3.231,145.1,440.6,validation,Co Ti,O,Co,Congo (Kinshasa),75.3,True,False
+V5CoO12,2.691,2.473,103.2,277.7,train,Co V,O,Co,Congo (Kinshasa),75.3,False,False
+VCo3O8,4.187,3.557,145.0,607.1,train,Co V,O,Co,Congo (Kinshasa),75.3,False,False
+CoS2,1.979,1.855,51.5,102.0,train,Co,S,Co,Congo (Kinshasa),75.3,False,False
+Cr3(CuO6)2,4.588,4.335,109.6,502.9,train,Cr Cu,O,Cr,South Africa,48.0,True,False
+Ti3Co3(TeO8)2,3.647,3.925,124.8,455.0,train,Co Ti,O Te,Co,Congo (Kinshasa),75.3,True,False
+TiCo3O8,3.534,3.505,281.8,995.9,train,Co Ti,O,Co,Congo (Kinshasa),75.3,True,False
+VCoO4,3.704,2.617,142.7,528.8,test,Co V,O,Co,Congo (Kinshasa),75.3,False,False
+V3CoO8,2.537,2.237,72.9,185.0,train,Co V,O,Co,Congo (Kinshasa),75.3,False,False
+V3CoO8,1.729,2.519,56.0,96.9,train,Co V,O,Co,Congo (Kinshasa),75.3,False,False
+CoS2,2.053,1.999,206.2,423.2,train,Co,S,Co,Congo (Kinshasa),75.3,False,False
+Co3WO8,3.51,3.63,106.7,374.4,train,Co W,O,W,China,81.0,False,False
+VCoO4,4.31,2.995,148.2,638.9,test,Co V,O,Co,Congo (Kinshasa),75.3,False,False
+V3(CoO6)2,4.082,3.227,110.9,452.6,test,Co V,O,Co,Congo (Kinshasa),75.3,False,False
+Cr3CuO8,3.285,3.819,71.4,234.6,train,Cr Cu,O,Cr,South Africa,48.0,True,False
+V3CoO10,3.39,3.08,201.3,682.3,test,Co V,O,Co,Congo (Kinshasa),75.3,False,False
+Cr3(CuO6)2,4.055,4.154,162.1,657.5,train,Cr Cu,O,Cr,South Africa,48.0,True,False
+V3CoO8,3.512,3.582,151.6,532.4,train,Co V,O,Co,Congo (Kinshasa),75.3,False,False
+Zn(CoO2)4,1.962,1.975,61.5,120.6,train,Co Zn,O,Co,Congo (Kinshasa),75.3,False,False
+V4CrCuO12,2.593,3.083,102.1,264.6,test,Cr Cu V,O,V,China,72.4,True,False
+EuCrO4,2.381,4.19,49.4,117.6,test,Cr,Eu O,Cr,South Africa,48.0,True,False
+Cr3Cu(PO4)4,3.14,3.238,170.9,536.7,train,Cr Cu,O P,Cr,South Africa,48.0,True,False
+CrF6,3.402,3.256,276.7,941.1,train,Cr,F,Cr,South Africa,48.0,True,False
+Cr10Fe5O24,4.82,4.106,66.8,321.9,train,Cr Fe,O,Cr,South Africa,48.0,True,False
+Cr(GeO3)2,4.54,4.812,89.3,405.3,validation,Cr,Ge O,Cr,South Africa,48.0,True,False
+CrF4,5.338,5.042,198.6,1060.3,train,Cr,F,Cr,South Africa,48.0,True,False
+CrFe3O8,4.079,3.538,71.4,291.3,train,Cr Fe,O,Cr,South Africa,48.0,True,False
+CrFe3O8,3.509,3.488,72.8,255.3,train,Cr Fe,O,Cr,South Africa,48.0,True,False
+CrPO4F,4.377,5.002,155.0,678.5,test,Cr,F O P,Cr,South Africa,48.0,True,False
+Mn3Cr2Fe3O16,2.566,3.491,73.0,187.4,train,Cr Fe Mn,O,Cr,South Africa,48.0,True,False
+CrF6,1.63,3.462,138.3,225.5,train,Cr,F,Cr,South Africa,48.0,True,False
+Mn3Cr3(FeO8)2,2.19,2.802,212.2,464.6,train,Cr Fe Mn,O,Cr,South Africa,48.0,True,False
+Cr12Fe7O48,4.03,3.952,130.7,526.8,validation,Cr Fe,O,Cr,South Africa,48.0,True,False
+Cr(FeO3)2,4.052,3.572,95.5,387.2,train,Cr Fe,O,Cr,South Africa,48.0,True,False
+MnCr2Fe3(PO4)6,2.925,3.18,116.0,339.4,train,Cr Fe Mn,O P,Cr,South Africa,48.0,True,False
+CrPO4F,3.376,3.285,298.0,1006.3,test,Cr,F O P,Cr,South Africa,48.0,True,False
+CrFeO4,3.477,3.461,144.3,501.8,validation,Cr Fe,O,Cr,South Africa,48.0,True,False
+CrPO4F,2.756,3.276,149.0,410.7,test,Cr,F O P,Cr,South Africa,48.0,True,False
+Cr2FeO6,4.069,3.563,96.9,394.2,train,Cr Fe,O,Cr,South Africa,48.0,True,False
+Cr2Fe3O10,3.484,3.426,115.0,400.5,train,Cr Fe,O,Cr,South Africa,48.0,True,False
+VCrP2(O4F)2,3.399,3.276,228.6,777.0,train,Cr V,F O P,V,China,72.4,True,False
+CrFe3O8,3.914,3.535,71.4,279.5,train,Cr Fe,O,Cr,South Africa,48.0,True,False
+Cr3(FeO4)2,4.72,4.088,66.6,314.2,test,Cr Fe,O,Cr,South Africa,48.0,True,False
+CrFe(PO4)2,2.944,3.102,172.0,506.3,train,Cr Fe,O P,Cr,South Africa,48.0,True,False
+Cr3Fe2Sb3O16,3.558,3.829,116.9,416.1,train,Cr Fe,O Sb,Cr,South Africa,48.0,True,False
+Cr3FeO8,3.74,3.819,145.8,545.4,train,Cr Fe,O,Cr,South Africa,48.0,True,False
+Cr3Fe(PO4)6,4.169,3.887,226.0,942.0,train,Cr Fe,O P,Cr,South Africa,48.0,True,False
+CrP2(O4F)2,4.519,4.621,142.0,641.5,train,Cr,F O P,Cr,South Africa,48.0,True,False
+Cr2Fe5O12,3.388,3.239,87.9,297.8,train,Cr Fe,O,Cr,South Africa,48.0,True,False
+Cr4GaS8,2.423,2.669,49.5,120.0,validation,Cr,Ga S,Cr,South Africa,48.0,True,False
+Cr3(FeO6)2,3.248,3.834,113.2,367.6,train,Cr Fe,O,Cr,South Africa,48.0,True,False
+CrFeO4,3.898,3.651,96.2,375.0,validation,Cr Fe,O,Cr,South Africa,48.0,True,False
+Cr3Fe3(TeO8)2,3.636,3.758,124.3,451.9,test,Cr Fe,O Te,Cr,South Africa,48.0,True,False
+CrPHO5,4.668,4.037,156.8,732.0,test,Cr,H O P,Cr,South Africa,48.0,True,False
+Cr2(GeO4)3,5.02,4.319,150.4,754.9,test,Cr,Ge O,Cr,South Africa,48.0,True,False
+Cr3FeO8,2.082,3.026,214.7,447.0,train,Cr Fe,O,Cr,South Africa,48.0,True,False
+CrFe3(PO4)6,2.784,4.064,32.0,89.1,train,Cr Fe,O P,Cr,South Africa,48.0,True,False
+Cr2P4H3O16,3.69,3.859,104.2,384.4,train,Cr,H O P,Cr,South Africa,48.0,True,False
+CrF4,3.839,3.404,377.8,1450.5,train,Cr,F,Cr,South Africa,48.0,True,False
+NaCrF6,4.199,2.724,264.2,1109.6,validation,Cr,F Na,Cr,South Africa,48.0,True,False
+Cr3FeO8,3.743,3.615,145.8,545.9,train,Cr Fe,O,Cr,South Africa,48.0,True,False
+Cr3FeO8,2.504,3.004,214.7,537.6,train,Cr Fe,O,Cr,South Africa,48.0,True,False
+Cr3GaO8,3.867,3.702,70.3,271.7,train,Cr,Ga O,Cr,South Africa,48.0,True,False
+VCrP2(HO5)2,4.931,2.955,154.2,760.1,train,Cr V,H O P,V,China,72.4,True,False
+Mn3CrO8,3.384,3.208,287.7,973.9,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+MgCr3(SO4)6,3.666,3.736,69.6,255.0,train,Cr,Mg O S,Cr,South Africa,48.0,True,False
+K2CrO4,1.273,2.593,93.5,119.0,test,Cr,K O,Cr,South Africa,48.0,True,False
+K2CrO4,1.727,3.47,100.8,174.1,test,Cr,K O,Cr,South Africa,48.0,True,False
+La2Ti2CrO9,3.59,3.317,46.5,166.9,train,Cr Ti,La O,Cr,South Africa,48.0,True,False
+MnCr3O8,2.187,2.98,215.2,470.7,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+Fe(SiO3)2,5.099,3.669,124.7,635.8,validation,Fe,O Si,Fe,Australia,38.5,False,False
+FeSiO4,1.906,3.363,56.8,108.3,validation,Fe,O Si,Fe,Australia,38.5,False,False
+FeSiO4,3.146,3.573,165.6,521.1,validation,Fe,O Si,Fe,Australia,38.5,False,False
+FeSiO5,4.68,4.163,108.8,509.1,train,Fe,O Si,Fe,Australia,38.5,False,False
+MgCr3Se2(SO6)4,4.778,4.56,31.3,149.4,train,Cr,Mg O S Se,Cr,South Africa,48.0,True,False
+Mn3Cr3(NiO8)2,2.509,2.943,210.6,528.3,train,Cr Mn Ni,O,Ni,Indonesia,72.3,True,False
+Mn2CrNi3(PO4)6,4.11,4.03,114.6,470.9,test,Cr Mn Ni,O P,Ni,Indonesia,72.3,True,False
+Mn3Cr5O16,2.916,2.74,357.3,1041.7,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+MgCr3(SO4)6,3.679,3.593,69.6,256.0,train,Cr,Mg O S,Cr,South Africa,48.0,True,False
+FeSiO4,3.404,3.488,82.8,281.9,validation,Fe,O Si,Fe,Australia,38.5,False,False
+Fe3TeO8,2.222,2.825,59.4,132.0,test,Fe,O Te,Fe,Australia,38.5,False,False
+MnCr3O8,2.137,3.022,215.2,459.8,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+Mn2Cr3O12,4.046,3.939,113.6,459.8,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+FeSiO4,2.031,3.351,84.6,171.9,validation,Fe,O Si,Fe,Australia,38.5,False,False
+FeSiO4,2.868,3.491,165.6,475.0,validation,Fe,O Si,Fe,Australia,38.5,False,False
+FeSiO4,3.983,3.538,331.3,1319.3,validation,Fe,O Si,Fe,Australia,38.5,False,False
+Fe3(SiO4)2,2.962,2.726,146.6,434.3,train,Fe,O Si,Fe,Australia,38.5,False,False
+TiFe2O5,2.645,2.921,105.8,279.7,test,Fe Ti,O,Fe,Australia,38.5,True,False
+TiFe3O8,3.443,3.233,73.6,253.3,test,Fe Ti,O,Fe,Australia,38.5,True,False
+Ti12Fe5O32,3.136,3.269,132.7,416.0,train,Fe Ti,O,Fe,Australia,38.5,True,False
+Ti(FeO3)2,2.306,2.852,97.0,223.6,test,Fe Ti,O,Fe,Australia,38.5,True,False
+Mn4CrO8,2.8,2.895,191.2,535.2,test,Cr Mn,O,Cr,South Africa,48.0,True,False
+FeSiO4,2.874,3.483,165.6,476.0,validation,Fe,O Si,Fe,Australia,38.5,False,False
+TiFeO4,3.207,2.856,295.2,946.7,train,Fe Ti,O,Fe,Australia,38.5,True,False
+TiFe5O12,2.806,3.147,95.6,268.3,test,Fe Ti,O,Fe,Australia,38.5,True,False
+MgCr3Se3(SO8)3,3.672,4.012,58.8,216.0,train,Cr,Mg O S Se,Cr,South Africa,48.0,True,False
+Mn3Nb2Cr3O16,3.783,3.711,135.6,513.1,train,Cr Mn Nb,O,Nb,Brazil,93.3,True,False
+MnCr3O8,3.301,3.374,146.2,482.5,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+Fe2Si2O7,2.687,2.674,91.2,245.1,train,Fe,O Si,Fe,Australia,38.5,False,False
+FeSiO4,2.793,3.411,165.6,462.6,validation,Fe,O Si,Fe,Australia,38.5,False,False
+FeSiO4,4.238,3.712,114.5,485.3,validation,Fe,O Si,Fe,Australia,38.5,False,False
+FeSiO4,2.822,3.44,165.6,467.3,validation,Fe,O Si,Fe,Australia,38.5,False,False
+V3Fe3(TeO8)2,3.308,3.05,124.8,412.7,train,Fe V,O Te,V,China,72.4,False,False
+Mn5Cr3O16,3.894,4.072,150.1,584.3,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+FeSiO4,2.994,3.467,165.6,495.9,validation,Fe,O Si,Fe,Australia,38.5,False,False
+Mn3NbCr2(PO4)6,2.655,2.99,111.8,296.7,train,Cr Mn Nb,O P,Nb,Brazil,93.3,True,False
+Fe3(SnO5)2,2.662,2.812,89.4,237.9,train,Fe Sn,O,Fe,Australia,38.5,False,False
+Mn3Cr2O10,3.383,3.15,57.8,195.6,test,Cr Mn,O,Cr,South Africa,48.0,True,False
+Mn3CrO8,3.227,3.288,219.9,709.6,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+Fe2Si3O10,3.285,3.192,174.6,573.7,train,Fe,O Si,Fe,Australia,38.5,False,False
+Fe3TeO8,3.886,3.606,122.7,476.6,test,Fe,O Te,Fe,Australia,38.5,False,False
+TiFe3O8,2.923,3.207,72.2,211.1,test,Fe Ti,O,Fe,Australia,38.5,True,False
+Ti2Fe3O10,3.307,3.142,118.8,393.0,train,Fe Ti,O,Fe,Australia,38.5,True,False
+MnCr3O8,3.047,2.749,358.7,1092.9,train,Cr Mn,O,Cr,South Africa,48.0,True,False
+FeSiO4,4.711,3.391,86.5,407.6,validation,Fe,O Si,Fe,Australia,38.5,False,False
+MgCr7(SO4)12,4.78,4.771,17.3,82.8,train,Cr,Mg O S,Cr,South Africa,48.0,True,False
+Mn2CrO6,3.517,3.698,197.3,693.7,test,Cr Mn,O,Cr,South Africa,48.0,True,False
+FeSnO4,2.056,2.636,106.2,218.3,train,Fe Sn,O,Fe,Australia,38.5,False,False
+Fe(Si2O5)3,4.542,4.294,110.5,501.8,train,Fe,O Si,Fe,Australia,38.5,False,False
+FeSiO4,2.458,3.232,165.6,407.1,validation,Fe,O Si,Fe,Australia,38.5,False,False
+TiFeO4,2.159,2.729,147.6,318.7,train,Fe Ti,O,Fe,Australia,38.5,True,False
+TiFe3O8,2.552,3.083,72.2,184.2,test,Fe Ti,O,Fe,Australia,38.5,True,False
+VFe3O8,2.695,3.149,73.0,196.6,train,Fe V,O,V,China,72.4,False,False
+V3FeO8,2.36,2.728,152.9,360.9,train,Fe V,O,V,China,72.4,False,False
+V4FeO12,3.765,3.017,170.2,640.8,train,Fe V,O,V,China,72.4,False,False
+V3FeO8,2.88,2.293,73.5,211.8,train,Fe V,O,V,China,72.4,False,False
+FeS4,1.436,1.217,118.7,170.5,train,Fe,S,Fe,Australia,38.5,False,False
+Fe3WO8,2.658,2.727,52.8,140.5,train,Fe W,O,W,China,81.0,False,False
+V2SiGeO10,3.465,3.529,137.3,475.8,test,V,Ge O Si,V,China,72.4,False,False
+V2Fe3O10,2.565,2.752,115.5,296.2,validation,Fe V,O,V,China,72.4,False,False
+V5(FeO6)2,2.509,2.022,45.2,113.4,test,Fe V,O,V,China,72.4,False,False
+VGa3O8,2.873,3.017,128.9,370.3,train,V,Ga O,V,China,72.4,False,False
+VFeO4,2.336,2.725,145.1,339.0,train,Fe V,O,V,China,72.4,False,False
+FeS2,1.846,1.784,211.2,389.9,train,Fe,S,Fe,Australia,38.5,False,False
+Sr4Mn2Ga2O11,1.533,1.774,34.2,52.5,train,Mn,Ga O Sr,Mn,South Africa,40.3,True,False
+NiGe3O8,5.023,5.462,128.1,643.3,test,Ni,Ge O,Ni,Indonesia,72.3,False,False
+V3(FeO5)2,2.264,2.534,116.7,264.3,train,Fe V,O,V,China,72.4,False,False
+VFe3O8,2.732,2.954,71.6,195.7,train,Fe V,O,V,China,72.4,False,False
+Fe(WO4)2,3.439,4.015,48.0,165.1,train,Fe W,O,W,China,81.0,False,False
+VFeO4,3.397,2.964,150.8,512.3,train,Fe V,O,V,China,72.4,False,False
+V3(FeO6)2,2.652,3.155,55.3,146.8,validation,Fe V,O,V,China,72.4,False,False
+Y(FeO2)2,1.923,2.75,50.0,96.1,test,Fe,O Y,Fe,Australia,38.5,False,False
+VFeO4,3.074,2.876,150.8,463.5,train,Fe V,O,V,China,72.4,False,False
+Sr2MnGaO5,1.852,1.921,35.0,64.8,train,Mn,Ga O Sr,Mn,South Africa,40.3,True,False
+Fe(PS3)2,2.379,2.34,165.4,393.4,train,Fe,P S,Fe,Australia,38.5,False,False
+V2FeO6,3.417,2.54,97.6,333.6,train,Fe V,O,V,China,72.4,False,False
+VFeO4,2.778,2.648,145.1,403.2,train,Fe V,O,V,China,72.4,False,False
+Ge3(MoO6)2,3.372,3.447,129.1,435.5,train,Mo,Ge O,Mo,China,37.3,False,False
+V(FeO3)2,2.731,2.939,95.9,262.0,test,Fe V,O,V,China,72.4,False,False
+V2SiGeO10,3.355,3.474,137.3,460.7,test,V,Ge O Si,V,China,72.4,False,False
+Fe3(SnS4)2,2.032,2.322,40.1,81.5,train,Fe Sn,S,Fe,Australia,38.5,False,False
+FeS2,1.003,1.391,200.2,200.9,train,Fe,S,Fe,Australia,38.5,False,False
+Ga2WO6,2.021,2.392,31.7,64.1,train,W,Ga O,W,China,81.0,False,False
+VGeO5,3.305,3.281,123.2,407.4,train,V,Ge O,V,China,72.4,False,False
+MnVP2(HO5)2,3.324,3.184,152.9,508.2,train,Mn V,H O P,V,China,72.4,True,False
+MnPH2O5,3.094,3.483,78.2,241.9,train,Mn,H O P,Mn,South Africa,40.3,True,False
+MnVP2(HO5)2,3.986,3.647,155.9,621.6,train,Mn V,H O P,V,China,72.4,True,False
+MnP2HO7,3.443,4.077,113.2,389.7,train,Mn,H O P,Mn,South Africa,40.3,True,False
+MnPHO5,3.519,3.295,296.5,1043.3,train,Mn,H O P,Mn,South Africa,40.3,True,False
+V(GeO3)2,3.464,3.595,89.6,310.4,train,V,Ge O,V,China,72.4,False,False
+MnP2HO8,3.131,4.038,100.5,314.7,validation,Mn,H O P,Mn,South Africa,40.3,True,False
+MnPHO5,1.857,3.734,154.2,286.2,train,Mn,H O P,Mn,South Africa,40.3,True,False
+Mn2P4H3O16,4.352,4.567,103.0,448.1,test,Mn,H O P,Mn,South Africa,40.3,True,False
+MnH4(SO5)2,4.313,3.962,180.5,778.5,train,Mn,H O S,Mn,South Africa,40.3,True,False
+MnH8(SO6)2,4.295,4.2,82.2,353.0,train,Mn,H O S,Mn,South Africa,40.3,True,False
+MnH4(SO5)2,3.773,4.044,90.2,340.5,train,Mn,H O S,Mn,South Africa,40.3,True,False
+K11Mn4O16,3.477,3.725,29.4,102.1,train,Mn,K O,Mn,South Africa,40.3,True,False
+KMnO2,2.436,2.414,201.6,490.9,validation,Mn,K O,Mn,South Africa,40.3,True,False
+K2NiO4,3.422,2.99,120.9,413.7,test,Ni,K O,Ni,Indonesia,72.3,False,False
+La4MnO8,3.482,3.703,36.0,125.2,train,Mn,La O,Mn,South Africa,40.3,True,False
+SnPHO5,5.334,3.764,112.8,601.6,train,Sn,H O P,Sn,China,24.5,False,False
+K(WO3)3,1.717,2.206,36.1,62.0,train,W,K O,W,China,81.0,False,False
+NiH12(SO7)2,4.466,4.601,143.8,642.1,train,Ni,H O S,Ni,Indonesia,72.3,False,False
+VPHO5,2.479,2.469,303.2,751.7,train,V,H O P,V,China,72.4,False,False
+VSi4(HO6)2,3.562,3.568,141.8,504.9,train,V,H O Si,V,China,72.4,False,False
+MnH6(S2O9)2,4.63,4.488,212.3,982.8,train,Mn,H O S,Mn,South Africa,40.3,True,False
+KMnO2,2.02,2.186,100.8,203.6,validation,Mn,K O,Mn,South Africa,40.3,True,False
+Sn2P4H3O16,2.555,3.056,124.1,317.0,train,Sn,H O P,Sn,China,24.5,False,False
+La3MnO7,4.675,4.041,45.4,212.2,train,Mn,La O,Mn,South Africa,40.3,True,False
+La4TiNb7O28,1.925,2.826,45.8,88.1,train,Nb Ti,La O,Nb,Brazil,93.3,True,False
+La4Ti3O12,2.293,3.179,29.8,68.4,train,Ti,La O,Ti,China,35.0,True,False
+SbPHO5,2.807,2.254,111.4,312.5,test,,H O P Sb,,,0.0,False,False
+La4MnO8,3.525,3.704,36.0,126.7,train,Mn,La O,Mn,South Africa,40.3,True,False
+VP2HO8,4.11,3.732,157.2,645.9,validation,V,H O P,V,China,72.4,False,False
+KNb2PO8,1.999,2.326,46.0,91.9,train,Nb,K O P,Nb,Brazil,93.3,False,False
+SnPHO5,3.131,3.839,112.8,353.2,train,Sn,H O P,Sn,China,24.5,False,False
+VP2HO8,3.921,4.115,53.1,208.3,validation,V,H O P,V,China,72.4,False,False
+Mg2Mn3O8,3.689,3.525,76.9,283.8,train,Mn,Mg O,Mn,South Africa,40.3,True,False
+K2MnO4,1.709,2.137,242.1,413.6,train,Mn,K O,Mn,South Africa,40.3,True,False
+La2MoO6,2.587,3.305,56.2,145.5,test,Mo,La O,Mo,China,37.3,False,False
+La3(SnO6)2,3.842,3.041,142.3,546.7,test,Sn,La O,Sn,China,24.5,False,False
+VP2HO8,4.11,4.255,106.2,436.6,validation,V,H O P,V,China,72.4,False,False
+SnPHO5,2.314,3.357,112.8,261.0,train,Sn,H O P,Sn,China,24.5,False,False
+VP2HO8,4.202,4.152,106.2,446.4,validation,V,H O P,V,China,72.4,False,False
+KMn2O4,1.713,2.4,236.3,404.7,validation,Mn,K O,Mn,South Africa,40.3,True,False
+La4NiO8,4.299,4.249,35.8,153.8,train,Ni,La O,Ni,Indonesia,72.3,False,False
+LaTi2O6,3.682,3.376,79.4,292.3,train,Ti,La O,Ti,China,35.0,True,False
+K2VPO6,1.903,2.321,101.9,193.9,train,V,K O P,V,China,72.4,False,False
+LaNb4O12,3.729,2.348,18.9,70.4,validation,Nb,La O,Nb,Brazil,93.3,False,False
+La6Mn3O14,3.234,3.472,21.8,70.5,train,Mn,La O,Mn,South Africa,40.3,True,False
+SrLa3MnO8,4.528,3.967,38.6,174.8,train,Mn,La O Sr,Mn,South Africa,40.3,True,False
+VP2HO8,4.149,4.129,106.2,440.8,validation,V,H O P,V,China,72.4,False,False
+V2P4H3O16,3.708,3.357,209.2,775.6,train,V,H O P,V,China,72.4,False,False
+Na5Mn2O8,4.074,3.65,74.5,303.5,train,Mn,Na O,Mn,South Africa,40.3,True,False
+Mg3Ti6O16,1.541,2.277,42.1,64.8,train,Ti,Mg O,Ti,China,35.0,True,False
+Mn15NiO32,4.021,4.087,147.8,594.5,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+Mn2VNi3(PO4)6,3.975,3.906,114.7,456.0,train,Mn Ni V,O P,V,China,72.4,True,False
+MnO4,1.964,2.055,166.9,327.8,train,Mn,O,Mn,South Africa,40.3,True,False
+MnO2,3.151,2.931,285.5,899.7,train,Mn,O,Mn,South Africa,40.3,True,False
+Na3Mn5O9,1.137,2.046,101.3,115.2,train,Mn,Na O,Mn,South Africa,40.3,True,False
+Mn5O8,2.825,2.699,189.9,536.2,test,Mn,O,Mn,South Africa,40.3,True,False
+Mn3NbO8,3.679,3.568,134.1,493.5,validation,Mn Nb,O,Nb,Brazil,93.3,True,False
+Mn7Nb(PO4)12,4.699,4.425,128.2,602.4,train,Mn Nb,O P,Nb,Brazil,93.3,True,False
+Mn2NiO6,3.978,4.022,192.5,765.8,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+MnNi3O8,3.811,3.737,138.6,528.1,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+MnO2,3.215,2.983,228.4,734.4,train,Mn,O,Mn,South Africa,40.3,True,False
+Mg11(WO4)12,2.823,2.976,24.5,69.3,train,W,Mg O,W,China,81.0,False,False
+Mn5NiO12,3.463,3.711,193.8,671.1,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+Mg(Ni6O13)2,3.785,3.523,151.9,575.0,test,Ni,Mg O,Ni,Indonesia,72.3,False,False
+Mn3NiO8,3.603,3.268,282.7,1018.6,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+Mn(NiO3)2,3.67,3.424,92.7,340.2,test,Mn Ni,O,Ni,Indonesia,72.3,True,False
+Mn15O32,4.516,4.24,116.7,527.1,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn7O16,4.527,4.449,20.2,91.2,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn2NiO6,3.379,3.316,187.8,634.7,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+Mn3NiO8,4.605,4.481,146.7,675.5,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+MnNi3(PO4)4,4.603,4.432,167.9,772.7,train,Mn Ni,O P,Ni,Indonesia,72.3,True,False
+MgNi3O8,3.821,3.764,150.5,575.1,train,Ni,Mg O,Ni,Indonesia,72.3,False,False
+Mn3Nb(PO4)6,3.885,3.534,185.0,718.8,train,Mn Nb,O P,Nb,Brazil,93.3,True,False
+Mn5(NiO6)2,2.977,3.146,43.3,128.9,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+MnNi(PO4)2,4.26,4.142,168.9,719.3,test,Mn Ni,O P,Ni,Indonesia,72.3,True,False
+Mn5Ni(PO4)6,3.675,3.915,115.2,423.2,validation,Mn Ni,O P,Ni,Indonesia,72.3,True,False
+Mn2NbNi3(PO4)6,3.454,3.566,109.8,379.2,train,Mn Nb Ni,O P,Nb,Brazil,93.3,True,False
+MnNbO4,1.297,2.545,118.7,154.0,validation,Mn Nb,O,Nb,Brazil,93.3,True,False
+Mn3NiO8,4.715,4.376,146.7,691.7,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+Mg(NiO2)4,3.646,3.844,197.1,718.7,train,Ni,Mg O,Ni,Indonesia,72.3,False,False
+Na2Mn(PO3)5,2.908,3.223,53.3,155.0,test,Mn,Na O P,Mn,South Africa,40.3,True,False
+MnO2,3.204,3.153,207.9,666.2,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn7Ni(PO4)12,4.964,4.913,130.9,649.6,train,Mn Ni,O P,Ni,Indonesia,72.3,True,False
+MnNi3(PO4)6,4.575,4.568,31.6,144.4,train,Mn Ni,O P,Ni,Indonesia,72.3,True,False
+Mn3Ni3(TeO8)2,4.183,4.184,121.8,509.7,train,Mn Ni,O Te,Ni,Indonesia,72.3,True,False
+NaMnP2O7,3.353,3.24,103.6,347.2,train,Mn,Na O P,Mn,South Africa,40.3,True,False
+Mn3NiO8,1.404,3.412,72.0,101.1,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+MnV4NiO12,2.579,2.884,102.4,264.2,train,Mn Ni V,O,V,China,72.4,True,False
+MnNb4O12,3.0,3.467,125.8,377.3,train,Mn Nb,O,Nb,Brazil,93.3,True,False
+Mn2Ni3O10,4.354,3.67,55.8,242.8,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+Mn3Ni(PO4)4,4.036,4.001,169.9,685.6,train,Mn Ni,O P,Ni,Indonesia,72.3,True,False
+MnNiO4,3.325,3.46,139.9,465.3,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+Mn4NiO8,3.229,3.016,188.2,607.6,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+Mn17O40,4.734,4.311,112.7,533.7,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn3O8,3.621,3.401,204.6,740.9,train,Mn,O,Mn,South Africa,40.3,True,False
+MnO2,2.376,1.793,531.7,1263.3,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn3Nb(PO4)4,2.251,2.884,161.1,362.6,test,Mn Nb,O P,Nb,Brazil,93.3,True,False
+Mn5Ni3O16,3.201,3.474,71.6,229.3,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+Mn2Ni5O12,3.887,3.569,85.1,330.7,train,Mn Ni,O,Ni,Indonesia,72.3,True,False
+MnNi(PO4)2,4.107,4.144,114.2,469.2,test,Mn Ni,O P,Ni,Indonesia,72.3,True,False
+MnO2,2.767,2.579,350.4,969.4,train,Mn,O,Mn,South Africa,40.3,True,False
+MnNi(PO4)2,3.76,4.154,114.2,429.5,test,Mn Ni,O P,Ni,Indonesia,72.3,True,False
+Mn7O12,3.342,3.317,45.9,153.5,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn5O12,3.519,3.266,104.0,366.1,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn7O16,3.219,3.153,190.6,613.6,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn3O8,2.867,3.092,202.4,580.3,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn2Ni(PO4)3,3.676,4.022,114.7,421.6,test,Mn Ni,O P,Ni,Indonesia,72.3,True,False
+MnO2,2.748,3.111,71.4,196.1,train,Mn,O,Mn,South Africa,40.3,True,False
+TiMn2Ni3(PO4)6,4.101,3.799,115.1,472.0,train,Mn Ni Ti,O P,Ni,Indonesia,72.3,True,False
+Ti2Mn3Ni3O16,2.457,2.876,211.0,518.6,train,Mn Ni Ti,O,Ni,Indonesia,72.3,True,False
+MnO2,3.263,3.114,285.5,931.6,train,Mn,O,Mn,South Africa,40.3,True,False
+MnO2,3.324,3.057,95.2,316.3,train,Mn,O,Mn,South Africa,40.3,True,False
+MnO2,3.331,3.931,75.6,251.7,train,Mn,O,Mn,South Africa,40.3,True,False
+MnO2,4.577,3.848,148.2,678.5,train,Mn,O,Mn,South Africa,40.3,True,False
+MnO2,3.413,3.35,163.8,559.0,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn21O40,3.229,3.994,130.0,419.6,validation,Mn,O,Mn,South Africa,40.3,True,False
+MnPO4,3.708,3.693,170.9,633.5,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnO2,3.327,3.438,148.2,493.2,train,Mn,O,Mn,South Africa,40.3,True,False
+MnP2O7,4.052,4.417,110.4,447.4,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,4.537,4.907,113.7,515.6,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn4P7O24,4.367,4.811,32.4,141.5,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO4)2,5.499,4.669,201.7,1109.5,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,4.02,3.813,170.9,687.0,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn4(PO4)3,3.363,3.937,52.4,176.2,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnO2,1.238,3.959,71.5,88.5,train,Mn,O,Mn,South Africa,40.3,True,False
+MnP2O7,4.879,4.924,113.7,554.6,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,4.308,3.71,170.9,736.1,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,4.028,4.131,220.8,889.4,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnO3,4.667,3.525,86.0,401.5,test,Mn,O,Mn,South Africa,40.3,True,False
+Mn4(PO4)3,3.376,3.749,52.4,176.9,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn2O9,1.818,1.884,152.7,277.6,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn21O40,3.857,3.83,130.0,501.2,validation,Mn,O,Mn,South Africa,40.3,True,False
+Mn2(PO4)3,3.862,3.755,249.6,963.9,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn3Sb(PO4)4,3.107,3.576,154.4,479.7,validation,Mn,O P Sb,Mn,South Africa,40.3,True,False
+MnPO4,4.062,4.049,87.4,354.9,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,4.248,4.217,220.8,937.9,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,4.439,4.799,113.7,504.5,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,3.977,3.937,85.4,339.8,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,4.755,4.465,139.0,660.9,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn6P7O24,3.967,4.072,28.6,113.4,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,3.9,3.736,170.9,666.4,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn4(PO4)3,4.096,4.132,52.4,214.6,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO3)4,4.569,4.742,139.3,636.6,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn7(PO4)6,3.324,3.709,109.2,362.8,test,Mn,O P,Mn,South Africa,40.3,True,False
+Mn5O12,4.814,4.47,108.4,521.8,train,Mn,O,Mn,South Africa,40.3,True,False
+MnV(PO4)3,3.706,3.505,192.1,711.9,train,Mn V,O P,V,China,72.4,True,False
+Mn(PO3)3,4.966,4.432,89.7,445.4,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,4.234,3.926,170.9,723.5,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO3)4,5.415,4.581,69.7,377.2,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO3)3,4.502,4.366,89.7,403.9,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn5Sb(PO4)6,3.076,3.542,107.8,331.8,validation,Mn,O P Sb,Mn,South Africa,40.3,True,False
+MnP2O7,5.407,5.137,113.7,614.6,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,4.206,3.982,170.9,718.7,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,4.608,3.999,85.4,393.7,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(SO4)2,5.108,5.107,105.5,539.0,train,Mn,O S,Mn,South Africa,40.3,True,False
+TiMn3(PO4)6,3.877,3.515,255.9,991.9,validation,Mn Ti,O P,Mn,South Africa,40.3,True,False
+Mn3V(PO4)6,3.965,4.084,194.4,770.8,train,Mn V,O P,V,China,72.4,True,False
+Mn5SbO12,2.69,2.991,85.1,228.9,train,Mn,O Sb,Mn,South Africa,40.3,True,False
+Mn7O12,2.858,2.813,175.4,501.2,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn2(PO4)3,4.018,3.849,312.0,1253.6,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,4.546,3.688,170.9,776.8,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn3(PO4)4,4.292,3.946,185.0,794.1,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnO2,3.665,2.92,285.5,1046.3,train,Mn,O,Mn,South Africa,40.3,True,False
+MnO2,1.926,2.286,218.7,421.1,train,Mn,O,Mn,South Africa,40.3,True,False
+MnO2,3.912,3.991,104.2,407.5,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn15O32,4.329,4.087,172.5,746.7,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn(PO3)4,5.438,5.109,70.9,385.8,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,4.001,4.11,220.8,883.4,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO4)2,5.18,5.267,103.6,536.5,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnO2,2.167,2.623,413.0,895.0,train,Mn,O,Mn,South Africa,40.3,True,False
+Mn2(PO4)3,3.479,3.748,124.8,434.3,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O9,4.732,4.935,92.9,439.4,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,3.433,4.098,29.1,100.0,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,3.746,3.835,170.9,640.2,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO4)2,4.042,4.33,98.3,397.3,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn3(P2O7)2,3.995,3.951,101.8,406.6,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,3.197,3.903,170.9,546.3,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn6PO12,4.869,3.674,47.9,233.2,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO4)2,4.493,4.673,201.7,906.4,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn2P3O11,4.241,4.601,69.5,294.7,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO4)2,4.476,4.688,100.9,451.5,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO5,5.079,5.113,77.5,393.7,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn9(P2O7)8,4.188,4.126,189.2,792.4,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,4.051,4.378,110.4,447.3,train,Mn,O P,Mn,South Africa,40.3,True,False
+TiMn7(PO4)12,4.79,4.536,131.7,631.0,train,Mn Ti,O P,Mn,South Africa,40.3,True,False
+Mn(Si2O5)2,5.04,4.476,80.2,404.2,train,Mn,O Si,Mn,South Africa,40.3,True,False
+Mn(PO3)3,4.989,4.177,89.7,447.5,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,4.319,3.898,170.9,738.0,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn2P3O10,4.432,4.099,72.5,321.3,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn3P3O13,4.712,4.629,56.7,267.2,test,Mn,O P,Mn,South Africa,40.3,True,False
+Mn3P8O29,4.897,4.919,171.2,838.7,test,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO3)4,4.765,4.963,69.7,331.9,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn5(P3O11)2,3.743,3.839,127.6,477.6,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn3(PO4)4,4.816,4.519,142.2,684.7,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,5.059,4.161,220.8,1117.1,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn4(PO4)3,4.448,4.049,52.4,233.0,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO4)2,4.595,4.724,201.7,927.0,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO3)4,4.913,4.731,69.7,342.3,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO3)5,5.41,5.139,115.6,625.4,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,4.164,3.825,85.4,355.7,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn2P2O9,4.716,4.626,83.0,391.6,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn3(P2O7)2,4.24,3.935,101.8,431.6,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn5Sn(PO4)6,3.345,3.501,108.2,361.8,test,Mn Sn,O P,Mn,South Africa,40.3,True,False
+Mn2Si2O7,3.196,3.546,183.6,586.9,validation,Mn,O Si,Mn,South Africa,40.3,True,False
+Mn7Sb(PO4)12,4.706,4.78,126.0,593.0,train,Mn,O P Sb,Mn,South Africa,40.3,True,False
+Mn3Sn(PO4)4,3.209,3.429,155.1,497.8,train,Mn Sn,O P,Mn,South Africa,40.3,True,False
+Mn5P6WO24,3.071,3.467,101.5,311.7,train,Mn W,O P,W,China,81.0,True,False
+MnP2O7,3.944,4.282,110.4,435.4,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO3)4,5.113,5.122,70.9,362.8,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,3.888,3.717,170.9,664.4,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,3.88,4.123,220.8,856.8,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,3.614,3.995,115.6,417.8,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn3SbO8,3.904,3.725,125.1,488.4,train,Mn,O Sb,Mn,South Africa,40.3,True,False
+Mn(SiO3)2,3.175,3.799,242.6,770.1,train,Mn,O Si,Mn,South Africa,40.3,True,False
+Mn(PO3)3,4.328,4.718,89.7,388.2,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,3.798,3.718,170.9,648.9,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn2(PO4)3,5.161,5.116,33.1,170.7,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO3)4,5.405,5.1,70.9,383.5,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,4.689,4.91,113.7,533.0,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn4(PO4)3,3.601,3.968,52.4,188.6,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO3)3,3.677,4.101,89.7,329.8,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO3)4,4.705,4.644,139.3,655.5,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn3(PO4)4,4.151,3.772,274.3,1138.3,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn3(PO4)4,5.329,4.745,142.2,757.7,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,4.124,3.797,85.4,352.4,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn2(SO4)3,4.254,4.603,66.2,281.5,train,Mn,O S,Mn,South Africa,40.3,True,False
+Mn5(P2O7)4,4.486,4.613,27.4,123.0,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn2(PO4)3,4.497,4.632,129.0,580.0,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn9(PO4)8,3.7,3.875,124.1,459.2,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO5,4.633,5.029,77.5,359.2,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,3.862,4.162,220.8,852.6,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,4.001,4.105,220.8,883.5,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,3.799,4.078,29.1,110.6,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,4.109,4.111,220.8,907.3,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,3.661,3.813,220.8,808.3,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnSn(PO4)2,2.613,2.951,142.0,371.1,train,Mn Sn,O P,Mn,South Africa,40.3,True,False
+MnP2O7,3.966,4.015,220.8,875.7,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,3.518,3.585,170.9,601.1,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,3.584,4.08,29.1,104.4,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(SO4)2,4.422,4.612,102.7,454.2,train,Mn,O S,Mn,South Africa,40.3,True,False
+Mn3(SeO3)4,3.831,3.758,78.1,299.1,train,Mn,O Se,Mn,South Africa,40.3,True,False
+Mn7Sn(PO4)12,4.818,4.333,126.2,608.2,train,Mn Sn,O P,Mn,South Africa,40.3,True,False
+Ti4Mn(PO4)6,2.278,3.932,32.6,74.2,train,Mn Ti,O P,Mn,South Africa,40.3,True,False
+Mn3Sb(PO4)6,3.908,4.327,179.1,699.8,train,Mn,O P Sb,Mn,South Africa,40.3,True,False
+TiMn3(PO4)4,2.607,2.818,172.8,450.6,train,Mn Ti,O P,Mn,South Africa,40.3,True,False
+MnV(PO4)3,3.48,3.519,64.0,222.8,train,Mn V,O P,V,China,72.4,True,False
+Mn(SbO3)4,3.617,3.721,106.5,385.3,train,Mn,O Sb,Mn,South Africa,40.3,True,False
+MnSi2O7,3.822,4.298,106.8,408.3,train,Mn,O Si,Mn,South Africa,40.3,True,False
+Ti3Mn3(SbO8)2,3.155,3.696,128.3,404.8,train,Mn Ti,O Sb,Mn,South Africa,40.3,True,False
+Mn3Sn(PO4)6,4.117,3.835,179.7,739.7,validation,Mn Sn,O P,Mn,South Africa,40.3,True,False
+MnV(PO4)3,3.409,3.519,64.0,218.3,train,Mn V,O P,V,China,72.4,True,False
+Mn3SbO8,3.095,3.05,242.4,750.1,train,Mn,O Sb,Mn,South Africa,40.3,True,False
+MnO2,3.15,3.008,285.5,899.4,train,Mn,O,Mn,South Africa,40.3,True,False
+MnV(P2O7)2,4.034,3.785,169.4,683.4,validation,Mn V,O P,V,China,72.4,True,False
+Mn2(PO4)3,3.407,4.462,96.7,329.5,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn7(P2O7)4,3.461,3.956,49.0,169.5,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,3.519,4.09,29.1,102.5,validation,Mn,O P,Mn,South Africa,40.3,True,False
+MnSiO4,4.104,3.937,83.3,341.8,train,Mn,O Si,Mn,South Africa,40.3,True,False
+MnV(PO4)2,3.118,2.929,173.1,539.7,validation,Mn V,O P,V,China,72.4,True,False
+Mn7V(PO4)12,4.475,4.476,193.9,867.9,train,Mn V,O P,V,China,72.4,True,False
+MnP2O7,4.027,4.148,220.8,889.1,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnPO4,3.841,3.785,170.9,656.3,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn3P6WO24,3.674,3.998,167.5,615.3,train,Mn W,O P,W,China,81.0,True,False
+Mn5V(PO4)6,3.325,3.548,116.1,386.1,train,Mn V,O P,V,China,72.4,True,False
+Mn2(SO4)3,4.586,4.155,130.1,596.8,train,Mn,O S,Mn,South Africa,40.3,True,False
+MnSiO4,4.175,3.883,83.3,347.7,train,Mn,O Si,Mn,South Africa,40.3,True,False
+Mn3V(PO4)4,3.465,3.273,172.0,595.9,test,Mn V,O P,V,China,72.4,True,False
+MnV2(PO4)3,2.409,2.747,117.6,283.4,validation,Mn V,O P,V,China,72.4,True,False
+MnV(PO4)3,3.373,3.58,128.1,432.0,train,Mn V,O P,V,China,72.4,True,False
+Mn5Sb3O16,3.647,3.672,116.1,423.3,train,Mn,O Sb,Mn,South Africa,40.3,True,False
+MnSO5,4.669,4.79,78.6,367.0,test,Mn,O S,Mn,South Africa,40.3,True,False
+Mn2(SO4)3,4.341,4.667,66.2,287.3,train,Mn,O S,Mn,South Africa,40.3,True,False
+Mn(SO4)2,5.296,5.12,105.5,558.8,train,Mn,O S,Mn,South Africa,40.3,True,False
+Mn3SbO8,3.901,3.879,125.1,488.0,train,Mn,O Sb,Mn,South Africa,40.3,True,False
+Mn2P5O16,4.054,4.335,148.5,601.9,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn2P3O10,4.387,4.168,72.5,318.0,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn(PO3)3,3.493,4.296,89.7,313.3,train,Mn,O P,Mn,South Africa,40.3,True,False
+Mn5(SeO3)8,4.14,4.06,101.1,418.7,train,Mn,O Se,Mn,South Africa,40.3,True,False
+MnSiO4,3.961,3.974,83.3,329.9,train,Mn,O Si,Mn,South Africa,40.3,True,False
+MnPO4,3.588,3.818,115.6,414.9,validation,Mn,O P,Mn,South Africa,40.3,True,False
+Mn2PO5,2.386,3.36,117.7,280.8,train,Mn,O P,Mn,South Africa,40.3,True,False
+MnV3(PO4)4,2.769,2.62,174.2,482.4,train,Mn V,O P,V,China,72.4,True,False
+MnV3(PO4)6,3.768,3.541,196.3,739.7,train,Mn V,O P,V,China,72.4,True,False
+MnSiO4,3.998,3.961,83.3,333.0,train,Mn,O Si,Mn,South Africa,40.3,True,False
+MnSiO4,3.831,3.966,83.3,319.0,train,Mn,O Si,Mn,South Africa,40.3,True,False
+MnSiO4,3.961,3.813,83.3,329.9,train,Mn,O Si,Mn,South Africa,40.3,True,False
+Mn3TeO8,3.646,3.758,123.4,450.0,train,Mn,O Te,Mn,South Africa,40.3,True,False
+MnSiO4,4.022,3.905,83.3,335.0,train,Mn,O Si,Mn,South Africa,40.3,True,False
+Ti3Mn3(SnO8)2,3.602,4.109,129.2,465.5,train,Mn Sn Ti,O,Mn,South Africa,40.3,True,False
+Mn5Te3O16,3.403,3.501,113.9,387.6,train,Mn,O Te,Mn,South Africa,40.3,True,False
+TiMn9O20,3.827,3.936,149.4,571.7,test,Mn Ti,O,Mn,South Africa,40.3,True,False
+MnVO4,3.699,3.13,151.6,560.7,train,Mn V,O,V,China,72.4,True,False
+MnV5O12,2.467,2.83,104.0,256.5,train,Mn V,O,V,China,72.4,True,False
+Nd2Tl(MoO4)4,4.875,4.778,23.5,114.6,train,Mo,Nd O Tl,Mo,China,37.3,False,False
+Mo3O8,2.993,2.963,241.7,723.3,train,Mo,O,Mo,China,37.3,False,False
+Ti2Mn3O10,3.171,3.199,179.4,568.8,train,Mn Ti,O,Mn,South Africa,40.3,True,False
+Mn5SnO12,3.181,3.33,174.8,556.1,train,Mn Sn,O,Mn,South Africa,40.3,True,False
+Ti3Mn3(TeO8)2,3.245,3.739,126.5,410.5,train,Mn Ti,O Te,Mn,South Africa,40.3,True,False
+Ti5Mn3O16,3.531,3.702,155.8,550.3,test,Mn Ti,O,Mn,South Africa,40.3,True,False
+TiMn3O8,2.765,2.621,357.0,986.9,train,Mn Ti,O,Mn,South Africa,40.3,True,False
+Mn3VO8,2.927,2.92,288.6,844.5,train,Mn V,O,V,China,72.4,True,False
+TiMn2O6,3.085,2.795,292.8,903.5,train,Mn Ti,O,Mn,South Africa,40.3,True,False
+MnVO4,3.546,3.154,151.6,537.5,train,Mn V,O,V,China,72.4,True,False
+MnS2,1.913,1.894,109.4,209.2,train,Mn,S,Mn,South Africa,40.3,True,False
+Mn2V5O12,2.466,2.092,90.7,223.5,test,Mn V,O,V,China,72.4,True,False
+TiMn5O12,3.111,3.417,197.7,615.1,validation,Mn Ti,O,Mn,South Africa,40.3,True,False
+Ti3MnO8,3.497,3.774,157.5,550.6,train,Mn Ti,O,Mn,South Africa,40.3,True,False
+TiMn3O8,3.023,2.984,218.2,659.6,train,Mn Ti,O,Mn,South Africa,40.3,True,False
+Mn3V5O16,1.779,1.937,215.9,384.1,test,Mn V,O,V,China,72.4,True,False
+MoO2,1.68,1.747,198.7,333.9,train,Mo,O,Mo,China,37.3,False,False
+Sn2(SO4)3,2.541,3.719,50.3,127.9,validation,Sn,O S,Sn,China,24.5,False,False
+MnSnO4,2.036,2.727,106.6,216.9,train,Mn Sn,O,Mn,South Africa,40.3,True,False
+Mn2Si3O10,3.346,3.906,140.4,469.6,validation,Mn,O Si,Mn,South Africa,40.3,True,False
+MnVO4,2.506,2.674,145.9,365.5,train,Mn V,O,V,China,72.4,True,False
+Mn3SnO8,3.825,3.75,126.0,481.9,train,Mn Sn,O,Mn,South Africa,40.3,True,False
+Mn3Sn3(TeO8)2,3.293,3.513,101.1,333.0,train,Mn Sn,O Te,Mn,South Africa,40.3,True,False
+Mn3V3(TeO8)2,3.341,3.281,125.2,418.1,test,Mn V,O Te,V,China,72.4,True,False
+Mn3VO8,3.546,3.651,149.9,531.4,train,Mn V,O,V,China,72.4,True,False
+MoO2,2.413,2.381,198.7,479.5,train,Mo,O,Mo,China,37.3,False,False
+Mo4O5,4.431,2.484,28.7,127.1,validation,Mo,O,Mo,China,37.3,False,False
+ReO3,2.043,1.966,28.4,58.0,train,,O Re,,,0.0,False,False
+Mn3Si3O10,3.26,3.369,126.7,413.1,train,Mn,O Si,Mn,South Africa,40.3,True,False
+Mn3(SnO5)2,3.011,2.731,44.9,135.2,train,Mn Sn,O,Mn,South Africa,40.3,True,False
+MnV4O12,3.663,3.177,170.5,624.7,train,Mn V,O,V,China,72.4,True,False
+MnV2O4,1.228,1.62,59.7,73.3,train,Mn V,O,V,China,72.4,True,False
+MnV4O12,3.587,3.238,170.5,611.7,train,Mn V,O,V,China,72.4,True,False
+MnSiO4,4.0,3.865,83.3,333.1,train,Mn,O Si,Mn,South Africa,40.3,True,False
+TiMn3O8,3.667,3.93,151.2,554.4,train,Mn Ti,O,Mn,South Africa,40.3,True,False
+TiMn4O10,3.875,3.922,150.6,583.6,test,Mn Ti,O,Mn,South Africa,40.3,True,False
+MnV3O8,2.547,2.363,73.7,187.8,test,Mn V,O,V,China,72.4,True,False
+MnSiO4,4.239,3.923,83.3,353.1,train,Mn,O Si,Mn,South Africa,40.3,True,False
+TiMn2O6,3.332,3.4,200.3,667.3,train,Mn Ti,O,Mn,South Africa,40.3,True,False
+Mn3SnO8,3.691,3.761,126.0,465.1,train,Mn Sn,O,Mn,South Africa,40.3,True,False
+Mn4Si4O13,3.416,3.383,96.8,330.5,validation,Mn,O Si,Mn,South Africa,40.3,True,False
+Mn3SnO8,3.906,3.802,126.0,492.2,train,Mn Sn,O,Mn,South Africa,40.3,True,False
+Mn3TeO8,3.986,3.866,123.4,491.9,train,Mn,O Te,Mn,South Africa,40.3,True,False
+TiMnO4,2.202,2.888,148.3,326.6,test,Mn Ti,O,Mn,South Africa,40.3,True,False
+V(SO4)2,3.682,3.597,208.6,768.1,train,V,O S,V,China,72.4,False,False
+MoO2,3.176,3.064,102.0,323.9,train,Mo,O,Mo,China,37.3,False,False
+Mo3O8,3.201,3.066,241.7,773.7,train,Mo,O,Mo,China,37.3,False,False
+Mn3TeO8,3.196,3.202,182.2,582.4,train,Mn,O Te,Mn,South Africa,40.3,True,False
+Ti3Mn5O16,2.61,2.326,360.4,940.6,test,Mn Ti,O,Mn,South Africa,40.3,True,False
+MnV3O8,1.814,2.681,75.2,136.3,test,Mn V,O,V,China,72.4,True,False
+MnV3O8,2.512,2.438,225.5,566.4,test,Mn V,O,V,China,72.4,True,False
+Mn3WO8,2.126,2.965,53.1,113.0,validation,Mn W,O,W,China,81.0,True,False
+Sn(SO4)2,3.287,3.647,165.1,542.5,train,Sn,O S,Sn,China,24.5,False,False
+Ti(SO4)2,2.787,3.348,108.5,302.5,train,Ti,O S,Ti,China,35.0,True,False
+V2(SO4)3,3.139,3.04,132.7,416.5,train,V,O S,V,China,72.4,False,False
+Sb(SO4)2,4.415,4.431,83.5,368.9,train,,O S Sb,,,0.0,False,False
+Sn2(SO4)3,3.265,3.705,50.3,164.3,validation,Sn,O S,Sn,China,24.5,False,False
+V2(SO4)3,2.678,3.069,132.7,355.4,train,V,O S,V,China,72.4,False,False
+TiMnO4,2.886,3.089,296.7,856.3,test,Mn Ti,O,Mn,South Africa,40.3,True,False
+TiMn3O8,3.285,3.217,222.4,730.6,train,Mn Ti,O,Mn,South Africa,40.3,True,False
+Ti2Mn5O12,2.715,2.805,44.9,121.9,train,Mn Ti,O,Mn,South Africa,40.3,True,False
+MnV3O8,1.762,1.916,217.0,382.5,test,Mn V,O,V,China,72.4,True,False
+MnV3O8,2.363,2.693,294.9,696.9,test,Mn V,O,V,China,72.4,True,False
+TiMn3O8,3.134,3.215,222.4,697.0,train,Mn Ti,O,Mn,South Africa,40.3,True,False
+Mn2V3O12,3.924,3.287,222.2,872.0,train,Mn V,O,V,China,72.4,True,False
+Mn3V2O10,3.115,2.64,290.4,904.8,train,Mn V,O,V,China,72.4,True,False
+ReO3,1.551,1.681,216.1,335.1,train,,O Re,,,0.0,False,False
+Sn2(SO4)3,3.891,3.688,99.4,386.6,validation,Sn,O S,Sn,China,24.5,False,False
+V(SO4)2,4.682,4.17,107.2,501.9,train,V,O S,V,China,72.4,False,False
+Ti(SiO3)2,1.609,1.921,129.5,208.4,train,Ti,O Si,Ti,China,35.0,True,False
+Ti(SiO3)2,1.588,1.908,129.5,205.6,train,Ti,O Si,Ti,China,35.0,True,False
+V(SO4)3,4.043,4.484,148.9,602.0,train,V,O S,V,China,72.4,False,False
+VSi2O7,3.316,3.509,111.7,370.5,validation,V,O Si,V,China,72.4,False,False
+Sb(TeO4)3,3.217,3.4,111.0,357.1,train,,O Sb Te,,,0.0,False,False
+VSiO4,3.372,3.166,89.4,301.3,train,V,O Si,V,China,72.4,False,False
+V(SiO3)2,3.248,3.29,127.6,414.5,test,V,O Si,V,China,72.4,False,False
+VSiO4,3.441,3.13,89.4,307.5,train,V,O Si,V,China,72.4,False,False
+VSiO4,3.453,2.991,89.4,308.6,train,V,O Si,V,China,72.4,False,False
+VSiO4,3.902,3.451,89.4,348.7,train,V,O Si,V,China,72.4,False,False
+V4Si4O13,2.231,1.868,99.6,222.3,train,V,O Si,V,China,72.4,False,False
+V(SiO3)2,3.374,3.55,127.6,430.5,test,V,O Si,V,China,72.4,False,False
+V(SiO3)2,3.232,3.804,127.6,412.4,test,V,O Si,V,China,72.4,False,False
+SbO3,5.363,5.216,151.7,813.5,train,,O Sb,,,0.0,False,False
+V3Si3O10,2.285,2.044,130.4,298.0,train,V,O Si,V,China,72.4,False,False
+Sb(TeO4)3,3.23,3.514,111.0,358.5,train,,O Sb Te,,,0.0,False,False
+VSiO5,3.399,3.645,155.0,526.8,train,V,O Si,V,China,72.4,False,False
+V2Si4O11,2.431,2.342,132.6,322.5,train,V,O Si,V,China,72.4,False,False
+V(Si2O5)3,2.916,3.782,111.6,325.4,train,V,O Si,V,China,72.4,False,False
+SbTe2WO12,3.169,3.308,103.0,326.5,train,W,O Sb Te,W,China,81.0,False,False
+SbWO7,5.469,5.201,63.1,345.3,train,W,O Sb,W,China,81.0,False,False
+VSiO5,3.39,3.558,155.0,525.4,train,V,O Si,V,China,72.4,False,False
+TiSiO4,2.027,1.868,182.5,369.9,train,Ti,O Si,Ti,China,35.0,True,False
+SnO3,4.657,3.074,37.1,172.8,test,Sn,O,Sn,China,24.5,False,False
+VZnSiO5,2.214,1.963,58.8,130.2,train,V Zn,O Si,V,China,72.4,False,False
+Ti(TeO4)3,3.488,3.512,82.4,287.5,train,Ti,O Te,Ti,China,35.0,True,False
+VTe(WO6)2,3.203,3.3,105.0,336.2,validation,V W,O Te,W,China,81.0,False,False
+V(TeO4)3,3.637,3.631,123.0,447.5,train,V,O Te,V,China,72.4,False,False
+V(TeO4)3,3.35,3.416,123.0,412.2,train,V,O Te,V,China,72.4,False,False
+TiO2,1.413,2.204,105.7,149.4,train,Ti,O,Ti,China,35.0,True,False
+Ti9O20,2.759,3.189,67.6,186.6,train,Ti,O,Ti,China,35.0,True,False
+Ti11O24,2.524,3.474,83.8,211.6,test,Ti,O,Ti,China,35.0,True,False
+TiV3O10,3.093,2.958,207.0,640.2,train,Ti V,O,V,China,72.4,True,False
+Ti2O3,1.208,1.979,91.0,109.9,test,Ti,O,Ti,China,35.0,True,False
+Ti2V5O12,1.822,1.719,46.4,84.6,train,Ti V,O,V,China,72.4,True,False
+Ti2VO6,1.626,1.829,203.4,330.7,test,Ti V,O,V,China,72.4,True,False
+TiO2,1.525,1.84,308.7,470.8,train,Ti,O,Ti,China,35.0,True,False
+TiO2,1.266,1.865,236.3,299.2,train,Ti,O,Ti,China,35.0,True,False
+Ti3O4,1.088,1.427,124.9,135.9,train,Ti,O,Ti,China,35.0,True,False
+Ti3O8,1.927,2.154,87.5,168.6,train,Ti,O,Ti,China,35.0,True,False
+TiO2,1.432,1.881,308.7,442.0,train,Ti,O,Ti,China,35.0,True,False
+Ti15O32,2.685,3.319,83.4,223.9,train,Ti,O,Ti,China,35.0,True,False
+TiV2O6,2.249,2.013,201.1,452.3,test,Ti V,O,V,China,72.4,True,False
+TiO2,2.098,2.578,160.8,337.4,train,Ti,O,Ti,China,35.0,True,False
+Ti2V3O10,2.282,2.097,241.9,552.0,train,Ti V,O,V,China,72.4,True,False
+Ti3VO8,1.786,1.946,229.5,409.9,train,Ti V,O,V,China,72.4,True,False
+TiO2,1.7,1.955,77.2,131.2,train,Ti,O,Ti,China,35.0,True,False
+TiO2,1.982,2.571,108.7,215.5,train,Ti,O,Ti,China,35.0,True,False
+TiO2,1.027,1.54,236.3,242.6,train,Ti,O,Ti,China,35.0,True,False
+TiO2,1.36,2.427,160.8,218.7,train,Ti,O,Ti,China,35.0,True,False
+Ti11O24,1.826,2.833,83.8,153.1,test,Ti,O,Ti,China,35.0,True,False
+TiO2,1.836,1.986,308.7,567.0,train,Ti,O,Ti,China,35.0,True,False
+TiO2,1.782,2.037,308.7,550.3,train,Ti,O,Ti,China,35.0,True,False
+TiVO4,1.93,1.997,101.1,195.2,train,Ti V,O,V,China,72.4,True,False
+TiO2,1.444,2.021,236.3,341.2,train,Ti,O,Ti,China,35.0,True,False
+TiO2,1.381,1.84,154.4,213.2,train,Ti,O,Ti,China,35.0,True,False
+TiV3O8,1.857,1.985,368.8,684.8,train,Ti V,O,V,China,72.4,True,False
+TiVO4,1.44,2.107,151.7,218.4,train,Ti V,O,V,China,72.4,True,False
+TiV3O8,2.508,2.063,225.6,565.8,train,Ti V,O,V,China,72.4,True,False
+Ti4VO8,1.641,1.814,205.5,337.3,train,Ti V,O,V,China,72.4,True,False
+TiV3O8,1.152,1.617,221.3,255.0,train,Ti V,O,V,China,72.4,True,False
+Ti3Zn2O8,1.659,1.958,65.5,108.6,train,Ti Zn,O,Zn,China,38.9,True,False
+TiV3O8,1.886,2.313,76.7,144.6,train,Ti V,O,V,China,72.4,True,False
+Ti2V3O12,2.354,2.911,116.2,273.4,train,Ti V,O,V,China,72.4,True,False
+VO2,2.232,3.073,79.1,176.6,validation,V,O,V,China,72.4,False,False
+VO2,2.391,1.801,365.7,874.5,validation,V,O,V,China,72.4,False,False
+U(WO5)2,2.354,2.497,25.6,60.3,train,W,O U,W,China,81.0,False,False
+V2O5,3.498,3.205,141.9,496.5,test,V,O,V,China,72.4,False,False
+TiVO4,2.07,2.142,303.4,628.1,train,Ti V,O,V,China,72.4,True,False
+V2O5,3.113,3.28,141.9,441.8,test,V,O,V,China,72.4,False,False
+TiVO4,1.837,2.067,151.7,278.7,train,Ti V,O,V,China,72.4,True,False
+VO2,2.805,2.589,110.8,310.7,validation,V,O,V,China,72.4,False,False
+V7O12,1.813,1.705,91.9,166.6,train,V,O,V,China,72.4,False,False
+Ti3V5O16,2.781,2.632,157.2,437.1,train,Ti V,O,V,China,72.4,True,False
+V9O22,3.548,3.489,80.9,287.2,train,V,O,V,China,72.4,False,False
+V5O12,3.11,2.995,172.0,534.9,train,V,O,V,China,72.4,False,False
+V2O5,3.638,3.338,141.9,516.4,test,V,O,V,China,72.4,False,False
+V6O13,2.588,2.705,150.4,389.3,train,V,O,V,China,72.4,False,False
+V5O12,3.374,3.065,172.0,580.2,train,V,O,V,China,72.4,False,False
+V5O12,3.014,2.467,378.8,1141.6,train,V,O,V,China,72.4,False,False
+V5O12,2.881,2.703,226.0,650.9,train,V,O,V,China,72.4,False,False
+V3O7,3.258,2.985,192.3,626.6,test,V,O,V,China,72.4,False,False
+TiVO5,3.289,3.102,139.1,457.5,train,Ti V,O,V,China,72.4,True,False
+V2O5,3.205,3.359,141.9,455.0,test,V,O,V,China,72.4,False,False
+V3O8,2.756,2.57,320.3,882.6,train,V,O,V,China,72.4,False,False
+VO2,2.19,2.61,79.1,173.3,validation,V,O,V,China,72.4,False,False
+V12O29,3.604,3.497,73.4,264.3,train,V,O,V,China,72.4,False,False
+VO2,2.491,3.216,63.6,158.3,validation,V,O,V,China,72.4,False,False
+VO2,2.949,2.683,298.2,879.3,validation,V,O,V,China,72.4,False,False
+V2O5,3.531,3.631,95.8,338.3,test,V,O,V,China,72.4,False,False
+VO2,2.552,1.994,238.6,608.7,validation,V,O,V,China,72.4,False,False
+V2O5,3.275,3.267,180.6,591.4,test,V,O,V,China,72.4,False,False
+VO3,3.272,2.866,237.6,777.4,train,V,O,V,China,72.4,False,False
+VO2,2.649,2.724,95.5,253.0,validation,V,O,V,China,72.4,False,False
+Ti3VO8,2.73,2.929,159.3,435.1,train,Ti V,O,V,China,72.4,True,False
+VO2,2.783,3.55,40.0,111.3,validation,V,O,V,China,72.4,False,False
+VO2,1.119,0.788,415.2,464.7,validation,V,O,V,China,72.4,False,False
+Ti6Zn3O16,1.651,2.302,35.3,58.2,test,Ti Zn,O,Zn,China,38.9,True,False
+V2O5,3.204,3.241,141.9,454.7,test,V,O,V,China,72.4,False,False
+VO3,3.151,2.925,237.6,748.4,train,V,O,V,China,72.4,False,False
+WO2,3.357,3.636,61.1,205.1,train,W,O,W,China,81.0,False,False
+V3Zn2O8,3.595,2.584,64.0,230.2,validation,V Zn,O,V,China,72.4,False,False
+WO3,2.277,3.331,56.9,129.7,train,W,O,W,China,81.0,False,False
+WO2,1.694,1.785,120.3,203.8,train,W,O,W,China,81.0,False,False
+VS2,1.86,1.568,113.0,210.3,validation,V,S,V,China,72.4,False,False
+VS2,1.79,1.554,219.7,393.2,validation,V,S,V,China,72.4,False,False
+Sb11S18,2.842,2.835,41.5,118.0,train,,S Sb,,,0.0,False,False
+TiS2,1.807,2.459,225.3,407.2,train,Ti,S,Ti,China,35.0,True,False
+SnS2,1.56,2.042,141.2,220.4,train,Sn,S,Sn,China,24.5,False,False
+VS2,1.722,1.632,219.7,378.2,validation,V,S,V,China,72.4,False,False
+Mo3P3O13,3.56,3.537,45.0,160.2,train,Mo,O P,Mo,China,37.3,False,False
+Mo2P3O13,3.878,3.753,53.6,208.0,train,Mo,O P,Mo,China,37.3,False,False
+MoP2O7,4.124,3.372,96.8,399.3,test,Mo,O P,Mo,China,37.3,False,False
+YSb2,1.442,1.574,227.6,328.2,train,,Sb Y,,,0.0,False,False
+TiSe2,1.563,1.937,126.0,196.9,train,Ti,Se,Ti,China,35.0,True,False
+MoP2O7,3.435,3.286,96.8,332.6,test,Mo,O P,Mo,China,37.3,False,False
+Mo2P2O11,3.086,3.629,120.8,372.8,train,Mo,O P,Mo,China,37.3,False,False
+Mo(PO3)4,4.46,3.538,64.0,285.4,test,Mo,O P,Mo,China,37.3,False,False
+Mo(PO3)5,3.606,3.929,106.2,383.0,train,Mo,O P,Mo,China,37.3,False,False
+Sb,1.016,1.013,563.9,572.9,train,,Sb,,,0.0,False,False
+MoPO5,3.779,3.588,125.3,473.6,train,Mo,O P,Mo,China,37.3,False,False
+Mo2P2O11,3.796,3.78,61.4,232.9,train,Mo,O P,Mo,China,37.3,False,False
+Sb17S27,2.861,2.861,27.2,77.8,train,,S Sb,,,0.0,False,False
+TiS2,1.886,2.455,225.3,425.0,train,Ti,S,Ti,China,35.0,True,False
+TiS2,1.98,2.556,78.2,154.7,train,Ti,S,Ti,China,35.0,True,False
+MoP2O7,3.252,3.024,96.8,314.9,test,Mo,O P,Mo,China,37.3,False,False
+Mo2(PO4)3,2.82,3.498,55.4,156.2,train,Mo,O P,Mo,China,37.3,False,False
+Mo2(PO4)3,3.532,3.169,107.7,380.5,train,Mo,O P,Mo,China,37.3,False,False
+Mo2(PO4)3,3.249,3.044,161.6,525.0,train,Mo,O P,Mo,China,37.3,False,False
+Mo2P3O13,3.826,3.766,53.6,205.2,train,Mo,O P,Mo,China,37.3,False,False
+Mo(PO4)2,3.455,3.209,174.8,603.9,validation,Mo,O P,Mo,China,37.3,False,False
+Mo2PO8,3.266,3.462,74.9,244.7,validation,Mo,O P,Mo,China,37.3,False,False
+MoP2O9,3.363,3.66,81.3,273.4,train,Mo,O P,Mo,China,37.3,False,False
+Mo3(PO4)4,4.135,3.345,116.8,482.8,validation,Mo,O P,Mo,China,37.3,False,False
+Mo2P2O11,3.365,3.903,30.9,104.1,train,Mo,O P,Mo,China,37.3,False,False
+ScSn,1.039,1.624,157.1,163.3,train,Sn,Sc,Sn,China,24.5,False,False
+Mo(PO4)2,3.819,3.75,89.4,341.4,validation,Mo,O P,Mo,China,37.3,False,False
+MoP2O7,3.264,3.351,96.8,316.0,test,Mo,O P,Mo,China,37.3,False,False
+Mo2P5O18,4.999,4.187,80.1,400.3,validation,Mo,O P,Mo,China,37.3,False,False
+Mo2(PO4)3,3.232,3.02,161.6,522.2,train,Mo,O P,Mo,China,37.3,False,False
+MoPO5,3.015,3.523,125.3,377.8,train,Mo,O P,Mo,China,37.3,False,False
+VSe2,1.452,1.293,124.2,180.3,train,V,Se,V,China,72.4,False,False
+MoP2O7,3.387,3.463,96.8,327.9,test,Mo,O P,Mo,China,37.3,False,False
+Mo2P2O9,3.451,3.452,66.2,228.5,train,Mo,O P,Mo,China,37.3,False,False
+Mo4P7O24,2.893,3.421,27.0,78.2,test,Mo,O P,Mo,China,37.3,False,False
+Mo3(PO4)4,3.349,3.17,116.8,391.1,validation,Mo,O P,Mo,China,37.3,False,False
+MoP2O7,3.147,3.306,96.8,304.6,test,Mo,O P,Mo,China,37.3,False,False
+Mo3P3O16,3.999,3.793,41.6,166.5,train,Mo,O P,Mo,China,37.3,False,False
+Mo2P3O13,3.062,3.817,53.6,164.2,train,Mo,O P,Mo,China,37.3,False,False
+Mo4P9O32,3.657,3.433,153.4,560.9,train,Mo,O P,Mo,China,37.3,False,False
+Mo(PO3)4,4.164,3.681,64.0,266.5,test,Mo,O P,Mo,China,37.3,False,False
+Mo(PO3)4,4.445,3.579,64.0,284.5,test,Mo,O P,Mo,China,37.3,False,False
+Mo(PO4)2,3.487,3.354,87.4,304.7,validation,Mo,O P,Mo,China,37.3,False,False
+MoP2O7,3.349,3.128,96.8,324.3,test,Mo,O P,Mo,China,37.3,False,False
+MoP4O13,4.889,4.322,121.4,593.3,train,Mo,O P,Mo,China,37.3,False,False
+TiTe2,1.21,1.813,86.5,104.6,train,Ti,Te,Ti,China,35.0,True,False
+Mo(PO4)2,3.763,3.665,89.4,336.4,validation,Mo,O P,Mo,China,37.3,False,False
+Mo(PO3)4,4.384,3.14,64.0,280.6,test,Mo,O P,Mo,China,37.3,False,False
+Mo(PO4)2,4.07,3.647,91.5,372.6,validation,Mo,O P,Mo,China,37.3,False,False
+MoP2O7,4.167,3.329,96.8,403.5,test,Mo,O P,Mo,China,37.3,False,False
+Mo4P5O24,3.627,3.787,85.2,309.2,train,Mo,O P,Mo,China,37.3,False,False
+Mo3(PO4)4,4.035,3.339,116.8,471.2,validation,Mo,O P,Mo,China,37.3,False,False
+Mo2P3O11,2.719,3.467,57.3,155.8,validation,Mo,O P,Mo,China,37.3,False,False
+Mo2P3O13,3.492,3.707,53.6,187.3,train,Mo,O P,Mo,China,37.3,False,False
+Mo(PO4)2,4.514,3.71,91.5,413.2,validation,Mo,O P,Mo,China,37.3,False,False
+Mo2P5O18,3.802,3.388,80.1,304.4,validation,Mo,O P,Mo,China,37.3,False,False
+Mo(PO4)2,3.98,3.778,91.5,364.3,validation,Mo,O P,Mo,China,37.3,False,False
+Mo(PO4)2,3.727,3.942,89.4,333.2,validation,Mo,O P,Mo,China,37.3,False,False
+Y5(MoO6)2,1.589,1.842,32.1,51.0,train,Mo,O Y,Mo,China,37.3,False,False
+Mo3S4,1.774,1.774,124.7,221.2,train,Mo,S,Mo,China,37.3,False,False
+ScMo3O8,2.396,3.394,57.3,137.3,test,Mo,O Sc,Mo,China,37.3,False,False
+YMo3O8,2.842,2.809,52.4,148.8,train,Mo,O Y,Mo,China,37.3,False,False
+Mo15S19,1.793,1.922,64.3,115.3,train,Mo,S,Mo,China,37.3,False,False
+Na2SrVP2O9,1.436,1.705,67.4,96.8,validation,V,Na O P Sr,V,China,72.4,False,False
+NbPO5,1.733,2.152,127.1,220.3,validation,Nb,O P,Nb,Brazil,93.3,False,False
+NbV3O8,2.092,2.184,138.3,289.3,train,Nb V,O,Nb,Brazil,93.3,False,False
+Nb(PO4)2,2.59,2.552,90.3,233.9,train,Nb,O P,Nb,Brazil,93.3,False,False
+Nb3P8O29,1.987,2.183,152.7,303.5,test,Nb,O P,Nb,Brazil,93.3,False,False
+Sr3Nb4O13,2.372,2.454,62.6,148.5,train,Nb,O Sr,Nb,Brazil,93.3,False,False
+Nb3TeO12,2.703,3.62,42.8,115.7,test,Nb,O Te,Nb,Brazil,93.3,False,False
+Na2V3P2O13,2.683,2.484,111.1,297.9,train,V,Na O P,V,China,72.4,False,False
+Na3SbP2O9,1.644,2.221,66.4,109.1,validation,,Na O P Sb,,,0.0,False,False
+NbO2,2.903,3.037,203.3,590.1,train,Nb,O,Nb,Brazil,93.3,False,False
+Nb4VO12,2.386,2.909,126.5,302.0,train,Nb V,O,Nb,Brazil,93.3,False,False
+NbVO4,1.245,1.732,120.9,150.5,train,Nb V,O,Nb,Brazil,93.3,False,False
+NbNi3(PO4)6,3.004,3.804,59.9,180.0,train,Nb Ni,O P,Nb,Brazil,93.3,False,False
+NbV3O8,3.137,2.505,138.3,433.8,train,Nb V,O,Nb,Brazil,93.3,False,False
+Ti3NbO8,1.859,2.55,141.7,263.3,train,Nb Ti,O,Nb,Brazil,93.3,True,False
+NbNi3O8,3.836,3.548,63.1,242.0,test,Nb Ni,O,Nb,Brazil,93.3,False,False
+ZrNb(TeO6)2,2.706,3.629,40.7,110.1,test,Nb,O Te Zr,Nb,Brazil,93.3,False,False
+Nb6NiO18,3.536,3.565,85.6,302.9,train,Nb Ni,O,Nb,Brazil,93.3,False,False
+NbO3,4.955,3.711,30.2,149.7,train,Nb,O,Nb,Brazil,93.3,False,False
+Mo3Se4,1.628,1.335,76.2,124.0,validation,Mo,Se,Mo,China,37.3,False,False
+NbP4O13,2.493,2.709,61.1,152.3,train,Nb,O P,Nb,Brazil,93.3,False,False
+Nb2(PO4)3,1.639,2.144,56.1,92.0,train,Nb,O P,Nb,Brazil,93.3,False,False
+NiN,1.209,1.556,309.5,374.3,train,Ni,N,Ni,Indonesia,72.3,False,False
+Nb(PO3)4,2.539,2.596,64.5,163.7,validation,Nb,O P,Nb,Brazil,93.3,False,False
+NbPO5,1.114,2.324,64.6,72.0,validation,Nb,O P,Nb,Brazil,93.3,False,False
+Sr2Nb3O10,2.237,2.67,42.7,95.5,test,Nb,O Sr,Nb,Brazil,93.3,False,False
+Ti7Nb5O30,1.66,2.889,39.9,66.3,validation,Nb Ti,O,Nb,Brazil,93.3,True,False
+Nb(TeO4)3,3.148,3.449,115.6,363.9,train,Nb,O Te,Nb,Brazil,93.3,False,False
+Nb(PO3)4,2.547,2.347,64.5,164.2,validation,Nb,O P,Nb,Brazil,93.3,False,False
+Nb(TeO4)3,3.127,3.242,115.6,361.5,train,Nb,O Te,Nb,Brazil,93.3,False,False
+Nb7V12O48,3.044,2.737,102.5,312.0,train,Nb V,O,Nb,Brazil,93.3,False,False
+NbTe2WO12,3.061,3.397,107.0,327.4,train,Nb W,O Te,Nb,Brazil,93.3,False,False
+Ti12NbO30,2.01,2.805,44.3,89.0,train,Nb Ti,O,Nb,Brazil,93.3,True,False
+Nb2(PO4)3,1.371,1.799,110.6,151.6,train,Nb,O P,Nb,Brazil,93.3,False,False
+Ti3Nb2V3O16,2.47,2.321,140.0,345.7,train,Nb Ti V,O,Nb,Brazil,93.3,True,False
+Na2VPO6,2.123,1.895,116.1,246.5,train,V,Na O P,V,China,72.4,False,False
+Nb(PO3)4,2.737,2.247,64.5,176.5,validation,Nb,O P,Nb,Brazil,93.3,False,False
+NbV3(PO4)6,2.745,2.823,187.6,515.0,train,Nb V,O P,Nb,Brazil,93.3,False,False
+NbV3O8,1.418,1.791,66.8,94.7,train,Nb V,O,Nb,Brazil,93.3,False,False
+Ti7Nb6O30,1.634,2.592,112.6,184.0,train,Nb Ti,O,Nb,Brazil,93.3,True,False
+Ni3P3O11,4.691,4.61,59.3,278.2,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Nb4ZnO12,1.778,2.335,41.2,73.3,train,Nb Zn,O,Nb,Brazil,93.3,False,False
+NiO2,3.79,3.598,109.8,416.2,validation,Ni,O,Ni,Indonesia,72.3,False,False
+NiO2,3.283,2.316,512.6,1682.9,validation,Ni,O,Ni,Indonesia,72.3,False,False
+NiO2,3.462,3.406,337.1,1167.1,validation,Ni,O,Ni,Indonesia,72.3,False,False
+NbSe2,1.775,1.849,104.0,184.5,train,Nb,Se,Nb,Brazil,93.3,False,False
+NiO4,2.716,2.016,163.1,443.0,validation,Ni,O,Ni,Indonesia,72.3,False,False
+NiO2,4.099,3.441,91.5,375.1,validation,Ni,O,Ni,Indonesia,72.3,False,False
+Ni6O7,4.042,4.358,56.9,230.0,train,Ni,O,Ni,Indonesia,72.3,False,False
+NiO2,3.101,3.241,202.3,627.4,validation,Ni,O,Ni,Indonesia,72.3,False,False
+Ni2(PO4)3,4.948,5.07,126.7,626.8,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NbS2,2.172,2.422,163.4,355.0,train,Nb,S,Nb,Brazil,93.3,False,False
+Ni11O28,3.549,3.737,110.6,392.5,train,Ni,O,Ni,Indonesia,72.3,False,False
+NiO2,3.706,3.528,68.6,254.3,validation,Ni,O,Ni,Indonesia,72.3,False,False
+Ni3(P2O7)2,4.93,4.829,99.7,491.3,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni2(PO3)5,5.436,5.067,51.6,280.6,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni2(PO4)3,4.686,4.632,245.3,1149.5,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni3P3O13,5.233,5.008,55.4,289.8,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni5(P3O11)2,4.836,4.637,124.8,603.5,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiO2,3.876,3.605,219.6,851.3,validation,Ni,O,Ni,Indonesia,72.3,False,False
+Ni5O9,3.655,3.619,115.2,421.1,validation,Ni,O,Ni,Indonesia,72.3,False,False
+Ni15O28,3.769,3.633,75.6,284.8,train,Ni,O,Ni,Indonesia,72.3,False,False
+Ni2P2O9,5.269,5.018,81.2,427.6,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiPO4,4.954,4.649,166.9,826.8,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni3(PO4)4,5.148,5.262,139.4,717.6,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni3(P2O7)2,5.061,4.796,99.7,504.4,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiPO4,5.07,4.582,166.9,846.0,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni7(PO4)6,4.211,4.525,106.3,447.6,validation,Ni,O P,Ni,Indonesia,72.3,False,False
+NiP2O7,5.142,5.025,108.7,559.0,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni(PO3)3,5.07,5.051,88.6,449.1,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiO2,3.077,2.452,512.6,1577.1,validation,Ni,O,Ni,Indonesia,72.3,False,False
+NiO2,3.712,3.656,92.0,341.7,validation,Ni,O,Ni,Indonesia,72.3,False,False
+Ni9O13,4.718,4.696,36.1,170.1,train,Ni,O,Ni,Indonesia,72.3,False,False
+Ni3O4,3.512,4.096,108.5,381.1,test,Ni,O,Ni,Indonesia,72.3,False,False
+NiPO4,4.972,4.513,166.9,829.7,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni(PO3)4,5.137,5.4,70.2,360.8,validation,Ni,O P,Ni,Indonesia,72.3,False,False
+NiO2,3.939,3.509,274.5,1081.2,validation,Ni,O,Ni,Indonesia,72.3,False,False
+Ni7(PO4)6,4.347,4.436,106.3,462.2,validation,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni13O24,3.772,3.652,87.6,330.6,train,Ni,O,Ni,Indonesia,72.3,False,False
+Ni9O10,3.947,4.4,38.6,152.2,test,Ni,O,Ni,Indonesia,72.3,False,False
+Ni4(PO4)3,4.545,4.393,50.9,231.3,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiO2,3.934,4.232,51.6,202.9,validation,Ni,O,Ni,Indonesia,72.3,False,False
+Ni9(P2O7)8,5.066,5.02,119.6,605.9,test,Ni,O P,Ni,Indonesia,72.3,False,False
+NiP2O7,4.726,5.044,108.7,513.8,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni6P7O24,4.83,4.731,27.9,134.9,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiP2O7,5.028,5.019,217.4,1093.2,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni2(PO4)3,4.835,4.902,126.7,612.5,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni3P4O15,5.449,4.802,188.8,1029.0,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni(PO4)2,4.941,5.031,99.5,491.4,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiO2,3.066,2.761,315.9,968.6,validation,Ni,O,Ni,Indonesia,72.3,False,False
+Ni4P7O24,4.677,5.089,31.8,148.8,test,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni(PO4)2,4.974,4.823,193.9,964.6,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni5(P2O7)4,5.473,4.921,156.0,853.7,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiO4,2.976,2.073,225.4,670.9,validation,Ni,O,Ni,Indonesia,72.3,False,False
+NiO2,3.259,2.492,256.3,835.3,validation,Ni,O,Ni,Indonesia,72.3,False,False
+NiO2,3.776,3.583,183.0,691.0,validation,Ni,O,Ni,Indonesia,72.3,False,False
+Ni3(PO4)4,5.122,5.112,139.4,714.0,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni4P4O15,4.44,4.575,87.5,388.6,test,Ni,O P,Ni,Indonesia,72.3,False,False
+NiPO4,4.955,4.705,166.9,826.8,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni(PO3)3,5.066,5.101,88.6,448.8,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiP2O7,5.362,5.259,111.9,599.9,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiP2O7,4.824,5.086,111.9,539.7,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiP2O7,5.481,5.263,111.9,613.2,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiP2O7,5.014,5.441,111.9,560.9,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni(PO3)3,5.184,5.238,88.6,459.2,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni2(PO4)3,4.614,4.599,245.3,1131.9,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni(PO4)2,4.981,5.165,99.5,495.4,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni2P3O10,5.268,4.942,71.0,374.3,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiP2O7,5.194,5.335,111.9,581.0,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni2(PO4)3,4.916,5.176,126.7,622.8,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni5(PO4)4,4.157,4.367,78.0,324.2,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni5Te(PO4)6,3.923,3.813,105.2,412.8,train,Ni,O P Te,Ni,Indonesia,72.3,False,False
+Ti4Ni(PO5)4,5.059,3.995,75.7,383.1,train,Ni Ti,O P,Ni,Indonesia,72.3,True,False
+Ni4(PO4)3,4.307,4.475,50.9,219.2,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiPO4,4.925,4.682,83.4,410.9,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ti2Ni(PO5)2,1.787,3.976,69.9,124.9,test,Ni Ti,O P,Ni,Indonesia,72.3,True,False
+VNi(PO4)2,3.12,3.333,171.0,533.5,train,Ni V,O P,V,China,72.4,False,False
+V3Ni(PO4)4,2.774,2.825,173.1,480.3,train,Ni V,O P,V,China,72.4,False,False
+Ni3Sn(PO4)4,3.72,3.927,152.6,567.8,train,Ni Sn,O P,Ni,Indonesia,72.3,False,False
+NiPO4,5.007,4.662,166.9,835.6,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni2P5O16,5.066,5.119,146.4,741.8,train,Ni,O P,Ni,Indonesia,72.3,False,False
+TiNi5(PO4)6,4.278,4.019,114.2,488.4,validation,Ni Ti,O P,Ni,Indonesia,72.3,True,False
+VNi3(PO4)6,4.189,4.392,62.9,263.4,validation,Ni V,O P,V,China,72.4,False,False
+NiP2O7,4.709,4.916,108.7,512.0,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni3(P2O7)2,4.494,4.911,123.8,556.3,train,Ni,O P,Ni,Indonesia,72.3,False,False
+Ni3Sb(PO4)4,3.32,4.189,152.0,504.5,train,Ni,O P Sb,Ni,Indonesia,72.3,False,False
+VNi3(PO4)4,3.965,3.907,168.9,669.8,validation,Ni V,O P,V,China,72.4,False,False
+NiPO4,4.925,4.634,166.9,821.9,train,Ni,O P,Ni,Indonesia,72.3,False,False
+NiSn(PO4)2,2.507,3.309,140.6,352.5,train,Ni Sn,O P,Ni,Indonesia,72.3,False,False
+V3Ni(PO4)6,3.479,3.398,226.1,786.4,train,Ni V,O P,V,China,72.4,False,False
+Ni2(SO4)3,5.203,5.007,127.8,664.9,train,Ni,O S,Ni,Indonesia,72.3,False,False
+Rb5Si2NiO8,3.378,3.725,39.6,133.7,train,Ni,O Rb Si,Ni,Indonesia,72.3,False,False
+Ni2(SO4)3,5.027,5.092,65.0,326.6,train,Ni,O S,Ni,Indonesia,72.3,False,False
+Ni(SO4)2,5.298,5.307,104.0,550.9,train,Ni,O S,Ni,Indonesia,72.3,False,False
+Ni(SO4)2,5.319,5.318,104.0,553.0,train,Ni,O S,Ni,Indonesia,72.3,False,False
+SiNiO4,4.501,4.625,81.4,366.4,train,Ni,O Si,Ni,Indonesia,72.3,False,False
+VNiO4,3.298,2.687,71.5,235.7,validation,Ni V,O,V,China,72.4,False,False
+NiSnO4,3.419,3.77,105.0,358.9,train,Ni Sn,O,Ni,Indonesia,72.3,False,False
+TiNi3O8,3.653,3.769,70.6,257.8,train,Ni Ti,O,Ni,Indonesia,72.3,True,False
+NiS2,1.896,1.885,106.1,201.1,train,Ni,S,Ni,Indonesia,72.3,False,False
+TiNiO4,3.652,3.98,145.3,530.7,train,Ni Ti,O,Ni,Indonesia,72.3,True,False
+TiNi7O16,3.81,3.674,69.6,265.2,train,Ni Ti,O,Ni,Indonesia,72.3,True,False
+Ni(SO4)2,5.484,5.306,202.5,1110.5,train,Ni,O S,Ni,Indonesia,72.3,False,False
+Ni2(SO4)3,5.208,5.032,127.8,665.5,train,Ni,O S,Ni,Indonesia,72.3,False,False
+Ni(PS3)2,2.502,2.655,164.0,410.3,train,Ni,P S,Ni,Indonesia,72.3,False,False
+Ni3TeO8,3.681,3.464,116.7,429.4,test,Ni,O Te,Ni,Indonesia,72.3,False,False
+TiNi3O8,3.675,3.792,70.6,259.4,train,Ni Ti,O,Ni,Indonesia,72.3,True,False
+SiNiO4,4.629,4.752,81.4,376.7,train,Ni,O Si,Ni,Indonesia,72.3,False,False
+V3NiO8,2.857,2.633,151.7,433.3,train,Ni V,O,V,China,72.4,False,False
+NiSnO4,3.852,3.743,105.0,404.5,train,Ni Sn,O,Ni,Indonesia,72.3,False,False
+Ni(WO4)2,4.937,4.383,94.3,465.7,train,Ni W,O,W,China,81.0,False,False
+V2NiO6,2.32,2.746,101.7,235.9,train,Ni V,O,V,China,72.4,False,False
+Ni3SbO8,4.149,3.708,59.1,245.2,train,Ni,O Sb,Ni,Indonesia,72.3,False,False
+SiNiO4,4.613,4.583,81.4,375.4,train,Ni,O Si,Ni,Indonesia,72.3,False,False
+Ti3Ni3(TeO8)2,3.881,4.319,124.9,484.6,validation,Ni Ti,O Te,Ni,Indonesia,72.3,True,False
+SbP2O7,4.577,4.012,88.6,405.3,train,,O P Sb,,,0.0,False,False
+Sb(PO3)4,5.08,4.371,60.3,306.3,train,,O P Sb,,,0.0,False,False
+Rb2V(PO4)2,1.269,1.705,64.0,81.2,train,V,O P Rb,V,China,72.4,False,False
+Sb2(PO4)3,3.226,3.257,97.6,314.8,test,,O P Sb,,,0.0,False,False
+SbP2O7,3.94,4.048,88.6,348.9,train,,O P Sb,,,0.0,False,False
+Sb(PO3)4,4.727,4.316,60.3,285.0,train,,O P Sb,,,0.0,False,False
+RbV(PO4)2,3.003,2.629,80.4,241.5,train,V,O P Rb,V,China,72.4,False,False
+SbP2O7,3.877,4.099,88.6,343.3,train,,O P Sb,,,0.0,False,False
+Sb(PO3)4,4.444,4.565,60.3,267.9,train,,O P Sb,,,0.0,False,False
+SbP2O7,3.013,3.736,88.6,266.8,train,,O P Sb,,,0.0,False,False
+Sn2P5O16,3.476,3.778,80.1,278.5,train,Sn,O P,Sn,China,24.5,False,False
+Sb2P5O16,3.394,4.386,40.5,137.5,train,,O P Sb,,,0.0,False,False
+SbP2O7,3.654,4.048,88.6,323.6,train,,O P Sb,,,0.0,False,False
+Sb3P8O29,3.301,3.816,141.1,465.8,train,,O P Sb,,,0.0,False,False
+Sb(PO3)4,5.091,5.011,60.3,306.9,train,,O P Sb,,,0.0,False,False
+SbPO5,2.641,3.909,111.8,295.4,test,,O P Sb,,,0.0,False,False
+Sb(PO3)5,4.815,4.638,101.0,486.5,train,,O P Sb,,,0.0,False,False
+Sb(PO3)4,4.489,4.463,60.3,270.6,train,,O P Sb,,,0.0,False,False
+Sb(PO3)4,4.992,4.825,60.3,301.0,train,,O P Sb,,,0.0,False,False
+Sb(PO3)4,5.055,4.898,60.3,304.7,train,,O P Sb,,,0.0,False,False
+Sb(PO3)4,4.247,4.846,60.3,256.0,train,,O P Sb,,,0.0,False,False
+RbVPO5,1.424,1.752,105.4,150.0,train,V,O P Rb,V,China,72.4,False,False
+Sb(PO3)4,4.691,4.621,60.3,282.8,train,,O P Sb,,,0.0,False,False
+Sb2P5O18,3.59,4.687,74.3,266.9,test,,O P Sb,,,0.0,False,False
+SnP2O7,1.713,3.299,89.5,153.2,train,Sn,O P,Sn,China,24.5,False,False
+Sb2(PO4)3,3.255,3.245,146.4,476.4,test,,O P Sb,,,0.0,False,False
+Sb(PO3)4,5.051,5.088,60.3,304.5,train,,O P Sb,,,0.0,False,False
+Sb2(PO4)3,3.273,3.381,146.4,479.2,test,,O P Sb,,,0.0,False,False
+Sb(PO3)4,4.708,4.198,60.3,283.8,train,,O P Sb,,,0.0,False,False
+SbP2O7,4.816,4.492,88.6,426.5,train,,O P Sb,,,0.0,False,False
+Sb(PO3)4,4.472,4.345,60.3,269.6,train,,O P Sb,,,0.0,False,False
+SbP2O7,2.954,3.571,88.6,261.6,train,,O P Sb,,,0.0,False,False
+Sb(PO4)2,3.412,3.951,161.2,550.0,train,,O P Sb,,,0.0,False,False
+Sn4(PO4)3,3.79,4.461,35.0,132.5,validation,Sn,O P,Sn,China,24.5,False,False
+Sn(PO3)6,3.364,4.401,43.7,147.0,train,Sn,O P,Sn,China,24.5,False,False
+Sn6P7O24,3.871,3.855,20.3,78.6,test,Sn,O P,Sn,China,24.5,False,False
+Sn(PO3)4,3.1,3.438,60.7,188.2,train,Sn,O P,Sn,China,24.5,False,False
+V2Sn(PO4)3,2.523,2.642,103.2,260.3,train,Sn V,O P,V,China,72.4,False,False
+Sn2P3O10,4.132,4.244,53.9,222.7,train,Sn,O P,Sn,China,24.5,False,False
+Sn(PO3)4,4.1,3.88,59.8,245.0,train,Sn,O P,Sn,China,24.5,False,False
+Sn(PO3)3,2.786,3.747,73.9,206.0,train,Sn,O P,Sn,China,24.5,False,False
+Ti2(PO4)3,2.642,2.291,200.3,529.1,train,Ti,O P,Ti,China,35.0,True,False
+TiP2O7,1.943,2.537,117.2,227.7,train,Ti,O P,Ti,China,35.0,True,False
+Sn(PO3)3,3.47,3.428,73.9,256.5,train,Sn,O P,Sn,China,24.5,False,False
+Sn2(PO4)3,2.439,3.28,98.7,240.7,train,Sn,O P,Sn,China,24.5,False,False
+SrVPO6,2.557,3.859,98.4,251.5,validation,V,O P Sr,V,China,72.4,False,False
+Ti3P3O13,2.033,2.752,59.4,120.7,train,Ti,O P,Ti,China,35.0,True,False
+Sn(PO3)4,3.257,3.688,60.7,197.7,train,Sn,O P,Sn,China,24.5,False,False
+Sn2(PO4)3,2.333,3.316,98.7,230.2,train,Sn,O P,Sn,China,24.5,False,False
+SnP2O7,4.529,3.597,87.4,396.0,train,Sn,O P,Sn,China,24.5,False,False
+Sn(PO3)3,4.359,4.065,73.9,322.2,train,Sn,O P,Sn,China,24.5,False,False
+Ti(PO3)4,3.235,2.946,72.3,233.9,train,Ti,O P,Ti,China,35.0,True,False
+Sn2(PO3)5,4.167,3.542,41.9,174.7,train,Sn,O P,Sn,China,24.5,False,False
+Ti(PO3)4,2.929,2.782,72.3,211.7,train,Ti,O P,Ti,China,35.0,True,False
+VSn(PO4)2,2.615,2.529,143.5,375.4,train,Sn V,O P,V,China,72.4,False,False
+Sn(PO3)3,4.157,3.911,73.9,307.3,train,Sn,O P,Sn,China,24.5,False,False
+Ti2(PO4)3,1.625,2.322,133.5,217.0,train,Ti,O P,Ti,China,35.0,True,False
+SnPO4,4.43,3.847,121.5,538.1,validation,Sn,O P,Sn,China,24.5,False,False
+Sn(PO3)4,2.772,2.913,60.7,168.2,train,Sn,O P,Sn,China,24.5,False,False
+Ti(PO3)5,3.8,2.98,58.7,223.1,train,Ti,O P,Ti,China,35.0,True,False
+TiP2O7,1.599,2.575,117.2,187.3,train,Ti,O P,Ti,China,35.0,True,False
+TiP2O7,1.486,2.534,117.2,174.1,train,Ti,O P,Ti,China,35.0,True,False
+V(PO3)5,5.37,4.385,116.6,626.2,train,V,O P,V,China,72.4,False,False
+VPO5,4.012,3.59,158.7,636.9,test,V,O P,V,China,72.4,False,False
+Ti2P2O9,2.646,2.665,86.8,229.8,train,Ti,O P,Ti,China,35.0,True,False
+Sn(PO3)4,3.869,4.154,59.8,231.2,train,Sn,O P,Sn,China,24.5,False,False
+Sn4(PO4)3,3.931,4.438,35.0,137.4,validation,Sn,O P,Sn,China,24.5,False,False
+Sn(PO3)3,3.523,3.532,73.9,260.4,train,Sn,O P,Sn,China,24.5,False,False
+Sn(PO3)4,2.955,3.032,60.7,179.4,train,Sn,O P,Sn,China,24.5,False,False
+SnP2O7,1.697,3.239,89.5,151.8,train,Sn,O P,Sn,China,24.5,False,False
+Sn3P8O29,1.881,2.492,71.1,133.8,train,Sn,O P,Sn,China,24.5,False,False
+Ti(PO3)4,2.944,3.065,72.3,212.9,train,Ti,O P,Ti,China,35.0,True,False
+V6P7O24,2.455,2.22,29.3,72.0,train,V,O P,V,China,72.4,False,False
+V3(P2O7)2,2.656,2.625,104.2,276.6,test,V,O P,V,China,72.4,False,False
+Sn2P3O10,4.573,4.39,53.9,246.5,train,Sn,O P,Sn,China,24.5,False,False
+Ti3V(PO4)6,2.344,2.703,166.3,389.7,train,Ti V,O P,V,China,72.4,True,False
+Ti(PO3)4,2.704,2.884,72.3,195.5,train,Ti,O P,Ti,China,35.0,True,False
+Ti2(PO4)3,1.285,2.359,133.5,171.6,train,Ti,O P,Ti,China,35.0,True,False
+V2(PO4)3,2.973,2.819,288.5,857.9,train,V,O P,V,China,72.4,False,False
+V2(PO4)3,3.163,3.012,258.6,818.0,train,V,O P,V,China,72.4,False,False
+VPO5,3.832,3.509,158.7,608.3,test,V,O P,V,China,72.4,False,False
+VPO4,2.293,2.371,175.3,402.0,train,V,O P,V,China,72.4,False,False
+V2P3O10,2.647,2.737,74.1,196.1,train,V,O P,V,China,72.4,False,False
+V3P8O29,4.142,3.988,173.5,718.5,train,V,O P,V,China,72.4,False,False
+VPO5,3.161,3.342,158.7,501.8,test,V,O P,V,China,72.4,False,False
+V3(PO4)4,4.332,3.516,145.3,629.3,test,V,O P,V,China,72.4,False,False
+VP2O7,3.883,3.668,115.6,448.9,train,V,O P,V,China,72.4,False,False
+VPO4,2.408,2.289,175.3,422.3,train,V,O P,V,China,72.4,False,False
+V(PO4)2,3.85,3.97,204.8,788.5,train,V,O P,V,China,72.4,False,False
+V(PO4)2,3.698,3.66,204.8,757.3,train,V,O P,V,China,72.4,False,False
+V(PO3)4,4.798,4.359,71.7,344.0,test,V,O P,V,China,72.4,False,False
+VP2O7,3.947,3.924,115.6,456.3,train,V,O P,V,China,72.4,False,False
+V3(P2O7)2,3.038,2.44,104.2,316.5,test,V,O P,V,China,72.4,False,False
+V3(P3O10)2,1.974,3.75,40.3,79.5,test,V,O P,V,China,72.4,False,False
+VP2O7,3.601,3.802,115.6,416.4,train,V,O P,V,China,72.4,False,False
+VP2O7,4.407,4.031,115.6,509.5,train,V,O P,V,China,72.4,False,False
+VP2O7,3.48,3.573,115.6,402.4,train,V,O P,V,China,72.4,False,False
+V3P3O13,4.876,3.311,58.2,283.7,validation,V,O P,V,China,72.4,False,False
+V(PO3)4,4.092,3.7,140.8,576.1,test,V,O P,V,China,72.4,False,False
+V(PO3)4,4.568,4.096,71.7,327.6,test,V,O P,V,China,72.4,False,False
+VP2O7,3.487,3.771,115.6,403.1,train,V,O P,V,China,72.4,False,False
+V3(P3O10)2,3.206,3.603,40.3,129.1,test,V,O P,V,China,72.4,False,False
+VPO4,2.403,2.472,118.7,285.2,train,V,O P,V,China,72.4,False,False
+V(PO3)4,4.761,4.448,71.7,341.4,test,V,O P,V,China,72.4,False,False
+V(PO3)3,2.76,3.341,90.9,251.0,train,V,O P,V,China,72.4,False,False
+V2P5O16,2.701,3.081,150.7,407.0,test,V,O P,V,China,72.4,False,False
+V(PO3)4,4.835,4.455,71.7,346.7,test,V,O P,V,China,72.4,False,False
+V3(PO4)4,4.04,3.64,145.3,586.8,test,V,O P,V,China,72.4,False,False
+V3P6WO24,2.852,3.052,169.6,483.8,train,V W,O P,W,China,81.0,False,False
+P5WO15,4.295,3.774,90.5,388.5,test,W,O P,W,China,81.0,False,False
+P4WO12,3.079,3.289,52.9,162.9,validation,W,O P,W,China,81.0,False,False
+V(PO4)2,3.886,3.725,204.8,795.9,train,V,O P,V,China,72.4,False,False
+V(PO3)3,2.672,3.381,90.9,243.0,train,V,O P,V,China,72.4,False,False
+V(PO4)2,3.778,4.009,105.2,397.5,train,V,O P,V,China,72.4,False,False
+V3(PO4)4,4.404,3.398,145.3,639.7,test,V,O P,V,China,72.4,False,False
+VPO5,3.649,3.822,158.7,579.2,test,V,O P,V,China,72.4,False,False
+VPO5,3.815,3.626,158.7,605.6,test,V,O P,V,China,72.4,False,False
+V9(P2O7)8,2.972,2.805,192.7,572.7,train,V,O P,V,China,72.4,False,False
+P2WO8,3.609,3.349,70.4,254.1,test,W,O P,W,China,81.0,False,False
+VP2O7,4.387,3.59,115.6,507.2,train,V,O P,V,China,72.4,False,False
+V(PO3)4,4.784,4.352,71.7,343.1,test,V,O P,V,China,72.4,False,False
+V2P2O9,4.139,3.398,85.1,352.4,train,V,O P,V,China,72.4,False,False
+P3W2O13,3.454,3.432,39.7,137.0,train,W,O P,W,China,81.0,False,False
+P3W2O13,3.3,3.44,39.7,130.9,train,W,O P,W,China,81.0,False,False
+VPO5,4.033,3.858,158.7,640.1,test,V,O P,V,China,72.4,False,False
+VP2O7,4.477,4.094,115.6,517.6,train,V,O P,V,China,72.4,False,False
+VP2O7,2.908,2.788,224.5,652.8,train,V,O P,V,China,72.4,False,False
+VPO5,3.107,3.003,304.9,947.3,test,V,O P,V,China,72.4,False,False
+V(PO3)3,3.399,3.155,90.9,309.0,train,V,O P,V,China,72.4,False,False
+V(PO4)2,4.733,4.551,105.2,497.9,train,V,O P,V,China,72.4,False,False
+V(PO4)2,3.99,3.653,204.8,817.3,train,V,O P,V,China,72.4,False,False
+VPO5,3.274,3.432,158.7,519.6,test,V,O P,V,China,72.4,False,False
+V(PO3)5,5.094,4.667,116.6,594.0,train,V,O P,V,China,72.4,False,False
+V(PO3)4,4.285,4.494,71.7,307.2,test,V,O P,V,China,72.4,False,False
+VP4O13,4.42,5.102,67.6,298.6,train,V,O P,V,China,72.4,False,False
+V2(PO4)3,3.708,3.588,131.5,487.6,train,V,O P,V,China,72.4,False,False
+VPO4,2.176,2.378,175.3,381.5,train,V,O P,V,China,72.4,False,False
+P2WO8,3.993,3.971,138.3,552.1,test,W,O P,W,China,81.0,False,False
+P4WO13,5.21,4.668,51.3,267.2,validation,W,O P,W,China,81.0,False,False
+V4(PO4)3,1.915,1.863,54.1,103.5,train,V,O P,V,China,72.4,False,False
+P2WO7,3.906,2.632,73.5,287.0,test,W,O P,W,China,81.0,False,False
+P3(WO6)2,2.442,2.463,119.4,291.6,validation,W,O P,W,China,81.0,False,False
+P3W2O13,3.293,3.495,39.7,130.7,train,W,O P,W,China,81.0,False,False
+P5(WO6)4,3.36,3.824,62.1,208.6,train,W,O P,W,China,81.0,False,False
+V(PO3)4,4.467,4.368,71.7,320.3,test,V,O P,V,China,72.4,False,False
+P8W3O29,3.609,3.212,181.9,656.7,train,W,O P,W,China,81.0,False,False
+VP2O7,2.78,2.933,224.5,624.1,train,V,O P,V,China,72.4,False,False
+V4P9O32,4.106,3.982,179.9,738.5,train,V,O P,V,China,72.4,False,False
+V2P3O11,3.204,3.387,71.0,227.3,validation,V,O P,V,China,72.4,False,False
+V2P5O18,4.263,3.908,92.5,394.3,test,V,O P,V,China,72.4,False,False
+V(PO4)2,3.947,3.768,204.8,808.4,train,V,O P,V,China,72.4,False,False
+V(PO3)4,5.046,4.401,71.7,361.8,test,V,O P,V,China,72.4,False,False
+VP2O7,3.075,2.977,224.5,690.4,train,V,O P,V,China,72.4,False,False
+V5(P3O11)2,2.199,2.395,130.7,287.4,train,V,O P,V,China,72.4,False,False
+V4P7O24,3.304,3.396,33.0,109.1,train,V,O P,V,China,72.4,False,False
+P2WO7,2.437,2.625,73.5,179.1,test,W,O P,W,China,81.0,False,False
+P4WO13,4.324,4.513,101.2,437.7,validation,W,O P,W,China,81.0,False,False
+P3(WO6)2,2.399,2.607,119.4,286.5,validation,W,O P,W,China,81.0,False,False
+P2WO8,2.749,3.093,135.8,373.5,test,W,O P,W,China,81.0,False,False
+P4WO12,3.387,2.788,52.9,179.1,validation,W,O P,W,China,81.0,False,False
+P4WO12,3.64,3.452,52.9,192.6,validation,W,O P,W,China,81.0,False,False
+P(WO4)2,2.326,3.066,50.2,116.8,train,W,O P,W,China,81.0,False,False
+P4WO12,3.321,2.904,52.9,175.7,validation,W,O P,W,China,81.0,False,False
+P4WO12,3.508,3.44,52.9,185.5,validation,W,O P,W,China,81.0,False,False
+P2WO8,3.732,3.846,70.4,262.7,test,W,O P,W,China,81.0,False,False
+P4WO12,3.57,3.096,52.9,188.8,validation,W,O P,W,China,81.0,False,False
+Pr(WO4)2,4.948,5.17,41.6,206.1,train,W,O Pr,W,China,81.0,False,False
