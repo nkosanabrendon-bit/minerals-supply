@@ -1,5 +1,22 @@
 # Battery Minerals: Where Do the Elements in Battery Candidates Come From?
 
+Live demo: https://python3 - << 'PY'
+import subprocess
+url = subprocess.check_output(["pbpaste"]).decode().strip()
+if not url.startswith("http"):
+    url = "https://" + url
+assert "streamlit.app" in url, "Copy the app link first"
+t = open("README.md").read()
+note = "\nLive demo: " + url + "\n"
+first = t.index("\n")
+t = t[:first + 1] + note + t[first + 1:]
+open("README.md", "w").write(t)
+print("Added link:", url)
+PY
+head -4 README.md
+git add README.md
+git commit -m "Add link to live app"
+
 A small data project that links battery electrode materials (Materials Project data, from my battery-materials-explorer project) to where their metals are mined (USGS Mineral Commodity Summaries 2026).
 
 Data source for mining: USGS Mineral Commodity Summaries 2026, world mine production by country, 2025 estimates. https://doi.org/10.3133/mcs2026
